@@ -1,2 +1,3 @@
 # india-local-government-directory
-Data from from https://lgdirectory.gov.in
+
+Data dump downloaded and organisied from https://lgdirectory.gov.in

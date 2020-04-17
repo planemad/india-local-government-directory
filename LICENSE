@@ -1,21 +1,18 @@
-MIT License
+Government Open Data License – India
 
-Copyright (c) 2020 Arun Ganesh
+Copyright (c) Ministry of Panchayati Raj 2020, Local Government Directory
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Terms and Conditions of Use of Data
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+a . Attribution: The user must acknowledge the provider, source, and license of data by explicitly publishing the attribution statement11, including the DOI (Digital Object Identifier), or the URL (Uniform Resource Locator), or the URI (Uniform Resource Identifier) of the data concerned.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+b . Attribution of Multiple Data: If the user is using multiple data together and/or listing of sources of multiple data is not possible, the user
+may provide a link to a separate page/list that includes the attribution statements and specific URL/URI of all data used.
+
+c . Non-endorsement: The user must not indicate or suggest in any manner that the data provider(s) endorses their use and/or the user.
+
+d . No Warranty: The data provider(s) are not liable for any errors or omissions, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by its use or otherwise arising in connection with this license or the data, even if specifically advised of the possibility of such loss, injury or damage. Under any circumstances, the user may not hold the data provider(s) responsible for: i) any error, omission or loss of data, and/or ii) any undesirable consequences due to the use of the data as part of an application/product/service (including violation of any prevalent law).
+
+e . Continuity of Provision: The data provider(s) will strive for continuously updating the data concerned, as new data regarding the same becomes available. However, the data provider(s) do not guarantee the continued supply of updated or up-to-date versions of the data, and will not be held liable in case the continued supply of updated data is not provided.
+
+https://data.gov.in/government-open-data-license-india
