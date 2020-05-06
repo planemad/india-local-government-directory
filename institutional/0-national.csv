@@ -1,3 +1,166 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ebf4faf3b17f7b7a657e6665775f6ad45d92f5e855e4c84b5c0dbdc548156181
-size 13417
+S.No.;Org Code;Org Name;Type Code;Type Name;State Code;State Name ;Parent Org Code;Parent Org Name
+1;1175;Allahabad Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+2;1176;Andhra Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+3;1177;Bank of Baroda;7;Nationalized Bank;;;1174;Department of Financial Service
+4;1178;Bank of India;7;Nationalized Bank;;;1174;Department of Financial Service
+5;1179;Bank of Maharashtra;7;Nationalized Bank;;;1174;Department of Financial Service
+6;1067;Bharat Sanchar Nigam Limited;5;Government Undertaking (PSU);;;1066;Department of Telecommunication
+7;1180;Canara Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+8;1181;Central Bank of India;7;Nationalized Bank;;;1174;Department of Financial Service
+9;741;Comptroller And Auditor General Of India;2;Department;;;740;Comptroller And Auditor General Of India
+10;1182;Corporation Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+11;1183;Dena Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+12;1587;Department For Promotion Of Industry And Internal Trade;2;Department;;;1565;Ministry Of Commerce And Industry
+13;543;Department of Adi Dravidar and Tribal Welfare;2;Department;;;490;Ministry of Tribal Affarirs
+14;1611;Department Of Administrative Reforms And Public Grievances (DARPG);2;Department;;;1578;Ministry Of Personnel, Public Grievances And Pensions
+15;511;Department of Agriculture and Cooperation;2;Department;;;498;Ministry of Agriculture and Cooperation
+16;513;Department of Agriculture Research and Education;2;Department;;;498;Ministry of Agriculture and Cooperation
+17;512;Department of Animal Husbandary, Diary and Fisheries;2;Department;;;498;Ministry of Agriculture and Cooperation
+18;1614;Department Of Biotechnology;2;Department;;;1579;Ministry Of Science And Technology
+19;1604;Department Of Border Management;2;Department;;;1574;Ministry Of Home Affairs
+20;1584;Department Of Chemicals And Petrochemicals;2;Department;;;1562;Ministry Of Chemicals And Fertilizers
+21;1588;Department Of Commerce;2;Department;;;1565;Ministry Of Commerce And Industry
+22;1589;Department Of Consumer Affairs;2;Department;;;1566;Ministry Of Consumer Affairs, Food And Public Distribution
+23;1592;Department Of Defence;2;Department;;;1569;Ministry Of Defence
+24;1593;Department Of Defence Production;2;Department;;;1569;Ministry Of Defence
+25;1594;Department Of Defence Research And Development;2;Department;;;1569;Ministry Of Defence
+26;1560;Department of Drinking Water and Sanitation;2;Department;;;1559;Ministry of Jal Shakti
+27;506;Department of Drinking Water Supply;2;Department;;;487;Ministry of Rural Development
+28;1597;Department Of Economic Affairs;2;Department;;;499;Ministry of Finance
+29;1617;Department Of Empowerment Of Persons With Disabilities;2;Department;;;712;Ministry of Social Justice and Empowerment
+30;514;Department of Expenditure;2;Department;;;499;Ministry of Finance
+31;1595;Department Of Ex-Servicemen Welfare;2;Department;;;1569;Ministry Of Defence
+32;1484;Department of External Affairs;2;Department;;;626;Ministry of External Affairs
+33;1585;Department Of Fertilizers;2;Department;;;1562;Ministry Of Chemicals And Fertilizers
+34;1174;Department of Financial Service;2;Department;;;499;Ministry of Finance
+35;1590;Department Of Food And Public Distribution;2;Department;;;1566;Ministry Of Consumer Affairs, Food And Public Distribution
+36;541;Department of Forest and Environment;2;Department;;;493;Ministry of Environment and Forests
+37;509;Department of Health and Family Welfare;2;Department;;;489;Ministry of Health
+38;1601;Department Of Health Research;2;Department;;;489;Ministry of Health
+39;1602;Department Of Heavy Industry;2;Department;;;1573;Ministry Of Heavy Industries And Public Enterprises
+40;1608;Department Of Higher Education;2;Department;;;488;Ministry of Human Resource Development
+41;1605;Department Of Home;2;Department;;;1574;Ministry Of Home Affairs
+42;508;Department of Human Resource and Development;2;Department;;;488;Ministry of Human Resource Development
+43;1598;Department Of Investment And Public Asset Management;2;Department;;;499;Ministry of Finance
+44;507;Department of Land Resources;2;Department;;;487;Ministry of Rural Development
+45;564;Department of Legal Affairs;2;Department;;;563;Ministry of Law and Justice
+46;1147;Department of National Highways;2;Department;;;1146;Ministry of Road Transport & Highways
+47;538;Department of New and Renewable Energy;2;Department;;;502;Ministry of New and Renewable Resources
+48;1606;Department Of Official Language;2;Department;;;1574;Ministry Of Home Affairs
+49;1612;Department Of Pension And Pensioners Welfare;2;Department;;;1578;Ministry Of Personnel, Public Grievances And Pensions
+50;1613;Department Of Personnel and Training;2;Department;;;1578;Ministry Of Personnel, Public Grievances And Pensions
+51;1586;Department Of Pharmaceuticals;2;Department;;;1562;Ministry Of Chemicals And Fertilizers
+52;1149;Department of Posts;2;Department;;;1065;Ministry of Communication
+53;539;Department of Power;2;Department;;;492;Ministry of Power
+54;537;Department of Programme Implementation;2;Department;;;500;Ministry of Statistics and Programme Implementation
+55;1603;Department Of Public Enterprises;2;Department;;;1573;Ministry Of Heavy Industries And Public Enterprises
+56;1599;Department Of Revenue;2;Department;;;499;Ministry of Finance
+57;505;Department of Rural Development;2;Department;;;487;Ministry of Rural Development
+58;1162;Department of School Education & Literacy;2;Department;;;488;Ministry of Human Resource Development
+59;1615;Department Of Science And Technology;2;Department;;;1579;Ministry Of Science And Technology
+60;1616;Department Of Scientific And Industrial Research;2;Department;;;1579;Ministry Of Science And Technology
+61;1238;Department of Socail Justice;2;Department;;;712;Ministry of Social Justice and Empowerment
+62;1618;Department Of Sports;2;Department;;;520;Ministry of Youth Affairs & Sports
+63;1607;Department Of States;2;Department;;;1574;Ministry Of Home Affairs
+64;536;Department of Statistics;2;Department;;;500;Ministry of Statistics and Programme Implementation
+65;1066;Department of Telecommunication;2;Department;;;1065;Ministry of Communication
+66;535;Department of Urban Development;2;Department;;;501;Ministry of Urban Development
+67;1609;Department Of Water Resources, River Development And Ganga Rejuvenation;2;Department;;;1559;Ministry of Jal Shakti
+68;540;Department of Women and Child Development;2;Department;;;503;Ministry of Woman and Child Development
+69;1619;Department Of Youth Affairs;2;Department;;;520;Ministry of Youth Affairs & Sports
+70;716;DIT;2;Department;;;494;Ministry of Communication and IT
+71;719;Employees Provident Fund Organisation;2;Department;;;496;Ministry of Labour
+72;1202;Exim Bank;11;Financial Institute;;;1174;Department of Financial Service
+73;1201;General Insurance Corporation of India;12;Govt. Insurance company;;;1174;Department of Financial Service
+74;1186;IDBI;7;Nationalized Bank;;;1174;Department of Financial Service
+75;1206;IFCI Ltd;11;Financial Institute;;;1174;Department of Financial Service
+76;1600;Income Tax Department;2;Department;;;499;Ministry of Finance
+77;1596;India Meteorological Department (IMD);2;Department;;;1571;Ministry Of Earth Sciences
+78;1185;Indian Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+79;1184;Indian Overseas Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+80;1164;Indian Railways;2;Department;;;1163;Ministry of Railways
+81;1150;India Post;4;Attached Office;;;1149;Department of Posts
+82;1610;Legislative Department;2;Department;;;563;Ministry of Law and Justice
+83;1196;Life India Insurance;12;Govt. Insurance company;;;1174;Department of Financial Service
+84;498;Ministry of Agriculture and Cooperation;1;Ministry;;;;
+85;1561;Ministry Of Ayush;1;Ministry;;;;
+86;1562;Ministry Of Chemicals And Fertilizers;1;Ministry;;;;
+87;1563;Ministry Of Civil Aviation;1;Ministry;;;;
+88;1564;Ministry Of Coal;1;Ministry;;;;
+89;1565;Ministry Of Commerce And Industry;1;Ministry;;;;
+90;494;Ministry of Communication and IT;1;Ministry;;;;
+91;1566;Ministry Of Consumer Affairs, Food And Public Distribution;1;Ministry;;;;
+92;1567;Ministry Of Corporate Affairs;1;Ministry;;;;
+93;1568;Ministry Of Culture;1;Ministry;;;;
+94;1569;Ministry Of Defence;1;Ministry;;;;
+95;1570;Ministry Of Development Of North Eastern Region;1;Ministry;;;;
+96;519;Ministry of Drinking Water and Sanitation;1;Ministry;;;;
+97;1571;Ministry Of Earth Sciences;1;Ministry;;;;
+98;510;Ministry of Electronics & Information Technology;2;Department;;;494;Ministry of Communication and IT
+99;493;Ministry of Environment and Forests;1;Ministry;;;;
+100;626;Ministry of External Affairs;1;Ministry;;;;
+101;1481;Ministry of External Affairs;1;Ministry;;;;
+102;499;Ministry of Finance;1;Ministry;;;;
+103;1572;Ministry Of Fisheries;1;Ministry;;;;
+104;495;Ministry of Food and Public Distribution;1;Ministry;;;;
+105;489;Ministry of Health;1;Ministry;;;;
+106;1573;Ministry Of Heavy Industries And Public Enterprises;1;Ministry;;;;
+107;1574;Ministry Of Home Affairs;1;Ministry;;;;
+108;518;Ministry of Housing & Urban Poverty Alleviation;1;Ministry;;;;
+109;488;Ministry of Human Resource Development;1;Ministry;;;;
+110;1575;Ministry Of Information And Broadcasting;1;Ministry;;;;
+111;496;Ministry of Labour;1;Ministry;;;;
+112;563;Ministry of Law and Justice;1;Ministry;;;;
+113;497;Ministry of Micro, Small and Medium Enterprises;1;Ministry;;;;
+114;1576;Ministry Of Mines;1;Ministry;;;;
+115;521;Ministry of Minority Affairs;1;Ministry;;;;
+116;502;Ministry of New and Renewable Resources;1;Ministry;;;;
+117;688;Ministry of Panchayati Raj;2;Department;;;486;Ministry of Panchayati Raj
+118;486;Ministry of Panchayati Raj;1;Ministry;;;;
+119;1577;Ministry Of Parliamentary Affairs;1;Ministry;;;;
+120;1578;Ministry Of Personnel, Public Grievances And Pensions;1;Ministry;;;;
+121;492;Ministry of Power;1;Ministry;;;;
+122;1146;Ministry of Road Transport & Highways;1;Ministry;;;;
+123;487;Ministry of Rural Development;1;Ministry;;;;
+124;1579;Ministry Of Science And Technology;1;Ministry;;;;
+125;1580;Ministry Of Shipping;1;Ministry;;;;
+126;712;Ministry of Social Justice and Empowerment;1;Ministry;;;;
+127;500;Ministry of Statistics and Programme Implementation;1;Ministry;;;;
+128;1581;Ministry Of Steel;1;Ministry;;;;
+129;504;Ministry of Textiles;1;Ministry;;;;
+130;1582;Ministry Of Tourism;1;Ministry;;;;
+131;490;Ministry of Tribal Affarirs;1;Ministry;;;;
+132;501;Ministry of Urban Development;1;Ministry;;;;
+133;491;Ministry of Water Resources;1;Ministry;;;;
+134;503;Ministry of Woman and Child Development;1;Ministry;;;;
+135;520;Ministry of Youth Affairs & Sports;1;Ministry;;;;
+136;1203;National Bank for Agriculture and Rural Development;11;Financial Institute;;;1174;Department of Financial Service
+137;717;National Commission for Scheduled Tribes;2;Department;;;712;Ministry of Social Justice and Empowerment
+138;1148;National Highways Authority of India;3;Autonomous Body;;;1147;Department of National Highways
+139;1205;National Housing Bank;11;Financial Institute;;;1174;Department of Financial Service
+140;625;National Informatics Centre;4;Attached Office;;;510;Ministry of Electronics & Information Technology
+141;1488;National Informatics Centre Services Inc.(NICSI);6;Section 25 Company;;;510;Ministry of Electronics & Information Technology
+142;595;National Institute of Rural Development & Panchayati Raj;3;Autonomous Body;;;505;Department of Rural Development
+143;1200;National Insurance Co Ltd.;12;Govt. Insurance company;;;1174;Department of Financial Service
+144;1239;National Land Records Modernization Programme;2;Department;;;487;Ministry of Rural Development
+145;1161;National Skill Development Corporation India;2;Department;;;1160;Ministry of Skill Development And Entrepreneurship
+146;1197;New India Assurance;12;Govt. Insurance company;;;1174;Department of Financial Service
+147;1187;Oriental Bank of commerce;7;Nationalized Bank;;;1174;Department of Financial Service
+148;1199;Oriental Insurance Company Ltd.;12;Govt. Insurance company;;;1174;Department of Financial Service
+149;542;Panchayati Raj Department;2;Department;;;486;Ministry of Panchayati Raj
+150;1189;Punjab National Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+151;1188;Punjab & Sind Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+152;1213;Reserve Bank of India;7;Nationalized Bank;;;1174;Department of Financial Service
+153;1204;Small Industries Development Bank of India;11;Financial Institute;;;1174;Department of Financial Service
+154;1190;State Bank of India;7;Nationalized Bank;;;1174;Department of Financial Service
+155;1191;Syndicate Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+156;2;Test Department;2;Department;;;1;
+157;1;Test Ministry;1;Ministry;;;;
+158;713;Test MK Mist;1;Ministry;;;;
+159;715;Test MK Mist;1;Ministry;;;;
+160;714;Test MK Mist;1;Ministry;;;;
+161;1192;UCO Bank;7;Nationalized Bank;;;1174;Department of Financial Service
+162;1193;Union Bank of India;7;Nationalized Bank;;;1174;Department of Financial Service
+163;1194;United Bank of India;7;Nationalized Bank;;;1174;Department of Financial Service
+164;1198;United Insurance Company Ltd.;12;Govt. Insurance company;;;1174;Department of Financial Service
+165;1195;Vijaya Bank;7;Nationalized Bank;;;1174;Department of Financial Service

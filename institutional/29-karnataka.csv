@@ -1,3 +1,147 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84bef70895af1f9e1f3bdf514c053c7245840da7fcdb19723c2cb37a45872850
-size 10925
+S.No.;Org Code;Org Name;Type Code;Type Name;State Code;State Name ;Parent Org Code;Parent Org Name
+1;178;AGRICULTURE AND HORTICULTURE;2;Department;29;KARNATAKA;;
+2;1299;Agriculture Department;2;Department;29;KARNATAKA;;
+3;1301;AH&F;2;Department;29;KARNATAKA;;
+4;1489;Akkamahadevi University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+5;353;ANIMAL HUSBANDARY AND VETERNARY SCIENCES;2;Department;29;KARNATAKA;;
+6;358;ART AND CULTURE LIBRARY;2;Department;29;KARNATAKA;;
+7;351;BACKWARD CLASSES AND MINORITIES;2;Department;29;KARNATAKA;;
+8;1317;Backward Classes Department;2;Department;29;KARNATAKA;;
+9;1500;Bangalore Central University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+10;1062;Bangalore Development Authority;2;Department;29;KARNATAKA;;
+11;1494;Bangalore North University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+12;1501;Bangalore University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+13;1521;Bangalore Water Supply and Sewerage Board;2;Department;29;KARNATAKA;;
+14;1403;BESCOM;4;Attached Office;29;KARNATAKA;1104;Energy Department
+15;1404;CESCOM;4;Attached Office;29;KARNATAKA;1104;Energy Department
+16;1328;Chief Minister Relief Fund (CMRF);2;Department;29;KARNATAKA;;
+17;1302;C&I;2;Department;29;KARNATAKA;;
+18;1410;Commerce and Industries;2;Department;29;KARNATAKA;;
+19;1105;Commerical & Industries;2;Department;29;KARNATAKA;;
+20;1303;Cooperation Department;2;Department;29;KARNATAKA;;
+21;355;CO-OPERATION DEPARTMENT;2;Department;29;KARNATAKA;;
+22;1496;Davangere University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+23;804;Department for Empowerment of Differently Abled and Senior Citizen;3;Autonomous Body;29;KARNATAKA;352;WOMEN AND CHILD DEVELOPMENT
+24;1277;Department of Animal Husbandry and Veterinary Services;2;Department;29;KARNATAKA;;
+25;1024;Department of Ayurveda, Yoga, Naturopathy, Unani, Siddha and Homeopathy;2;Department;29;KARNATAKA;;
+26;1209;Department of Collegiate Education;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+27;1280;Department of Electrical Inspectorate;2;Department;29;KARNATAKA;;
+28;1297;Department of Factories Boilers Industrial Safety & Health;2;Department;29;KARNATAKA;;
+29;1103;Department of Food, Civil Supplies & Consumer Affairs;2;Department;29;KARNATAKA;;
+30;1172;Department of Higher Education;2;Department;29;KARNATAKA;;
+31;1281;Department of Horticulture;2;Department;29;KARNATAKA;;
+32;1550;Department of Industrial Training and Employment;2;Department;29;KARNATAKA;;
+33;1000;Department of Information and Public Relations;2;Department;29;KARNATAKA;;
+34;1247;Department of Information Technology;2;Department;29;KARNATAKA;;
+35;947;Department of Kannada & Culture;2;Department;29;KARNATAKA;;
+36;1061;Department of Labour;2;Department;29;KARNATAKA;;
+37;1528;Department of Legal Metrology;4;Attached Office;29;KARNATAKA;1103;Department of Food, Civil Supplies & Consumer Affairs
+38;1106;Department of Medical Education;2;Department;29;KARNATAKA;;
+39;1230;Department of Mines and Geology;2;Department;29;KARNATAKA;;
+40;989;Department of Personnel & Administrative Reforms;2;Department;29;KARNATAKA;;
+41;1272;Department of Public Instruction;2;Department;29;KARNATAKA;;
+42;806;Department of Public Libraries;2;Department;29;KARNATAKA;;
+43;1296;Department of Public Library;2;Department;29;KARNATAKA;;
+44;1107;Department of Water Resources;2;Department;29;KARNATAKA;;
+45;1023;Department of Youth Empowerment and Sports;2;Department;29;KARNATAKA;;
+46;356;DEPARTMENT OF YOUTH SERVICES AND SPORTS;2;Department;29;KARNATAKA;;
+47;1392;Directorate of Social Security and Pensions;4;Attached Office;29;KARNATAKA;886;Revenue Department
+48;1173;Directorate of Technical Education;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+49;1304;DPAR;2;Department;29;KARNATAKA;;
+50;1330;Drugs Control Department;2;Department;29;KARNATAKA;;
+51;90;Education;2;Department;29;KARNATAKA;;
+52;887;Election Commission;2;Department;29;KARNATAKA;;
+53;1104;Energy Department;2;Department;29;KARNATAKA;;
+54;1307;Finance Department (Budget);2;Department;29;KARNATAKA;;
+55;1308;Finance Department (Exp.);2;Department;29;KARNATAKA;;
+56;354;FISHERIES DEPARTMENT;2;Department;29;KARNATAKA;;
+57;1309;Food & Civil Supplies;2;Department;29;KARNATAKA;;
+58;92;FOREST;2;Department;29;KARNATAKA;;
+59;1416;Forest Department;2;Department;29;KARNATAKA;;
+60;1316;Forests (FEE);2;Department;29;KARNATAKA;;
+61;1405;GESCOM;4;Attached Office;29;KARNATAKA;1104;Energy Department
+62;1498;Gulbarga University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+63;347;HANDLOOMS AND TEXTILES;2;Department;29;KARNATAKA;;
+64;177;HEALTH AND FAMILY WELFARE;2;Department;29;KARNATAKA;;
+65;1406;HESCOM;4;Attached Office;29;KARNATAKA;1104;Energy Department
+66;1305;Higher Education Department;2;Department;29;KARNATAKA;;
+67;1300;Horticulture Department;2;Department;29;KARNATAKA;;
+68;1311;Housing Department;2;Department;29;KARNATAKA;;
+69;348;INDIAN SYSTEM OF MEDICINE;2;Department;29;KARNATAKA;;
+70;1327;Information Technology BT & ST;2;Department;29;KARNATAKA;;
+71;357;KANNADA  CULTURE;2;Department;29;KARNATAKA;;
+72;1491;Kannada University -Hampi;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+73;1278;Karnataka Evaluation Authority;2;Department;29;KARNATAKA;;
+74;1541;Karnataka Housing Board;2;Department;29;KARNATAKA;;
+75;1248;Karnataka Information Technology Services;4;Attached Office;29;KARNATAKA;1247;Department of Information Technology
+76;1492;Karnataka Janapada Vishwavidyalaya;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+77;930;Karnataka Legislative Council;2;Department;29;KARNATAKA;;
+78;1472;Karnataka Public Service Commission;2;Department;29;KARNATAKA;;
+79;1288;Karnataka Public Works Department;4;Attached Office;29;KARNATAKA;1284;Public Works, Ports and Inland Water Transport Department
+80;1479;Karnataka Residential Educational Institutions Society;2;Department;29;KARNATAKA;;
+81;87;Karnataka Rural Engineering Services;2;Department;29;KARNATAKA;;
+82;88;Karnataka State Agency Modified;2;Department;29;KARNATAKA;;
+83;1508;KARNATAKA STATE DIPLOMA IN NURSING EXAMINATION BOA;2;Department;29;KARNATAKA;;
+84;1507;KARNATAKA STATE NURSING COUNCIL;2;Department;29;KARNATAKA;;
+85;1473;Karnataka State Open Univerity Mysore;2;Department;29;KARNATAKA;;
+86;1506;KARNATAKA STATE PARA MEDICAL BOARD;2;Department;29;KARNATAKA;;
+87;84;Karnataka State Planning Department;2;Department;29;KARNATAKA;;
+88;1108;Karnataka State Police;2;Department;29;KARNATAKA;;
+89;83;Karnataka State PR Department;2;Department;29;KARNATAKA;;
+90;1408;Karnataka State Road Transport Corporation;2;Department;29;KARNATAKA;;
+91;85;Karnataka State urban Development Department;2;Department;29;KARNATAKA;;
+92;949;Karnataka State Warehousing Corporation;2;Department;29;KARNATAKA;;
+93;1499;Karnataka University Dharwad;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+94;1474;KSGH Music and Performing Arts University;2;Department;29;KARNATAKA;;
+95;1503;Kuvempu University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+96;1321;Labour Department;2;Department;29;KARNATAKA;;
+97;1482;Law Department;2;Department;29;KARNATAKA;;
+98;1313;Law Department;2;Department;29;KARNATAKA;;
+99;1478;Law University;4;Attached Office;29;KARNATAKA;1313;
+100;1502;Manasagangotri university mysore;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+101;1485;Mangalore University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+102;1407;MESCOM;4;Attached Office;29;KARNATAKA;1104;Energy Department
+103;1411;Mines and Geology Department;4;Attached Office;29;KARNATAKA;1410;Commerce and Industries
+104;1319;Mines Tex & SSI;2;Department;29;KARNATAKA;;
+105;91;MINOR IRRIGATION;2;Department;29;KARNATAKA;;
+106;1318;Minority Welfare Department;2;Department;29;KARNATAKA;;
+107;1326;Munisipalities & UDA Department;2;Department;29;KARNATAKA;;
+108;1462;NEKRTC;2;Department;29;KARNATAKA;;
+109;1467;North Western Karnataka Road Transport Corporation;2;Department;29;KARNATAKA;;
+110;1463;NWKRTC;2;Department;29;KARNATAKA;;
+111;89;Panchayat Raj Engineering Department;2;Department;29;KARNATAKA;;
+112;86;Panchayat Raj Engineering Department (PRED);2;Department;29;KARNATAKA;;
+113;1314;Parliamentary Affairs Department;2;Department;29;KARNATAKA;;
+114;1323;Planning Department;2;Department;29;KARNATAKA;;
+115;1285;Ports and Inland Water Transport Department;4;Attached Office;29;KARNATAKA;1284;Public Works, Ports and Inland Water Transport Department
+116;805;Primary and Secondary Education Department;2;Department;29;KARNATAKA;;
+117;1306;Primary & Secondary Education;2;Department;29;KARNATAKA;;
+118;1320;Public Enterprises Department;2;Department;29;KARNATAKA;;
+119;1224;Public Works Department;2;Department;29;KARNATAKA;;
+120;1284;Public Works, Ports and Inland Water Transport Department;2;Department;29;KARNATAKA;;
+121;1487;Rani channamma University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+122;1283;Registrar of Cooperative Societies;4;Attached Office;29;KARNATAKA;355;CO-OPERATION DEPARTMENT
+123;886;Revenue Department;2;Department;29;KARNATAKA;;
+124;1324;Revenue Department (Disaster Mgmt);2;Department;29;KARNATAKA;;
+125;885;Rural Development;2;Department;29;KARNATAKA;;
+126;1325;Rural Development & Panchayat Raj;2;Department;29;KARNATAKA;;
+127;1480;Sanskrit University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+128;1310;Secretary  Home (PCAS) Department;2;Department;29;KARNATAKA;;
+129;1315;Secretary  Public Works Department;2;Department;29;KARNATAKA;;
+130;349;SERICULTURE;2;Department;29;KARNATAKA;;
+131;137;SIRD;3;Autonomous Body;29;KARNATAKA;83;Karnataka State PR Department
+132;350;SOCIAL WELFARE;2;Department;29;KARNATAKA;;
+133;31;Test Department;2;Department;29;KARNATAKA;;
+134;1223;Tourism Department;2;Department;29;KARNATAKA;;
+135;1225;Transport Department;2;Department;29;KARNATAKA;;
+136;1228;Tumkur University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+137;1517;University of Mysore;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+138;1298;Urban Development;2;Department;29;KARNATAKA;;
+139;1495;Vijayanagar Sri Krishnadevaraya University Bellary;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+140;1551;Visvesvaraya Jala Nigam Ltd;4;Attached Office;29;KARNATAKA;1107;Department of Water Resources
+141;1504;Visvesvaraya Technological University Belagavi;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+142;1497;VSK University;4;Attached Office;29;KARNATAKA;1172;Department of Higher Education
+143;1400;Warehouse Department;2;Department;29;KARNATAKA;;
+144;1322;Water Resources Department;2;Department;29;KARNATAKA;;
+145;352;WOMEN AND CHILD DEVELOPMENT;2;Department;29;KARNATAKA;;
+146;1312;Youth Services Department;2;Department;29;KARNATAKA;;

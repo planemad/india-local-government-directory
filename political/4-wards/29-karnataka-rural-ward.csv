@@ -1,3 +1,91 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0269972332e68c5a60219efbf1ca26722c216f9c57741c42c93e2e1730c477c
-size 6842
+Local Body Code,Local Body Name,Local Body Type,District Level Parent Name,Intermediate Level Parent Name,Ward Code,Ward Number,Ward Name (In English),Ward Name (In Local)
+479,BAGALKOT,District Panchayat,,,107271,1,Ward No. 1,Ward No. 1
+483,BALLARI,District Panchayat,,,79334,1,Ward No. 1,Ward No. 1
+482,BELAGAVI,District Panchayat,,,100188,1,Ward No. 1,Ward No. 1
+481,BENGALURU RURAL,District Panchayat,,,112528,1,Ward No. 1,Ward No. 1
+480,BENGALURU URBAN,District Panchayat,,,79701,1,Ward No. 1,Ward No. 1
+484,BIDAR,District Panchayat,,,89686,1,Ward No. 1,Ward No. 1
+574,CHIKBALLAPUR,District Panchayat,,,947455,1,Chikkaballapura (ZP) - Ward No 1,
+574,CHIKBALLAPUR,District Panchayat,,,947457,2,Chikkaballapura (ZP) - Ward No 2,
+574,CHIKBALLAPUR,District Panchayat,,,947459,3,Chikkaballapura (ZP) - Ward No 3,
+574,CHIKBALLAPUR,District Panchayat,,,947461,4,Chikkaballapura (ZP) - Ward No 4,
+574,CHIKBALLAPUR,District Panchayat,,,947466,5,Chikkaballapura (ZP) - Ward No 5,
+574,CHIKBALLAPUR,District Panchayat,,,947472,6,Chikkaballapura (ZP) - Ward No 6,
+574,CHIKBALLAPUR,District Panchayat,,,947482,7,Chikkaballapura (ZP) - Ward No 7,
+574,CHIKBALLAPUR,District Panchayat,,,947485,8,Chikkaballapura (ZP) - Ward No 8,
+574,CHIKBALLAPUR,District Panchayat,,,947488,9,Chikkaballapura (ZP) - Ward No 9,
+574,CHIKBALLAPUR,District Panchayat,,,947594,10,Chikkaballapura (ZP) - Ward No 10,
+574,CHIKBALLAPUR,District Panchayat,,,947599,11,Chikkaballapura (ZP) - Ward No 11,
+574,CHIKBALLAPUR,District Panchayat,,,947612,12,Chikkaballapura (ZP) - Ward No 12,
+574,CHIKBALLAPUR,District Panchayat,,,947615,13,Chikkaballapura (ZP) - Ward No 13,
+574,CHIKBALLAPUR,District Panchayat,,,947618,14,Chikkaballapura (ZP) - Ward No 14,
+574,CHIKBALLAPUR,District Panchayat,,,947622,15,Chikkaballapura (ZP) - Ward No 15,
+574,CHIKBALLAPUR,District Panchayat,,,947626,16,Chikkaballapura (ZP) - Ward No 16,
+574,CHIKBALLAPUR,District Panchayat,,,947628,17,Chikkaballapura (ZP) - Ward No 17,
+574,CHIKBALLAPUR,District Panchayat,,,947629,18,Chikkaballapura (ZP) - Ward No 18,
+574,CHIKBALLAPUR,District Panchayat,,,947634,20,Chikkaballapura (ZP) - Ward No 20,
+574,CHIKBALLAPUR,District Panchayat,,,947637,21,Chikkaballapura (ZP) - Ward No 21,
+574,CHIKBALLAPUR,District Panchayat,,,947639,22,Chikkaballapura (ZP) - Ward No 22,
+574,CHIKBALLAPUR,District Panchayat,,,947641,23,Chikkaballapura (ZP) - Ward No 23,
+574,CHIKBALLAPUR,District Panchayat,,,947646,24,Chikkaballapura (ZP) - Ward No 24,
+574,CHIKBALLAPUR,District Panchayat,,,947674,19,Chikkaballapura (ZP) - Ward No 19,
+574,CHIKBALLAPUR,District Panchayat,,,947705,25,Chikkaballapura (ZP) - Ward No 25,
+574,CHIKBALLAPUR,District Panchayat,,,947706,26,Chikkaballapura (ZP) - Ward No 26,
+574,CHIKBALLAPUR,District Panchayat,,,947708,27,Chikkaballapura (ZP) - Ward No 27,
+487,CHIKKAMAGALURU,District Panchayat,,,92484,1,Ward No. 1,Ward No. 1
+488,CHITRADURGA,District Panchayat,,,118468,1,Ward No. 1,Ward No. 1
+490,DAVANGERE,District Panchayat,,,113030,1,Ward No. 1,Ward No. 1
+491,DHARWAD,District Panchayat,,,112716,1,Ward No. 1,Ward No. 1
+492,GADAG,District Panchayat,,,113101,1,Ward No. 1,Ward No. 1
+494,HASSAN,District Panchayat,,,116644,1,Ward No. 1,Ward No. 1
+495,HAVERI,District Panchayat,,,97049,1,Ward No. 1,Ward No. 1
+493,KALABURAGI,District Panchayat,,,105612,1,Ward No. 1,Ward No. 1
+496,KODAGU,District Panchayat,,,82751,1,Ward No. 1,Ward No. 1
+497,KOLAR,District Panchayat,,,81220,1,Ward No. 1,Ward No. 1
+498,KOPPAL,District Panchayat,,,100554,1,Ward No. 1,Ward No. 1
+499,MANDYA,District Panchayat,,,98719,1,Ward No. 1,Ward No. 1
+500,MYSURU,District Panchayat,,,94260,1,Ward No. 1,Ward No. 1
+501,RAICHUR,District Panchayat,,,115586,1,Ward No. 1,Ward No. 1
+502,SHIVAMOGGA,District Panchayat,,,112819,1,Ward No. 1,Ward No. 1
+503,TUMAKURU,District Panchayat,,,109177,1,Ward No. 1,Ward No. 1
+504,UDUPI,District Panchayat,,,106793,1,Ward No. 1,Ward No. 1
+505,UTTAR KANNAD,District Panchayat,,,111410,1,Ward No. 1,Ward No. 1
+485,VIJAYAPURA,District Panchayat,,,92807,1,Ward No. 1,Ward No. 1
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265478,1,Ward 1,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265479,2,Ward 2,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265480,3,Ward 3,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265481,4,Ward 4,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265482,5,Ward 5,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265483,6,Ward 6,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265484,7,Ward 7,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265485,8,Ward 8,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265486,9,Ward 9,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265487,10,Ward 10,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265488,11,Ward 11,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265489,12,Ward 12,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265490,13,Ward 13,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265491,14,Ward 14,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265492,15,Ward 15,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265493,16,Ward 16,NULL
+273220,BADACHI,Village Panchayat,BELAGAVI,ATHNI,1265494,17,Ward 17,NULL
+217784,BAGEWADI,Village Panchayat,GADAG,MUNDARAGI,95970,1,Ward No. 1,Ward No. 1
+217785,BIDARHALLI,Village Panchayat,GADAG,MUNDARAGI,111425,1,Ward No. 1,Ward No. 1
+217787,DONI,Village Panchayat,GADAG,MUNDARAGI,85598,1,Ward No. 1,Ward No. 1
+217794,KORLAHALLI,Village Panchayat,GADAG,MUNDARAGI,119595,1,Ward No. 1,Ward No. 1
+217795,MEUNDI,Village Panchayat,GADAG,MUNDARAGI,114637,1,Ward No. 1,Ward No. 1
+217810,ABBIGERI,Village Panchayat,GADAG,RON,109393,1,Ward No. 1,Ward No. 1
+217811,ASUTI,Village Panchayat,GADAG,RON,79448,1,Ward No. 1,Ward No. 1
+217813,CHIKKAMANNUR,Village Panchayat,GADAG,RON,96291,1,Ward No. 1,Ward No. 1
+217815,GOGERI,Village Panchayat,GADAG,RON,88354,1,Ward No. 1,Ward No. 1
+217816,HALAKERI,Village Panchayat,GADAG,RON,86957,1,Ward No. 1,Ward No. 1
+217817,HIREHAL,Village Panchayat,GADAG,RON,96279,1,Ward No. 1,Ward No. 1
+217824,KOTHABAL,Village Panchayat,GADAG,RON,107182,1,Ward No. 1,Ward No. 1
+217829,MADALAGERI,Village Panchayat,GADAG,RON,89915,1,Ward No. 1,Ward No. 1
+273219,HALA TADAKALA,Village Panchayat,KALABURAGI,ALAND,1265390,1,Ward 1,NULL
+273219,HALA TADAKALA,Village Panchayat,KALABURAGI,ALAND,1265391,2,Ward 2,NULL
+273219,HALA TADAKALA,Village Panchayat,KALABURAGI,ALAND,1265392,3,Ward 3,NULL
+273219,HALA TADAKALA,Village Panchayat,KALABURAGI,ALAND,1265393,4,Ward 4,NULL
+273219,HALA TADAKALA,Village Panchayat,KALABURAGI,ALAND,1265394,5,Ward 5,NULL
+273219,HALA TADAKALA,Village Panchayat,KALABURAGI,ALAND,1265395,6,Ward 6,NULL
+273219,HALA TADAKALA,Village Panchayat,KALABURAGI,ALAND,1265396,7,Ward 7,NULL
+273219,HALA TADAKALA,Village Panchayat,KALABURAGI,ALAND,1265397,8,Ward 8,NULL
