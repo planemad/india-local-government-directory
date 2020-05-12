@@ -252,10 +252,10 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 277136,1,Balia,बलिया,7,801348,10,BIHAR
 249633,3,Banka,बांका,5,801356,10,BIHAR
 277133,1,Banmankhi,बनमनखी,7,801311,10,BIHAR
-249638,2,Barahiya,बड़हिया,7,801360,10,BIHAR
+249638,2,Barahiya,बड़हिया,7,801360,10,BIHAR
 277131,1,Barauli,बरौली,7,801328,10,BIHAR
 277103,1,Barbigha,बरबीघा,5,801362,10,BIHAR
-249656,1,Barh,बाढ़,5,801382,10,BIHAR
+249656,1,Barh,बाढ़,5,801382,10,BIHAR
 276406,1,BARSOI,बारसोई,7,000000,10,BIHAR
 249624,4,Begusarai,बेगुसराय,4,801346,10,BIHAR
 249661,2,Behea,बिहियाँ,7,801387,10,BIHAR
@@ -293,7 +293,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 249606,1,Gopalganj,गोपालगंज,5,801327,10,BIHAR
 249617,1,Hajipur,हाजीपुर,5,801338,10,BIHAR
 276429,1,Harnaut,हरनौत,7,000000,10,BIHAR
-249636,3,Haveli Kharagpur,हवेली खड़गपुर,7,801359,10,BIHAR
+249636,3,Haveli Kharagpur,हवेली खड़गपुर,7,801359,10,BIHAR
 249643,3,Hilsa,हिलसा,5,801365,10,BIHAR
 249686,3,Hisua,हिसुआ,7,801409,10,BIHAR
 249644,2,Islampur,ईसलामपुर,7,801366,10,BIHAR
@@ -312,7 +312,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 249604,2,Kataiya,कटैया,7,801325,10,BIHAR
 249595,2,Katihar,कटिहार,4,801314,10,BIHAR
 277126,2,Kesaria,केसरिया,7,801287,10,BIHAR
-249625,1,Khagaria,खगड़िया,5,801349,10,BIHAR
+249625,1,Khagaria,खगड़िया,5,801349,10,BIHAR
 249649,1,Khagaul,खगौल,5,801372,10,BIHAR
 249654,2,Khusrupur,खुशरूपुर,7,801380,10,BIHAR
 249590,1,Kishanganj,किशनगंज,5,801310,10,BIHAR
@@ -331,7 +331,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 249647,2,Maner,मनेर,7,801369,10,BIHAR
 249596,2,Manihari,मनिहारी,7,801315,10,BIHAR
 249613,2,Marhaura,मढौरा,7,801334,10,BIHAR
-249652,3,Masaurhi,मसौढ़ी,5,801378,10,BIHAR
+249652,3,Masaurhi,मसौढ़ी,5,801378,10,BIHAR
 277128,1,Mehsi,मेहसी,7,801291,10,BIHAR
 249605,2,Mirganj,मीरगंज,7,801326,10,BIHAR
 276648,1,Mohaniya,मोहनियाँ,7,000000,10,BIHAR
@@ -360,7 +360,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 249560,2,Ramnagar,रामनगर,7,801277,10,BIHAR
 249565,2,Raxaul,रक्सौल,5,801282,10,BIHAR
 249611,2,Rivilganj,रिविलगंज,7,801332,10,BIHAR
-249622,2,Rosera,रोसड़ा,7,801342,10,BIHAR
+249622,2,Rosera,रोसड़ा,7,801342,10,BIHAR
 249599,1,Saharsa,सहरसा,5,801318,10,BIHAR
 253219,2,sahebganj,साहेबगंज,7,801321,10,BIHAR
 249619,1,Samastipur,समस्तीपुर,5,801340,10,BIHAR
@@ -371,14 +371,14 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 249682,3,Sherghati,शेरघाटी,7,801405,10,BIHAR
 249646,2,Silao,सिलाव,7,801368,10,BIHAR
 277132,1,Simari Bakhtiyarpur,सिमरी बख्तियारपुर,7,000000,10,BIHAR
-249575,1,Sitamarhi,सीतामढ़ी,5,801295,10,BIHAR
+249575,1,Sitamarhi,सीतामढ़ी,5,801295,10,BIHAR
 249608,1,Siwan,सिवान,5,801329,10,BIHAR
 249615,2,Sonepur,सोनपुर,7,801336,10,BIHAR
 249566,2,Sugauli,सुगौली,7,801283,10,BIHAR
 249629,3,Sultanganj,सुल्तानगंज,5,801353,10,BIHAR
 249584,1,Supaul,सुपौल,5,801304,10,BIHAR
 290059,1,Sursand,सुरसण्ड,7,000000,10,BIHAR
-277130,1,Teghara,तेघड़ा,7,801344,10,BIHAR
+277130,1,Teghara,तेघड़ा,7,801344,10,BIHAR
 249679,2,Tekari,टेकरी,7,801403,10,BIHAR
 249588,2,Thakurganj,ठाकुरगंज,7,801308,10,BIHAR
 249685,3,Warisaliganj,वारसलीगंज,7,801408,10,BIHAR
@@ -388,18 +388,18 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 253289,1,Adbhar,अड्भर,7,801963,22,CHHATTISGARH
 250635,2,Ahiwara,अहिवारा,5,802004,22,CHHATTISGARH
 250603,1,Akaltara,अकलतरा,5,801951,22,CHHATTISGARH
-250631,1,Ambagarh Chowki,अम्बागढ़ चौकी,7,801994,22,CHHATTISGARH
+250631,1,Ambagarh Chowki,अम्बागढ़ चौकी,7,801994,22,CHHATTISGARH
 250588,4,Ambikapur,अंबिकापुर,4,801927,22,CHHATTISGARH
-253248,2,Antagarh,अंतागढ़,7,802058,22,CHHATTISGARH
+253248,2,Antagarh,अंतागढ़,7,802058,22,CHHATTISGARH
 250650,2,Arang,आरंग,5,802029,22,CHHATTISGARH
 253155,2,Arjunda,अर्जुन्दा,7,802012,22,CHHATTISGARH
-250670,1,Bade Bacheli,बड़े बचेली,5,802068,22,CHHATTISGARH
+250670,1,Bade Bacheli,बड़े बचेली,5,802068,22,CHHATTISGARH
 250662,2,Bagbahara,बागबहरा,5,802047,22,CHHATTISGARH
 253200,1,Bagicha,बागीचा,7,801931,22,CHHATTISGARH
 250579,6,Baikunthpur,बैकुंठपूर,5,801911,22,CHHATTISGARH
 250642,2,Balod,बालोद,5,802015,22,CHHATTISGARH
 250601,1,Baloda,बलोदा,7,801952,22,CHHATTISGARH
-250648,3,Baloda Bazar,बलोदा बाज़ार,5,802022,22,CHHATTISGARH
+250648,3,Baloda Bazar,बलोदा बाज़ार,5,802022,22,CHHATTISGARH
 253119,3,Balrampur,बलरामपुर,5,801918,22,CHHATTISGARH
 253276,1,Baramkela,बरमकेला,7,801944,22,CHHATTISGARH
 253215,1,Barsoor,बारसूर,7,802069,22,CHHATTISGARH
@@ -407,7 +407,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 248143,2,Bastar,नगर पंचायत बस्तर,7,802065,22,CHHATTISGARH
 250632,2,Bemetara,बेमेतरा,5,801997,22,CHHATTISGARH
 253152,2,Berla,बेरला,7,802002,22,CHHATTISGARH
-253245,1,BHAIRAMGARH,भैरमगढ़,7,802077,22,CHHATTISGARH
+253245,1,BHAIRAMGARH,भैरमगढ़,7,802077,22,CHHATTISGARH
 253107,1,Bhakhara,भाखरा,7,802048,22,CHHATTISGARH
 253145,2,Bhanupratappur,भानुप्रतापपुर,7,802055,22,CHHATTISGARH
 250651,3,Bhatapara,भाटापारा,5,802021,22,CHHATTISGARH
@@ -417,7 +417,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 250638,2,Bhilai Charoda,भिलाई चरोदा,4,802007,22,CHHATTISGARH
 253246,1,BHOPALPATNAM,भोपाल पटनम,7,802075,22,CHHATTISGARH
 253244,2,BIJAPUR,बीजापुर,5,802076,22,CHHATTISGARH
-250656,2,Bilaigarh,बिलाई गढ़,7,802028,22,CHHATTISGARH
+250656,2,Bilaigarh,बिलाई गढ़,7,802028,22,CHHATTISGARH
 250616,9,Bilaspur,बिलासपुर,4,801975,22,CHHATTISGARH
 250622,1,Bilha,बिल्हा,7,801980,22,CHHATTISGARH
 253179,2,Birgaon,बिरगांव,4,802033,22,CHHATTISGARH
@@ -438,12 +438,12 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 253286,1,DHABHARA,डभरा,7,801961,22,CHHATTISGARH
 250634,1,Dhamdha,धमधा,7,802003,22,CHHATTISGARH
 248062,2,DHAMTARI,नगर पालिकापरिषद धमतरी,4,802052,22,CHHATTISGARH
-250592,1,Dharamjaigarh,धरमजैगढ़,7,801935,22,CHHATTISGARH
+250592,1,Dharamjaigarh,धरमजैगढ़,7,801935,22,CHHATTISGARH
 250599,2,Dipka,दीपका,5,801947,22,CHHATTISGARH
 253156,2,Dondi,डोंडी,7,802018,22,CHHATTISGARH
 253159,2,Dondilohara,डोंडीलोहरा,7,802014,22,CHHATTISGARH
 250630,4,Dongargaon,डोंगरगांव,7,801993,22,CHHATTISGARH
-250628,1,Dongargarh,डोंगरगढ़,5,801990,22,CHHATTISGARH
+250628,1,Dongargarh,डोंगरगढ़,5,801990,22,CHHATTISGARH
 253218,1,Dornapal,दोरनापाल,7,802072,22,CHHATTISGARH
 250640,1,Durg,दुर्ग,4,802009,22,CHHATTISGARH
 253180,2,Fingeswar,फिंगेश्वर,7,802036,22,CHHATTISGARH
@@ -451,7 +451,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 253182,3,Gariabandh,गरियाबंद,5,802040,22,CHHATTISGARH
 250610,1,Gaurella,गौरेल्ला,7,801965,22,CHHATTISGARH
 250668,1,Geedam,गीदम,7,802070,22,CHHATTISGARH
-250593,1,Gharghoda,घरघोड़ा,7,801937,22,CHHATTISGARH
+250593,1,Gharghoda,घरघोड़ा,7,801937,22,CHHATTISGARH
 250649,2,Gobra Nawapara,गोबर नवापारा,5,802031,22,CHHATTISGARH
 253154,2,Gunderdehi,गुंडरदेही,7,802013,22,CHHATTISGARH
 253158,2,Gurur,गुरुर,7,802019,22,CHHATTISGARH
@@ -466,14 +466,14 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 250597,2,Katghora,कटघोरा,5,801945,22,CHHATTISGARH
 250623,1,Kawardha,कवर्धा,5,801981,22,CHHATTISGARH
 248063,2,Keshkal,नगर पंचायत केशकाल,7,802060,22,CHHATTISGARH
-262094,4,Khairagarh municipality,खैरागढ़,5,801989,22,CHHATTISGARH
+262094,4,Khairagarh municipality,खैरागढ़,5,801989,22,CHHATTISGARH
 250608,1,Kharod,खरोद,7,801960,22,CHHATTISGARH
 250652,1,Kharora,खरोरा,7,802039,22,CHHATTISGARH
 250595,4,Kharsia,खरसिया,5,801941,22,CHHATTISGARH
 250581,2,Khongapani,खोंगापानी,7,801913,22,CHHATTISGARH
 250671,1,Kirandul,किरन्दुल,5,802071,22,CHHATTISGARH
-253280,1,Kirodimal Nagar,किरोड़ीमल नगर,7,801938,22,CHHATTISGARH
-250664,2,Kondagaon,कोंड़ागांव,5,802062,22,CHHATTISGARH
+253280,1,Kirodimal Nagar,किरोड़ीमल नगर,7,801938,22,CHHATTISGARH
+250664,2,Kondagaon,कोंड़ागांव,5,802062,22,CHHATTISGARH
 253217,1,Konta,कोंटा,7,802073,22,CHHATTISGARH
 250598,1,Korba,कोरबा,4,801949,22,CHHATTISGARH
 250613,1,Kota,कोटा,7,801968,22,CHHATTISGARH
@@ -491,7 +491,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 250661,1,Mahasamund,महासमुंद,5,802045,22,CHHATTISGARH
 253174,2,Malhar,मल्हार,7,801978,22,CHHATTISGARH
 250655,1,Mana Camp,माना कैंप,7,802035,22,CHHATTISGARH
-250580,2,Manendragarh,महेंद्रगढ़,5,801912,22,CHHATTISGARH
+250580,2,Manendragarh,महेंद्रगढ़,5,801912,22,CHHATTISGARH
 253160,2,Maro,मरो,7,801996,22,CHHATTISGARH
 250614,2,Mungeli,मुंगली,5,801970,22,CHHATTISGARH
 253109,1,Nagri,नगरी,7,802053,22,CHHATTISGARH
@@ -499,8 +499,8 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 250602,1,Naila Janjgir,नाला जांजगीर,5,801950,22,CHHATTISGARH
 248064,2,Narayanpur,नारायणपूर,5,802066,22,CHHATTISGARH
 253249,2,Narharpur,नरहरपूर,7,802057,22,CHHATTISGARH
-253148,2,Nawagarh,नवागढ़,7,801995,22,CHHATTISGARH
-253283,3,NAWAGARH,नवागढ़,7,801953,22,CHHATTISGARH
+253148,2,Nawagarh,नवागढ़,7,801995,22,CHHATTISGARH
+253283,3,NAWAGARH,नवागढ़,7,801953,22,CHHATTISGARH
 250607,1,Naya Baradwar,नया बाराद्वार,7,801958,22,CHHATTISGARH
 253146,2,Pakhajur,पखांजूर,7,802059,22,CHHATTISGARH
 250647,2,Palari,पलारी,7,802024,22,CHHATTISGARH
@@ -519,7 +519,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 253191,2,Premnagar,प्रेमनगर,7,801926,22,CHHATTISGARH
 253278,1,Pussore,पुस्सौर,7,801940,22,CHHATTISGARH
 253288,1,RAHOUD,राहौद,7,801959,22,CHHATTISGARH
-250594,13,Raigarh,रायगढ़,4,801939,22,CHHATTISGARH
+250594,13,Raigarh,रायगढ़,4,801939,22,CHHATTISGARH
 250653,1,Raipur,रायपुर,4,802034,22,CHHATTISGARH
 253178,2,Rajim,राजिम,7,802037,22,CHHATTISGARH
 250629,1,Rajnandgaon,राजनांदगांव,4,801991,22,CHHATTISGARH
@@ -530,7 +530,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 250606,1,Sakti,सकती,5,801957,22,CHHATTISGARH
 253287,1,SARAGAON,सारागांव,7,801956,22,CHHATTISGARH
 250659,2,Saraipali,सरईपाली,5,802043,22,CHHATTISGARH
-250596,5,Sarangarh,सारंगगढ़,5,801942,22,CHHATTISGARH
+250596,5,Sarangarh,सारंगगढ़,5,801942,22,CHHATTISGARH
 253176,2,Sargaon,सरगांव,7,801972,22,CHHATTISGARH
 253277,1,Saria,सरिया,7,801943,22,CHHATTISGARH
 259685,1,Shivpur charcha,शिवपुर चर्च,5,801910,22,CHHATTISGARH
@@ -990,7 +990,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 248201,1,Vijay Pore,,5,800078,1,JAMMU AND KASHMIR
 253166,2,Adityapur,आदित्यपुर,4,801801,20,JHARKHAND
 290212,2,bachra nagar panchayat,,7,,20,JHARKHAND
-290364,1,BADAKI SURIYA,बड़की सरैया,7,,20,JHARKHAND
+290364,1,BADAKI SURIYA,बड़की सरैया,7,,20,JHARKHAND
 277137,4,Barharwa,बरहरवा,7,000000,20,JHARKHAND
 250352,1,Basukinath,वासुकिनाथ,7,801790,20,JHARKHAND
 253231,1,Bishrampur,बिश्रामपुर,5,801785,20,JHARKHAND
@@ -1017,7 +1017,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 248130,4,Hazaribag,हजारीबाग,4,801788,20,JHARKHAND
 250323,1,Hussainabad,,7,801784,20,JHARKHAND
 250434,1,Jamshedpur,,6,801781,20,JHARKHAND
-248134,1,Jamtara,जामताड़ा,7,801792,20,JHARKHAND
+248134,1,Jamtara,जामताड़ा,7,801792,20,JHARKHAND
 248132,1,Jhumri Telaiya,झुमरी तेलैया,5,801767,20,JHARKHAND
 250435,1,Jugsalai,,5,801782,20,JHARKHAND
 276352,2,KAPALI,कपाली,5,000000,20,JHARKHAND
@@ -1660,7 +1660,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 250922,1,Mundi,मुंदी,7,802437,23,MADHYA PRADESH
 250717,1,Mungaoli,,7,802409,23,MADHYA PRADESH
 250979,1,Murwara - Katni,,4,802351,23,MADHYA PRADESH
-248075,1,NAGAR PALIKA, NAINPUR,,5,802376,23,MADHYA PRADESH
+248075,1,NAGAR PALIKA NAINPUR,,5,802376,23,MADHYA PRADESH
 250846,1,Nagda,,5,802225,23,MADHYA PRADESH
 250782,1,Nagod,,7,802174,23,MADHYA PRADESH
 250834,1,Nagri,,7,802212,23,MADHYA PRADESH
@@ -1693,7 +1693,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 250987,1,Panagar,,5,802364,23,MADHYA PRADESH
 250924,1,Pandhana,पंधाना,7,802438,23,MADHYA PRADESH
 251030,1,Pandhurna,,5,802391,23,MADHYA PRADESH
-263010,1,PANKHEDI KALAPIPAL,पानखेड़ी (कालापीपल),7,000000,23,MADHYA PRADESH
+263010,1,PANKHEDI KALAPIPAL,पानखेड़ी (कालापीपल),7,000000,23,MADHYA PRADESH
 250750,1,Panna,,5,802148,23,MADHYA PRADESH
 250917,1,Pansemal,,7,802289,23,MADHYA PRADESH
 253197,1,Pasan,,5,802418,23,MADHYA PRADESH
@@ -1735,7 +1735,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 250682,1,Sabalgarh,,5,802088,23,MADHYA PRADESH
 250764,1,Sagar,,4,802159,23,MADHYA PRADESH
 250841,1,Sailana,,7,802220,23,MADHYA PRADESH
-263217,1,Sainkheda,साईंखेड़ा,7,000000,23,MADHYA PRADESH
+263217,1,Sainkheda,साईंखेड़ा,7,000000,23,MADHYA PRADESH
 293820,1,Salichauka,सालीचौका,7,000000,23,MADHYA PRADESH
 262993,1,SAMSABAD,शमशाबाद,7,802309,23,MADHYA PRADESH
 250908,1,Sanawad,सनावद,5,802279,23,MADHYA PRADESH
@@ -2509,7 +2509,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 260780,2,KOTHA GURU,ਕੋਠਾ ਗੁਰੂ,7,000000,3,PUNJAB
 262989,2,KOT ISE KHAN,,7,000000,3,PUNJAB
 248361,3,Kot Kapura,,5,800220,3,PUNJAB
-260782,2,KOT SHAMIR,ਕੋਟ ਸ਼ਮੀਰ,7,000000,3,PUNJAB
+260782,2,KOT SHAMIR,ਕੋਟ ਸ਼ਮੀਰ,7,000000,3,PUNJAB
 248321,4,Kurali,,5,800262,3,PUNJAB
 277203,4,LALRU,LALRU,5,000000,3,PUNJAB
 248391,3,Lehragaga,,5,800278,3,PUNJAB
@@ -3474,7 +3474,7 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 290098,3,Bandlaguda Jagir,,4,,36,TELANGANA
 290201,1,Banswada,,5,,36,TELANGANA
 248084,3,Bellampalli,బెల్లంపల్లి,5,802900,36,TELANGANA
-248085,3,Bhainsa,భైంసా,5,802898,36,TELANGANA
+248085,3,Bhainsa,భైంసా,5,802898,36,TELANGANA
 290093,1,Bheemgal,,5,,36,TELANGANA
 251682,4,Bhongir,,5,802926,36,TELANGANA
 290073,2,Bhootpur,,5,,36,TELANGANA
@@ -3600,25 +3600,25 @@ Local Body Code,Local Body Version,Local Body Name (In English),Local Body Name 
 290067,1,Yellareddy,,5,,36,TELANGANA
 248097,4,Zaheerabad,,5,802915,36,TELANGANA
 249785,12,Agartala  Municipal  Corporation,আগরতলা মিউনিসিপাল কর্পোরেশন,4,801522,16,TRIPURA
-249797,3,Amarpur Nagar Panchayat,অমরপুর নগর পঞ্চায়েত,7,801527,16,TRIPURA
+249797,3,Amarpur Nagar Panchayat,অমরপুর নগর পঞ্চায়েত,7,801527,16,TRIPURA
 249802,4,Ambassa Municipal Council,আমবাসা মিউনিসিপাল কাউন্সিল,5,801532,16,TRIPURA
-249798,4,Belonia Municipal Council,বিলোনিয়া মিউনিসিপাল কাউন্সিল,5,801529,16,TRIPURA
-261690,2,Bishalgarh Municipal Council,বিশালগড় মিউনিসিপাল কাউন্সিল,5,000000,16,TRIPURA
+249798,4,Belonia Municipal Council,বিলোনিয়া মিউনিসিপাল কাউন্সিল,5,801529,16,TRIPURA
+261690,2,Bishalgarh Municipal Council,বিশালগড় মিউনিসিপাল কাউন্সিল,5,000000,16,TRIPURA
 249803,5,Dharmanagar Municipal Council,ধর্মনগর মিউনিসিপাল কাউন্সিল,5,801534,16,TRIPURA
-261687,3,Jirania Nagar Panchayat,জিরানিয়া নগর পঞ্চায়েত,7,000000,16,TRIPURA
+261687,3,Jirania Nagar Panchayat,জিরানিয়া নগর পঞ্চায়েত,7,000000,16,TRIPURA
 249804,4,Kailashahar Municipal Council,কৈলাশহর মিউনিসিপাল কাউন্সিল,5,801533,16,TRIPURA
 273718,3,Kamalpur Nagar Panchayat,কামালপুর নগর পঞ্চায়েত,7,000000,16,TRIPURA
-249783,5,Khowai Municipal Council,খোয়াই মিউনিসিপাল কাউন্সিল,5,801520,16,TRIPURA
+249783,5,Khowai Municipal Council,খোয়াই মিউনিসিপাল কাউন্সিল,5,801520,16,TRIPURA
 249805,7,Kumarghat Municipal Council,কুমারঘাট  পুর সভা,5,801535,16,TRIPURA
 261691,3,Melaghar Municipal Council,মেলাঘর মিউনিসিপাল কাউন্সিল,5,000000,16,TRIPURA
 261692,2,Mohanpur Municipal Council,মোহনপুর মিউনিসিপাল কাউন্সিল,5,000000,16,TRIPURA
-261688,2,Panisagar Nagar Panchayat,পানিসাগর নগর পঞ্চায়েত,7,000000,16,TRIPURA
+261688,2,Panisagar Nagar Panchayat,পানিসাগর নগর পঞ্চায়েত,7,000000,16,TRIPURA
 249786,6,Ranirbazar Municipal Council,রানীরবাজার পৌর পরিষদ,5,801523,16,TRIPURA
 249799,5,Sabroom Nagar Panchayat,সাব্রুম পৌর পরিষদ,7,801530,16,TRIPURA
 261689,5,Santirbazar Municipal Council,শান্তিরবাজার পৌর পরিষদ,5,000000,16,TRIPURA
-249787,5,Sonamura Nagar Panchayat,সোনামুড়া নগর পঞ্চায়েত,7,801525,16,TRIPURA
-249784,4,Teliamura Municipal Council,তেলিয়ামুরা মিউনিসিপাল কাউন্সিল,5,801521,16,TRIPURA
-249796,5,Udaipur Municipal Council,উদয়পুর মিউনিসিপাল কাউন্সিল,5,801526,16,TRIPURA
+249787,5,Sonamura Nagar Panchayat,সোনামুড়া নগর পঞ্চায়েত,7,801525,16,TRIPURA
+249784,4,Teliamura Municipal Council,তেলিয়ামুরা মিউনিসিপাল কাউন্সিল,5,801521,16,TRIPURA
+249796,5,Udaipur Municipal Council,উদয়পুর মিউনিসিপাল কাউন্সিল,5,801526,16,TRIPURA
 262902,1,Agastmuni,,7,000000,5,UTTARAKHAND
 248449,8,Almora,,5,800327,5,UTTARAKHAND
 277257,1,Almora,,8,800326,5,UTTARAKHAND
