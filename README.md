@@ -10,12 +10,12 @@ Data dump of entities from the India Local Government Directory.
 
 - States
 - Districts
-- Subdistricts (tehsil
+- Subdistricts (tehsil, taluka, mandal, circle)
 - Villages
 
 **Political**
 
-- Urban, rural and traditional local bodies
+- Urban, rural and traditional local bodies (
 - Parliament and assembly constituencies (incomplete)
 - Urban and rural wards (incomplete)
 
@@ -43,6 +43,6 @@ URL: [India Local Government Directory](https://lgdirectory.gov.in/downloadDirec
 
 Contribute updates or missing files by:
 - Downloading the relevant file from https://lgdirectory.gov.in/downloadDirectory.do as a CSV
-- Validate CSV (fix header, fix comma delimiter)
 - Clone repo and organise file in relevant section
+- Validate CSV to make it searchable in Github (fix header, fix comma delimiter)
 - Submit PR
