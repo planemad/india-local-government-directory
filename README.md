@@ -37,12 +37,20 @@ India Local Government Directory https://lgdirectory.gov.in/downloadDirectory.do
 
 [Government Open Data License – India](https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf)
 
+## Reference
+
+- https://en.wikipedia.org/wiki/Administrative_divisions_of_India
+- https://wiki.openstreetmap.org/wiki/India/Boundaries
+- https://www.geonames.org/countries/IN/india.html
+- 
+
 ## Updates
 
-URL: [India Local Government Directory](https://lgdirectory.gov.in/downloadDirectory.do)
+Contribute updates or missing files:
 
-Contribute updates or missing files by:
 - Downloading the relevant file from https://lgdirectory.gov.in/downloadDirectory.do as a CSV
 - Clone repo and organise file in relevant section
 - Validate CSV to make it searchable in Github (fix header, fix comma delimiter)
 - Submit PR
+
+
