@@ -1,9 +1,11 @@
 # india-local-government-directory
 
-Data dump of entities from the India Local Government Directory.
+Data dump of entities from the India Local Government Directory. These include the official listing of administrative units with unique identifier codes.
 
 ## Contents
 
+**Reference Lookups**
+- City/town directory with mapping to other levels `Urban local bodies with coverage`
 - Village directory with mapping to other levels `Gram Panchayat Mapping to village`
 
 **Administrative**
