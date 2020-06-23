@@ -1,4 +1,4 @@
-S.No,State Name(In English),LocalbodyCode,Localbody Name(In English),Local Body Type Code,Local Body Type Name(In English),Census 2011 Code,District Code,District Name(In English)Subdistrict CodeSubdistrict Name(In English)Village CodeVillage Name(In English)
+S.No,State Name(In English),LocalbodyCode,Localbody Name(In English),Local Body Type Code,Local Body Type Name(In English),Census 2011 Code,District Code,District Name(In English),Subdistrict Code,Subdistrict Name(In English),Village Code,Village Name(In English)
 1,ANDAMAN AND NICOBAR ISLANDS,253098,Port Blair,5,Municipality,804041,602,SOUTH ANDAMANS,5923,Port Blair,645528,School Line part (RV)
 2,ANDAMAN AND NICOBAR ISLANDS,253098,Port Blair,5,Municipality,804041,602,SOUTH ANDAMANS,5923,Port Blair,,
 3,ANDAMAN AND NICOBAR ISLANDS,253098,Port Blair,5,Municipality,804041,602,SOUTH ANDAMANS,,,,
