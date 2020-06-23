@@ -4,24 +4,31 @@ Data dump of entities from the India Local Government Directory.
 
 ## Contents
 
-- Village directory with mapping to other levels
+- Village directory with mapping to other levels `Gram Panchayat Mapping to village`
 
 **Administrative**
 
-- States
-- Districts
-- Subdistricts (tehsil, taluka, mandal, circle)
-- Villages
+1. States `All States of India`
+2. Districts `All Districts of India`
+3. Subdistricts (tehsil, taluka, mandal, circle) `All Sub-Districts of India`
+4. Villages `All Villages of India`
 
 **Political**
 
-- Urban, rural and traditional local bodies (
-- Parliament and assembly constituencies (incomplete)
-- Urban and rural wards (incomplete)
+1-2. Parliament and assembly constituencies `State Wise Parliament Constituency and Assembly Constituency`
+ - Per state (incomplete)
+
+3. Local bodies:  
+  - Rural local bodies (district/intermediate/village panchayat) `All PRI Local Bodies of India`
+  - Traditional local bodies (village council/authority/development council/development commitee/employment council/development board, area employment council) `All Traditional Local Bodies of India`
+  - Urban local bodies (municpal corporation, municipality, municipal council, town panchayat) `All Urban Local Bodies of India`
+4. Urban and rural wards
+  - Urban wards per state (incomplete) `Wards of Urban local bodies`
+  - Rural wards per state (incomplete) `Wards of Rural local bodies`
 
 **Statistical**
 
-- Blocks
+- Blocks `All Blocks of India`
 
 ## Metadata
 
