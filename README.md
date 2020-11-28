@@ -40,7 +40,7 @@ India Local Government Directory https://lgdirectory.gov.in/downloadDirectory.do
 
 **Date of retrieval**
 
-22 June 2020
+28 November 2020
 
 **License**
 

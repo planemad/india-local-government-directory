@@ -15,7 +15,7 @@ S.No.,State Code,State Version,State Name(In English),State Name (In Local),Cens
 "14","20","1",JHARKHAND,झारखंड,"20","20",S
 "15","29","1",KARNATAKA,ಕರ್ನಾಟಕ,"29","29",S
 "16","32","1",KERALA,KERALA,"32","32",S
-"17","37","1",LADAKH,,"01","00",U
+"17","37","1",LADAKH,,,"00",U
 "18","31","1",LAKSHADWEEP,LAKSHADWEEP,"31","31",U
 "19","23","1",MADHYA PRADESH,MADHYA PRADESH,"23","23",S
 "20","27","1",MAHARASHTRA,MAHARASHTRA,"27","27",S
@@ -29,7 +29,7 @@ S.No.,State Code,State Version,State Name(In English),State Name (In Local),Cens
 "28","8","1",RAJASTHAN,RAJASTHAN,"08","08",S
 "29","11","1",SIKKIM,SIKKIM,"11","11",S
 "30","33","1",TAMIL NADU,TAMIL NADU,"33","33",S
-"31","36","1",TELANGANA,తెలంగాణ,"28","00",S
+"31","36","1",TELANGANA,తెలంగాణ,,"00",S
 "32","38","1",THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,"38","38",U
 "33","16","1",TRIPURA,ত্রিপুরা,"16","16",S
 "34","5","1",UTTARAKHAND,UTTARAKHAND,"05","05",S
