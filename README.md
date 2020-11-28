@@ -6,7 +6,7 @@ Data dump of entities from the India Local Government Directory. These include t
 
 **Reference Lookups**
 - City/town directory with mapping to other levels `Urban local bodies with coverage`
-- Village directory with mapping to other levels `Gram Panchayat Mapping to village`
+- Village directory with mapping to other levels `Subdistrict, Village, Block and GPS mapping`
 
 **Administrative**
 
