@@ -41,7 +41,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 766,1,Agra,118,2,00766
 4062,1,Aheri,475,11,04062
 4228,1,Ahmadpur,481,3,04228
-6856,1,AHMEDGARH,43,,00000
+6856,3,AHMEDGARH,737,,00000
 586,1,Ahore,104,2,00586
 3921,4,Ahwa,444,1,03921
 1904,1,Aibawk,261,3,01904
@@ -52,23 +52,23 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1781,1,Aitepyong,250,2,01781
 3435,1,Ajaigarh,420,1,03435
 6810,3,Ajas,623,,00000
-6877,1,Ajitmal,122,,00000
+6877,4,Ajitmal,122,,00000
 7078,11,AJJAMPURA,532,,00000
 607,4,Ajmer,86,2,00607
 255,1,Ajnala,27,1,00255
 4292,1,Ajra,480,10,04292
 3278,1,Akaltara,379,0,03278
-845,2,Akbarpur,156,3,00845
+845,8,Akbarpur,156,3,00845
+910,4,Akbarpur,121,3,00910
 1519,1,Akbarpur,210,9,01519
-910,2,Akbarpur,121,3,00910
 78,11,Akhnoor,5,1,00078
 4975,1,Akividu,523,32,04975
 4254,1,Akkalkot,496,11,04254
 3950,1,Akkalkuwa,486,1,03950
 6285,1,Akkannapet,692,,00000
 680,1,Aklera,105,3,00680
-4201,1,Akola,466,0001,04201
 3991,1,Akola,467,4,03991
+4201,1,Akola,466,0001,04201
 4998,1,A.Konduru,510,9,04998
 1472,1,Akorhi Gola,215,16,01472
 3989,1,Akot,467,2,03989
@@ -109,8 +109,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1759,1,Alongkima,246,2,01759
 6809,4,Aloosa,623,,00000
 3502,1,Alot,423,3,03502
-5557,1,Alur,539,5,05557
 5274,1,Alur,511,25,05274
+5557,1,Alur,539,5,05557
 5658,1,Aluva,555,2,05658
 6328,1,Alwal,700,,00000
 499,4,Alwar,87,7,00499
@@ -126,8 +126,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6290,1,Amarchintha,693,,00000
 6867,1,Amariya,173,,00000
 3468,1,Amarpatan,426,5,03468
-6695,1,Amarpur,654,2,00000
 1346,1,Amarpur,190,2,01346
+6695,1,Amarpur,654,2,00000
 3648,1,Amarwara,399,2,03648
 1499,1,Amas,196,13,01499
 148,13,Amb,26,2,00148
@@ -170,10 +170,10 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2574,1,Amrapara,337,2,02574
 4009,1,Amravati,468,9,04009
 3843,1,Amreli,439,5,03843
-831,1,Amritpur,141,2,00831
+831,2,Amritpur,141,2,00831
 256,2,Amritsar -I,27,2,00256
 257,1,Amritsar- II,27,3,00257
-730,2,Amroha,154,2,00730
+730,6,Amroha,154,2,00730
 5086,1,Amruthalur,506,47,05086
 2400,1,Amta - I,313,3,02400
 2399,1,Amta - II,313,2,02399
@@ -188,8 +188,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 262,1,Anandpur Sahib,42,1,00262
 3864,3,Anand Rural,440,4,03864
 5330,1,Anantapur,502,27,05330
-6302,1,Ananthagiri,696,,00000
 4845,1,Ananthagiri,520,5,04845
+6302,1,Ananthagiri,696,,00000
 5173,1,Ananthasagaram,515,21,05173
 55,14,Anantnag,1,3,00055
 6822,6,Anantnag East,1,,00000
@@ -226,7 +226,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4660,2,Anumula,514,48,04660
 462,3,Anupgarh,100,6,00462
 3694,1,Anuppur,390,6,03694
-748,1,Anupshahr,134,4,00748
+748,2,Anupshahr,134,4,00748
 786,1,Aonla,130,3,00786
 1793,1,Aquqhnaqua,244,0,01793
 6659,9,Arain,86,,00000
@@ -277,7 +277,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5275,1,Aspari,511,26,05275
 647,2,Aspur,99,2,00647
 373,4,Assandh,67,4,00373
-6752,1,Assar,4,,00000
+6752,2,Assar,4,,00000
 3060,1,Astaranga,369,5,03060
 1385,1,Asthawan,209,8,01385
 1770,1,Asuto,251,4,01770
@@ -299,10 +299,10 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 71,5,Atholi (Paddar),620,4,00071
 5994,1,Athoor,572,,00000
 5227,1,Atlur,504,29,05227
-4592,4,Atmakur,693,44,04592
-5322,1,Atmakur,502,19,05322
 5265,1,Atmakur,511,16,05265
 5164,1,Atmakur,515,12,05164
+5322,1,Atmakur,502,19,05322
+4592,4,Atmakur,693,44,04592
 4626,3,Atmakur (M),697,14,04626
 4622,2,Atmakur (S),696,10,04622
 1773,1,Atoizu,251,7,01773
@@ -313,12 +313,12 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 673,2,Atru,89,4,00673
 2769,1,Attabira,347,14,02769
 4973,1,Attili,523,30,04973
-5743,2,Attur,584,8,05743
+5743,3,Attur,584,8,05743
 4113,1,Aundha (Nagnath),477,3,04113
 5456,7,Aurad,529,3,05456
-999,3,Aurai,179,1,00999
+999,7,Aurai,179,1,00999
 1207,1,Aurai,208,9,01207
-842,2,Auraiya,122,2,00842
+842,4,Auraiya,122,2,00842
 1481,1,Aurangabad,189,6,01481
 4137,1,Aurangabad,469,5,04137
 4232,1,Ausa,481,7,04232
@@ -331,7 +331,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5828,1,Avudayarkoil,582,9,05828
 49,8,Awantipora,11,1,00049
 6510,1,Awantipur Badodiya,430,,00000
-966,1,Azamgarh,123,3,00966
+966,4,Azamgarh,123,3,00966
 1148,1,Azamnagar,201,7,01148
 2127,1,Azara,618,9,02127
 258,1,Baba Bakala,27,7,00258
@@ -376,7 +376,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2328,1,Baduria,303,13,02328
 5210,1,Badvel,504,12,05210
 3623,2,Badwara,413,0,03623
-186,5,Bagachnogi,22,10,00186
+186,6,Bagachnogi,22,10,00186
 1019,1,Bagaha,211,7,01019
 5447,1,Bagalkot,524,5,05447
 2139,3,Baganpara (Pt),616,1,02139
@@ -413,18 +413,18 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6432,1,Bahal ST,59,,00000
 2614,1,Baharagora,327,9,02614
 6072,1,Bahari,433,,00000
-1192,1,Baheri,195,12,01192
 784,1,Baheri,130,1,00784
+1192,1,Baheri,195,12,01192
 6479,1,Bahin ST,619,,00000
 3625,3,Bahoriband,413,3,03625
 5912,1,Bahour Taluk,600,5,05912
-921,2,Bahraich,125,3,00921
+921,17,Bahraich,125,3,00921
 6707,5,Bahu,5,,00000
 2947,1,Baidyeswar,350,15,02947
 3674,8,Baihar,392,5,03674
 112,20,Baijnath,18,18,00112
-3232,1,Baikunthpur,384,2,03232
 1228,1,Baikunthpur,197,14,01228
+3232,1,Baikunthpur,384,2,03232
 5440,6,Bailahongala,527,8,05440
 7066,2,BAINDURU,549,,00000
 6534,2,Bairad,432,,00000
@@ -451,8 +451,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2345,1,Balagarh,312,8,02345
 3672,2,Balaghat,392,3,03672
 6778,1,Balakote,10,,00000
-4517,3,Balanagar,700,6,04517
 4557,2,Balanagar,512,9,04557
+4517,3,Balanagar,700,6,04517
 3142,1,Balangir,345,11,03142
 6323,1,Balapur,518,,00000
 3990,1,Balapur,467,3,03990
@@ -495,9 +495,9 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3321,2,Balod,646,0,03321
 3279,1,Baloda,379,0,03279
 3326,2,Baloda Bazar,644,3,03326
-3237,2,Balrampur,649,0,03237
-1146,1,Balrampur,201,5,01146
 925,1,Balrampur,127,1,00925
+1146,1,Balrampur,201,5,01146
+3237,2,Balrampur,649,0,03237
 6442,1,Balsamand ST,63,,00000
 3053,1,Balugaon,362,13,03053
 2640,1,Balumath,335,18,02640
@@ -513,9 +513,10 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5288,1,Banaganapalle,511,39,05288
 2773,1,Banaharapali,357,4,02773
 3054,1,Banapur,362,14,03054
+7118,1,BANARHAT,314,,00000
 3010,1,Banarpal,344,11,03010
+871,3,Banda,128,1,00871
 3446,1,Banda,425,3,03446
-871,2,Banda,128,1,00871
 6603,1,Banderdewa Circle,237,,00000
 2730,1,Bandgaon,343,2,02730
 3482,6,Bandhogarh,436,1,03482
@@ -610,15 +611,15 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6613,1,Bargur,577,,00000
 1417,1,Barh,212,20,01417
 2567,1,Barhait,340,4,02567
-961,1,Barhaj,137,3,00961
+961,2,Barhaj,137,3,00961
 1437,1,Barhampur,194,3,01437
 1129,1,Barhara,214,2,01129
 1423,1,Barhara,193,2,01423
 1231,1,Barharia,222,3,01231
 2572,1,Barharwa,340,9,02572
 1528,1,Barhat,198,4,01528
-2645,1,Barhi,332,2,02645
 3622,2,Barhi,413,0,03622
+2645,1,Barhi,332,2,02645
 516,1,Bari,98,2,00516
 2841,1,Baria,361,7,02841
 1357,1,Bariarpur,207,2,01357
@@ -653,14 +654,14 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1200,1,Baruraj (Motipur),208,2,01200
 2636,1,Barwadih,335,14,02636
 3545,5,Barwaha,414,1,03545
-3786,2,Barwala,676,10,03786
 6440,2,Barwala,63,,00000
+3786,2,Barwala,676,10,03786
 6460,1,Barwala ST,70,,00000
 3554,1,Barwani,393,1,03554
 6736,1,Basantgarh,14,,00000
 2434,1,Basanti,304,23,02434
-1234,1,Basantpur,222,2,01234
 1102,1,Basantpur,223,2,01102
+1234,1,Basantpur,222,2,01234
 6205,2,Basar,680,,00000
 1636,6,Basar ADC,724,15,01636
 5454,4,Basavakalyan,529,1,05454
@@ -708,8 +709,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4323,2,BAZARHATNOOR,501,19,04323
 609,4,Beawar,86,4,00609
 3758,1,Becharaji,451,8,03758
-6212,2,Beerpur,681,,00000
 3381,1,Beerpur,431,0,03381
+6212,2,Beerpur,681,,00000
 5,4,Beerwah,2,1,00005
 3592,1,Begamganj,421,3,03592
 657,1,Begun,95,3,00657
@@ -772,7 +773,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 65,3,Bhaderwah,4,7,00065
 662,1,Bhadesar,95,8,00662
 3971,1,Bhadgaon,478,12,03971
-997,4,Bhadohi,179,1,00997
+997,7,Bhadohi,179,1,00997
 472,1,Bhadra,101,7,00472
 4730,2,Bhadrachalam,690,8,04730
 2914,1,Bhadrak Rural,348,3,02914
@@ -785,8 +786,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2479,1,Bhagawanpur - II,317,38,02479
 6747,1,Bhagwah,4,,00000
 6022,1,Bhagwanpur,50,,00000
-1271,1,Bhagwanpur,224,4,01271
 1308,1,Bhagwanpur,191,4,01308
+1271,1,Bhagwanpur,224,4,01271
 1455,1,Bhagwanpur,200,4,01455
 3552,1,Bhagwanpura,414,7,03552
 1235,1,Bhagwanpur Hat,222,7,01235
@@ -827,7 +828,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1114,1,Bhargama,188,3,01114
 92,6,Bharmour,16,10,00092
 2709,2,BHARNO,331,4,02709
-839,2,Bharthana,139,4,00839
+839,5,Bharthana,139,4,00839
 3916,1,Bharuch,442,4,03916
 147,9,Bharwain,26,1,00147
 2806,1,Bhasma,373,3,02806
@@ -871,11 +872,11 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3392,2,Bhind,395,2,03392
 6917,3,Bhindar,117,,00000
 6994,1,Bhind Nagar,395,,00000
-923,2,Bhinga,181,1,00923
+923,6,Bhinga,181,1,00923
 588,2,Bhinmal,104,4,00588
 1022,1,Bhitaha,211,10,01022
 3401,6,Bhitarwar,407,3,03401
-911,2,Bhiti,121,4,00911
+911,3,Bhiti,121,4,00911
 4166,1,Bhiwandi,497,10,04166
 398,2,Bhiwani,59,2,00398
 4036,1,Bhiwapur,484,14,04036
@@ -924,7 +925,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4221,1,Bid,470,7,04221
 5457,1,Bidar,529,4,05457
 6426,2,BIDASAR,96,,00000
-841,2,Bidhuna,122,1,00841
+841,3,Bidhuna,122,1,00841
 1280,1,Bidupur,224,13,01280
 818,1,Bighapur,186,5,00818
 1386,1,Bihar,209,9,01386
@@ -942,7 +943,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 713,1,Bijnor,132,2,00713
 638,2,Bijoliya,92,12,00638
 473,1,Bikaner,93,1,00473
-906,1,Bikapur,140,5,00906
+906,2,Bikapur,140,5,00906
 1405,1,Bikram,212,8,01405
 1461,1,Bikramganj,215,5,01461
 3008,1,Bikrampur,344,9,03008
@@ -950,10 +951,10 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 573,2,Bilara,107,7,00573
 720,1,Bilari,171,3,00720
 6018,2,Bilasipara Pt,285,,02009
-6974,1,Bilaspur,436,,00000
 3295,1,Bilaspur,375,6,03295
-725,1,Bilaspur,176,2,00725
+725,2,Bilaspur,176,2,00725
 362,4,Bilaspur,76,1,00362
+6974,1,Bilaspur,436,,00000
 156,7,Bilaspur Sadar,15,4,00156
 1652,2,Bilat Circle,232,8,01652
 5444,1,Bilgi,524,2,05444
@@ -1073,7 +1074,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 7,4,Budgam,2,2,00007
 2413,1,Budge Budge - I,304,2,02413
 2414,1,Budge Budge - II,304,3,02414
-709,5,Budhana,172,4,00709
+709,6,Budhana,172,4,00709
 248,2,Budhlada,37,2,00248
 3588,1,Budni,427,5,03588
 6213,2,Buggaram,681,,00000
@@ -1081,7 +1082,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 489,1,Buhana,106,3,00489
 5345,1,Bukkapatnam,502,42,05345
 5329,1,Bukkaraya Samudram,502,26,05329
-746,1,Bulandshahr,134,2,00746
+746,2,Bulandshahr,134,2,00746
 3984,1,Buldana,472,10,03984
 626,3,Bundi,94,0005,00626
 2698,1,Bundu,339,18,02698
@@ -1093,7 +1094,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2290,1,Burdwan - II,306,23,02290
 4736,2,Burgampahad,690,14,04736
 3719,2,Burhanpur,397,4,03719
-964,1,Burhanpur,123,1,00964
+964,4,Burhanpur,123,1,00964
 6972,1,Burhanpur nagar,397,,00000
 4794,1,Burja,519,26,04794
 2788,1,Burla,371,11,02788
@@ -1121,14 +1122,14 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1739,3,Chaglagam Circle,628,6,01739
 2739,2,Chaibasa,343,17,02739
 887,1,Chail,158,3,00887
-2634,2,Chainpur,338,13,02634
 2713,1,Chainpur,331,13,02713
 1452,1,Chainpur,200,7,01452
+2634,2,Chainpur,338,13,02634
 1534,1,Chakai,198,10,01534
 3116,1,Chakapada,359,5,03116
 840,1,Chakarnagar,139,5,00840
 2314,3,Chakdah,320,16,02314
-994,2,Chakia,135,3,00994
+994,6,Chakia,135,3,00994
 1051,1,Chakia(Pipra),213,21,01051
 6036,4,Chakisain,52,,00000
 1436,1,Chakki,194,2,01436
@@ -1163,8 +1164,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3750,1,Chanasma,455,8,03750
 2210,1,Chanchal - I,316,3,02210
 2211,1,Chanchal - II,316,4,02211
-1451,1,Chand,200,6,01451
 6996,2,Chand,399,,00000
+1451,1,Chand,200,6,01451
 2919,1,Chandabali,348,8,02919
 3190,1,Chandahandi,366,3,03190
 3038,1,Chandaka,362,4,03038
@@ -1172,8 +1173,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2596,1,Chandankiyari,322,8,02596
 3065,1,Chandanpur,369,8,03065
 5008,1,Chandarlapadu,510,19,05008
-993,4,Chandauli,135,2,00993
-722,2,Chandausi,659,5,00722
+993,11,Chandauli,135,2,00993
+722,7,Chandausi,659,5,00722
 1894,3,Chandel,253,3,01894
 3685,4,Chanderi,391,2,03685
 4294,1,Chandgad,480,12,04294
@@ -1182,8 +1183,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 277,1,Chandigarh,44,1,00277
 2748,1,Chandil,341,6,02748
 2824,1,Chandiposh,373,20,02824
-2899,1,Chandipur,346,9,02899
 2481,1,Chandipur,317,40,02481
+2899,1,Chandipur,346,9,02899
 2351,1,Chanditala - I,312,14,02351
 2352,1,Chanditala - II,312,15,02352
 3426,1,Chandla,398,0,03426
@@ -1218,8 +1219,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1025,1,Chanpatia,211,13,01025
 5213,1,Chapad,504,15,05213
 6019,1,Chapar Pt,285,,02010
-1258,1,Chapra,218,11,01258
 2305,1,Chapra,320,7,02305
+1258,1,Chapra,218,11,01258
 6293,1,Charakonda,694,,00000
 3348,1,Charama,381,1,03348
 2796,1,Charamal,371,8,02796
@@ -1241,8 +1242,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2644,1,Chauparan,332,1,02644
 3650,3,Chaurai,399,3,03650
 951,1,Chauri Chaura,148,4,00951
-1442,1,Chausa,194,13,01442
 1170,1,Chausa,205,13,01170
+1442,1,Chausa,194,13,01442
 1325,1,Chautham,202,4,01325
 530,1,Chauth Ka Barwara,113,5,00530
 5653,1,Chavakkad,566,2,05653
@@ -1286,8 +1287,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 761,2,Chhata,167,1,00761
 1103,2,Chhatapur,223,3,01103
 479,1,Chhatargarh,93,7,00479
-2620,1,Chhatarpur,338,3,02620
 3429,3,Chhatarpur,398,4,03429
+2620,1,Chhatarpur,338,3,02620
 7006,2,Chhatarpur Nagar,398,,00000
 2359,1,Chhatna,305,4,02359
 3085,1,CHHATRAPUR,354,13,03085
@@ -1295,7 +1296,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 70,4,Chhatroo,620,4,00070
 2120,1,Chhaygaon,291,5,02120
 3014,1,Chhendipada,344,16,03014
-833,2,Chhibramau,155,1,00833
+833,3,Chhibramau,155,1,00833
 3374,2,Chhindgarh,642,4,03374
 3654,2,Chhindwara,399,6,03654
 7020,1,Chhindwara Nagar,399,,00000
@@ -1374,8 +1375,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5421,1,Chittoor,503,55,05421
 5650,1,Chittur,563,4,05650
 5245,1,Chitvel,504,47,05245
-4633,2,Chityal,514,21,04633
 4681,3,Chityal,687,10,04681
+4633,2,Chityal,514,21,04633
 4639,3,Chivemla,696,27,04639
 1812,1,Chizami,248,10,01812
 4872,1,Chodavaram,520,32,04872
@@ -1414,7 +1415,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 929,1,Colonelganj,147,2,00929
 2488,1,Contai - I,317,47,02488
 2490,1,Contai - III,317,49,02490
-2183,1,Cooch Behar - I,308,5,02183
+2183,2,COOCHBEHAR I,308,5,02183
 2184,1,Cooch Behar - II,308,6,02184
 5758,1,Coonoor,587,5,05758
 2964,1,C.R.R.I.,350,7,02964
@@ -1446,7 +1447,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5186,1,Dakkili,515,34,05186
 2149,1,Dalgaon (Pt),283,7,02149
 87,6,Dalhousie,16,5,00087
-827,1,Dalmau,175,5,00827
+827,2,Dalmau,175,5,00827
 3497,1,Daloda,416,0,03497
 1297,1,Dalsinghsarai,217,14,01297
 1969,1,Dalu,278,7,01969
@@ -1519,7 +1520,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1459,1,Dawath,215,3,01459
 6415,1,Dayalpur ST,60,,00000
 2800,1,Debagarh,351,1,02800
-749,1,Debai,134,5,00749
+749,3,Debai,134,5,00749
 7021,4,DEBEYAR CO CIRCLE,231,,00000
 2462,1,Debra,318,22,02462
 6937,4,Dechu,107,,00000
@@ -1552,15 +1553,15 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2545,1,Deoghar,324,1,02545
 4144,1,Deola,487,3,04144
 3985,1,Deolgaon Raja,472,11,03985
-4020,1,Deoli,498,6,04020
 620,4,Deoli,116,6,00620
+4020,1,Deoli,498,6,04020
 1684,8,Deomali ADC,239,1,01684
 4234,1,Deoni,481,9,04234
 7010,3,Deori,421,,00000
 3453,1,Deori,425,9,03453
-2534,1,Deori,329,3,02534
 4051,1,Deori,476,8,04051
-959,1,Deoria,137,1,00959
+2534,1,Deori,329,3,02534
+959,3,Deoria,137,1,00959
 3704,4,Deosar,638,6,03704
 3540,2,Depalpur,410,1,03540
 204,1,Dera Baba Nanak,32,5,00204
@@ -1613,7 +1614,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6912,3,Dhanaau,90,,00000
 1409,1,Dhanarua,212,12,01409
 298,3,Dhanaulti,55,0,00298
-729,2,Dhanaura,154,1,00729
+729,6,Dhanaura,154,1,00729
 2584,1,Dhanbad-Cum-Kenduadih-Cum-Jagata,325,5,02584
 3787,2,Dhandhuka,438,11,03787
 6448,1,Dhand ST,66,,00000
@@ -1638,8 +1639,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5931,1,Dharbandora,552,,00000
 316,3,Dharchula,53,2,00316
 1359,1,Dharhara,207,4,01359
-341,4,Dhari,51,3,00341
 3845,1,Dhari,439,7,03845
+341,4,Dhari,51,3,00341
 696,1,Dhariawad,629,7,00696
 200,2,Dhar Kalan,662,1,00200
 4104,1,Dharmabad,485,10,04104
@@ -1663,11 +1664,11 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6944,10,Dharwala,16,,00000
 145,5,Dhatwal,17,5,00145
 6414,1,Dhauj ST,60,,00000
-6032,3,DHAULANA,661,,00000
+6032,6,DHAULANA,661,,00000
 6338,8,Dhaulchhina,45,,00000
 518,5,Dhaulpur,98,4,00518
 6365,3,Dhauntari,57,,00000
-802,1,Dhaurahara,159,5,00802
+802,7,Dhaurahara,159,5,00802
 2041,3,Dhekiajuli (Pt),301,1,02041
 2055,1,Dhemaji,284,1,02055
 2999,1,Dhenkanal Sadar,352,9,02999
@@ -1686,9 +1687,9 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 61,4,D H Pora,622,4,00061
 3789,1,Dhrangadhra,460,2,03789
 3816,1,Dhrol,447,5,03816
-6014,12,Dhubri,285,,02008
+6014,13,Dhubri,285,,02008
 3959,1,Dhule,474,4,03959
-2176,1,Dhupguri,314,11,02176
+2176,2,Dhupguri,314,11,02176
 1348,1,Dhuraiya,190,4,01348
 270,1,Dhuri,43,3,00270
 2504,1,Dhurki,328,7,02504
@@ -1779,8 +1780,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3260,1,Duldula,380,0,03260
 1406,1,Dulhin Bazar,212,9,01406
 2663,1,Dulmi,607,0,02663
-2610,1,Dumaria,327,6,02610
 1502,1,Dumaria,196,16,01502
+2610,1,Dumaria,327,6,02610
 4843,1,Dumbriguda,520,3,04843
 2673,1,Dumka,326,8,02673
 4729,2,Dummugudem,690,7,04729
@@ -1831,12 +1832,12 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1008,1,Etah,138,4,01008
 1719,2,Etalin,230,3,01719
 4060,1,Etapalli,475,9,04060
-838,1,Etawah,139,3,00838
+838,2,Etawah,139,3,00838
 4806,1,Etcherla,519,38,04806
 765,2,Etmadpur,118,1,00765
 5863,1,Ettayapuram,594,2,05863
 4685,5,Eturunagaram,720,14,04685
-905,1,Faizabad,140,4,00905
+905,2,Faizabad,140,4,00905
 2175,2,Falakata,664,10,02175
 1142,1,Falka,201,1,01142
 2425,1,Falta,304,14,02425
@@ -1847,7 +1848,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 789,1,Faridpur,130,6,00789
 2274,2,Faridpur Durgapur,704,7,02274
 4559,2,Farooqnagar,518,11,04559
-832,1,Farrukhabad,141,3,00832
+832,2,Farrukhabad,141,3,00832
 418,1,Farrukhnagar,62,2,00418
 3261,1,Farsabahar,380,0,03261
 3027,1,Fategarh,367,4,03027
@@ -1855,12 +1856,12 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 388,5,Fatehabad,61,3,00388
 576,1,Fatehgarh,103,3,00576
 221,1,Fatehgarh Sahib,30,2,00221
-2680,1,Fatehpur,333,0,02680
-896,1,Fatehpur,129,2,00896
-878,1,Fatehpur,142,2,00878
-551,4,Fatehpur,114,1,00551
 95,28,Fatehpur,18,3,00095
+878,1,Fatehpur,142,2,00878
+896,1,Fatehpur,129,2,00896
 1508,1,Fatehpur,196,22,01508
+551,4,Fatehpur,114,1,00551
+2680,1,Fatehpur,333,0,02680
 369,4,Fatehpur Pundri,66,2,00369
 3890,1,Fatepura,445,1,03890
 1411,1,Fatwah,212,14,01411
@@ -1935,9 +1936,9 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6253,1,Gangaram,688,,00000
 2201,1,Gangarampur,310,2,02201
 6921,14,Gangath,18,,00000
-5744,1,Gangavalli,584,9,05744
-4894,1,Gangavaram,505,10,04894
+5744,2,Gangavalli,584,9,05744
 5417,1,Gangavaram,503,51,05417
+4894,1,Gangavaram,505,10,04894
 5466,6,Gangawati,543,3,05466
 684,3,Gangdhar,105,7,00684
 319,8,Gangolihat,53,4,00319
@@ -2014,7 +2015,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 463,6,Gharsana,100,7,00463
 2853,1,Ghasipura,361,16,02853
 2448,1,Ghatal,318,8,02448
-850,3,Ghatampur,157,3,00850
+850,4,Ghatampur,157,3,00850
 4089,1,Ghatanji,500,11,04089
 2850,1,Ghatgaon,361,10,02850
 1776,1,Ghathashi,251,9,01776
@@ -2047,8 +2048,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3370,1,Gidam,376,3,03370
 5133,1,Giddalur,517,37,05133
 240,1,Gidderbaha,39,0,00240
-1531,1,Gidhaur,198,7,01531
 2522,1,Gidhaur,323,7,02522
+1531,1,Gidhaur,198,7,01531
 5728,9,Gingee,596,1,05728
 3399,11,Gird,407,1,03399
 6199,1,Gir Gadhda,675,,00000
@@ -2061,9 +2062,9 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2193,1,Goalpokhar - I,311,3,02193
 2194,1,Goalpokhar - II,311,4,02194
 5751,2,Gobichettipalayam,573,0,05751
-2583,1,Gobindpur,325,4,02583
-2965,1,Gobindpur,350,6,02965
 1518,1,Gobindpur,210,8,01518
+2965,1,Gobindpur,350,6,02965
+2583,1,Gobindpur,325,4,02583
 2754,1,Gobindpur(Rajnagar),341,0,02754
 3110,1,Gochhapada,359,1,03110
 2561,1,Godda,330,6,02561
@@ -2087,7 +2088,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 954,2,Gola,148,0007,00954
 2665,1,Gola,607,15,02665
 2085,1,Golaghat,288,4,02085
-799,1,Gola Gokaran Nath,159,2,00799
+799,11,Gola Gokaran Nath,159,2,00799
 6015,1,Golakganj Pt,285,,02007
 3167,1,Golamunda,358,2,03167
 3095,1,GOLANTHARA,354,16,03095
@@ -2118,8 +2119,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2669,1,Gopikandar,326,4,02669
 1196,1,Gora Bauram,195,16,01196
 1342,1,Goradih,192,14,01342
-950,1,Gorakhpur,148,3,00950
 7011,1,Gorakhpur,411,,00000
+950,1,Gorakhpur,148,3,00950
 5362,1,Gorantla,502,59,05362
 1272,1,Goraul,224,5,01272
 4045,1,Goregaon,476,2,04045
@@ -2145,8 +2146,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3114,1,G.Udayagiri,359,5,03114
 4850,1,Gudem Kotha Veedhi,520,10,04850
 581,3,Gudha Malani,90,5,00581
-5597,1,Gudibanda,630,3,05597
 5352,1,Gudibanda,502,49,05352
+5597,1,Gudibanda,630,3,05597
 4310,2,GUDIHATNOOR,501,6,04310
 5431,1,Gudipala,503,65,05431
 5021,1,Gudivada,510,32,05021
@@ -2155,8 +2156,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5151,1,Gudluru,517,55,05151
 2729,5,Gudri,343,0,02729
 5426,1,Gudupalle,503,60,05426
-5184,1,Gudur,515,32,05184
 5257,1,Gudur,511,8,05257
+5184,1,Gudur,515,32,05184
 4711,2,Gudur,688,40,04711
 5031,1,Guduru,510,42,05031
 4270,1,Guhagar,492,5,04270
@@ -2174,13 +2175,13 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3677,4,Guna,406,3,03677
 6609,3,Guna Nagar,406,,00000
 6806,3,Gund,626,,00000
-4618,3,Gundala,697,6,04618
 4741,3,Gundala,690,19,04741
+4618,3,Gundala,697,6,04618
 3319,2,Gunderdehi,646,8,03319
 4651,2,GundlaPally,514,39,04651
 5576,1,Gundlupet,531,1,05576
 6749,1,Gundna,4,,00000
-778,2,Gunnaur,659,1,00778
+778,7,Gunnaur,659,1,00778
 3438,1,Gunnor,420,3,03438
 5309,1,Guntakal,502,6,05309
 5074,4,Guntur,506,35,05074
@@ -2207,7 +2208,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2128,1,Guwahati,618,10,02128
 1165,1,Gwalpara,205,8,01165
 1549,3,Gyalshing,228,1,01549
-998,2,Gyanpur,179,2,00998
+998,5,Gyanpur,179,2,00998
 3577,1,Gyaraspur,437,6,03577
 1588,3,Gyawe Purang Circle,231,0,01588
 2216,1,Habibpur,316,9,02216
@@ -2252,7 +2253,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 7077,3,HANUR,531,,00000
 4555,1,Hanwada,512,7,04555
 6039,3,Haochong,714,,00000
-740,5,Hapur,661,3,00740
+740,8,Hapur,661,3,00740
 5510,2,Harapanahalli,528,2,05510
 3132,1,Harbhanga,349,6,03132
 97,15,Harchakian,18,5,00097
@@ -2282,18 +2283,18 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1043,1,Harsidhi,213,13,01043
 3714,2,Harsud,405,1,03714
 5886,1,Harur,571,7,05886
-815,1,Hasanganj,186,2,00815
 1144,1,Hasanganj,201,3,01144
+815,1,Hasanganj,186,2,00815
 4678,2,Hasanparthy,686,7,04678
 1302,1,Hasanpur,217,19,01302
 731,1,Hasanpur,154,3,00731
 1245,1,Hasanpura,222,17,01245
-6876,1,Haseran,155,,00000
+6876,2,Haseran,155,,00000
 2336,1,Hasnabad,303,21,02336
 1477,1,Haspura,189,2,01477
 5556,1,Hassan,539,4,05556
 6478,1,Hassanpur ST,619,,00000
-956,3,Hata,160,2,00956
+956,12,Hata,160,2,00956
 2738,1,Hat Gamharia,343,0,02738
 428,3,Hathin,619,4,00428
 4489,2,Hathnoora,691,39,04489
@@ -2380,13 +2381,13 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4444,3,Husnabad,692,51,04444
 2615,1,Hussainabad,338,1,02615
 1238,1,Hussainganj,222,10,01238
-3581,2,Huzur,396,5,03581
 3479,3,Huzur,424,5,03479
+3581,2,Huzur,396,5,03581
 4446,1,Huzurabad,508,53,04446
 4669,2,Huzurnagar,696,57,04669
 7041,1,Huzur nagar,424,,00000
-4393,2,Ibrahimpatnam,681,1,04393
 4546,1,Ibrahimpatnam,518,35,04546
+4393,2,Ibrahimpatnam,681,1,04393
 5009,1,Ibrahimpatnam,510,20,05009
 2749,1,Ichagarh,341,7,02749
 2647,1,Ichak,332,4,02647
@@ -2398,7 +2399,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4606,3,Ieeja,695,58,04606
 4153,1,Igatpuri,487,12,04153
 756,3,Iglas,119,5,00756
-924,1,Ikauna,181,2,00924
+924,2,Ikauna,181,2,00924
 5834,1,Ilayangudi,585,6,05834
 7062,8,ILKAL,524,,00000
 2265,1,Illambazar,307,17,02265
@@ -2428,8 +2429,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3684,3,Isagarh,391,1,03684
 1251,1,Ishupur,218,4,01251
 1525,1,Islamnagar Aliganj,198,1,01525
-1392,1,Islampur,209,15,01392
 2192,1,Islampur,311,2,02192
+1392,1,Islampur,209,15,01392
 6487,5,ISLAND,712,,00000
 6453,1,Ismailabad ST,68,,00000
 1337,1,Ismailpur,192,9,01337
@@ -2458,8 +2459,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2940,1,Jagatsinghapur,355,7,02940
 3360,1,Jagdalpur,374,4,03360
 4484,3,Jagdevpur,692,34,04484
-1428,2,Jagdishpur,193,15,01428
 1343,2,Jagdishpur,192,15,01343
+1428,2,Jagdishpur,193,15,01428
 4898,1,Jaggampeta,505,14,04898
 4991,1,Jaggayyapeta,510,2,04991
 4414,4,Jagitial,681,21,04414
@@ -2472,15 +2473,15 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4307,2,JAINATH,501,3,04307
 4320,2,Jainoor,699,16,04320
 332,5,Jainti,45,0,00332
-2378,1,Jaipur,321,1,02378
-546,1,Jaipur,102,9,00546
 4355,3,Jaipur,684,51,04355
+546,1,Jaipur,102,9,00546
+2378,1,Jaipur,321,1,02378
 6582,1,Jairampur ADC,229,,00000
 574,1,Jaisalmer,103,1,00574
 6984,4,Jaisinagar,425,,00000
 3690,1,Jaisinghnagar,429,2,03690
-110,20,Jaisinghpur,18,0,00110
 916,1,Jaisinghpur,185,4,00916
+110,20,Jaisinghpur,18,0,00110
 597,1,Jaitaran,111,1,00597
 3695,1,Jaithari,390,7,03695
 3692,3,Jaitpur,429,4,03692
@@ -2499,12 +2500,12 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4366,2,Jakranpally,516,10,04366
 5157,1,Jaladanki,515,5,05157
 2140,4,Jalah (Pt),616,8,02140
-236,7,Jalalabad,651,3,00236
 796,2,Jalalabad,180,4,00796
+236,7,Jalalabad,651,3,00236
 1137,1,Jalalgarh,214,10,01137
 6340,7,Jalali,45,,00000
 3923,1,Jalalpore,453,2,03923
-909,2,Jalalpur,121,3,00909
+909,3,Jalalpur,121,3,00909
 1256,1,Jalalpur,218,9,01256
 212,1,Jalandhar - I,34,4,00212
 213,1,Jalandhar - II,34,0005,00213
@@ -2525,8 +2526,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4792,1,Jalumuru,519,24,04792
 2674,1,Jama,326,9,02674
 3651,1,Jamai,399,4,03651
-1358,1,Jamalpur,207,3,01358
 2295,1,Jamalpur,306,28,02295
+1358,1,Jamalpur,207,3,01358
 2792,1,Jamankira,371,4,02792
 2455,2,Jamboni,703,15,02455
 2924,1,Jamboo Marine,360,6,02924
@@ -2552,7 +2553,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2678,1,Jamtara,333,12,02678
 2536,1,Jamua,329,5,02536
 1527,1,Jamui,198,3,01527
-6164,1,jamunaha,181,,00000
+6164,6,jamunaha,181,,00000
 6631,1,Jamunamarathoor,593,,00000
 2270,2,Jamuria,704,3,02270
 548,1,Jamwa Ramgarh,102,11,00548
@@ -2566,7 +2567,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3277,1,Janjgir,379,1,03277
 3050,1,Jankia,362,11,03050
 4334,2,Jannaram,684,30,04334
-711,1,Jansath,172,5,00711
+711,2,Jansath,172,5,00711
 4263,1,Jaoli,494,9,04263
 3501,1,Jaora,423,2,03501
 3098,1,JARADA,354,19,03098
@@ -2579,7 +2580,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 347,1,Jaspur,56,0,00347
 773,1,Jasrana,143,3,00773
 105,21,Jaswan,18,11,00105
-836,1,Jaswantnagar,139,1,00836
+836,2,Jaswantnagar,139,1,00836
 6044,1,Jaswantpura,104,,00000
 4304,1,Jat,493,9,04304
 3049,1,Jatani,362,10,03049
@@ -2703,16 +2704,16 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4318,3,Kagaznagar,699,14,04318
 7100,2,KAGWAD,527,,00000
 1336,2,Kahalgaon,192,8,01336
-1174,1,Kahara,216,4,01174
 6756,1,Kahara,4,,00000
+1174,1,Kahara,216,4,01174
 4222,1,Kaij,470,8,04222
 5016,1,Kaikalur,510,27,05016
 3389,1,Kailaras,417,5,03389
 6682,1,Kailashahar,655,1,00000
 830,1,Kaimganj,141,1,00830
-706,3,Kairana,660,1,00706
+706,5,Kairana,660,1,00706
 2600,1,Kairo,336,0,02600
-922,1,Kaiserganj,125,4,00922
+922,10,Kaiserganj,125,4,00922
 368,6,Kaithal,66,2,00368
 4923,1,Kajuluru,505,39,04923
 6793,3,Kakapora,11,,00000
@@ -2734,8 +2735,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5371,1,Kalakada,503,5,05371
 24,3,Kalakote,12,4,00024
 1570,9,Kalaktang ADC,242,4,01570
-4239,1,Kalamb,488,0004,04239
 4081,1,Kalamb,500,3,04081
+4239,1,Kalamb,488,0004,04239
 4025,1,Kalameshwar,484,3,04025
 4114,1,Kalamnuri,477,4,04114
 6882,1,Kalan,180,,00000
@@ -2803,8 +2804,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 7090,5,KAMALAPUR,538,,00000
 5224,1,Kamalapuram,504,26,05224
 7085,6,KAMALNAGAR,529,,00000
-2118,1,Kamalpur,291,3,02118
 6681,1,Kamalpur,269,1,00000
+2118,1,Kamalpur,291,3,02118
 506,1,Kaman,91,2,00506
 4400,5,Kamanpur,682,8,04400
 2892,1,Kamarda,346,3,02892
@@ -2842,9 +2843,9 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 166,10,Kandaghat,25,7,00166
 2963,1,Kandarpur,350,7,02963
 4108,1,Kandhar,485,14,04108
+2498,1,Kandi,328,3,02498
 6275,1,Kandi,691,,00000
 2240,1,Kandi,319,18,02240
-2498,1,Kandi,328,3,02498
 6360,5,Kandisaur,55,,00000
 4545,1,Kandukur,518,34,04545
 5148,1,Kandukur,517,52,05148
@@ -2896,7 +2897,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 321,2,Kapkot,46,0,00321
 6317,1,Kapra,700,,00000
 3930,1,Kaprada,462,4,03930
-6879,1,Kaptanganj,160,,00000
+6879,7,Kaptanganj,160,,00000
 2885,1,Kaptipada,365,22,02885
 7067,2,KAPU,549,,00000
 206,1,Kapurthala,35,2,00206
@@ -2910,8 +2911,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5825,1,Karambakudi,582,0,05825
 5109,1,Karamchedu,517,13,05109
 2195,1,Karandighi,311,5,02195
-4016,1,Karanja,498,3,04016
 3997,1,Karanja,499,3,03997
+4016,1,Karanja,498,3,04016
 2870,1,Karanjia,365,26,02870
 457,1,Karanpur,100,1,00457
 4922,1,Karapa,505,38,04922
@@ -2936,8 +2937,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2299,1,Karimpur - I,320,1,02299
 2300,1,Karimpur - II,320,2,02300
 3907,1,Karjan,461,11,03907
-4174,1,Karjat,491,3,04174
 4213,1,Karjat,466,0013,04213
+4174,1,Karjat,491,3,04174
 5524,4,Karkal,549,3,05524
 6533,1,Karkeli,436,,00000
 5092,1,Karlapalem,506,53,05092
@@ -2958,7 +2959,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5408,1,Karvetinagar,503,42,05408
 4287,1,Karvir,480,5,04287
 5478,1,Karwar,550,1,05478
-875,3,Karwi,136,1,00875
+875,8,Karwi,136,1,00875
 5630,2,Kasaragod,558,1,05630
 164,3,Kasauli,25,5,00164
 1135,1,Kasba,214,8,01135
@@ -2966,8 +2967,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1010,1,Kasganj,633,1,01010
 1514,1,Kashi Chak,210,4,01514
 346,2,Kashipur,56,1,00346
-2385,1,Kashipur,321,8,02385
 3177,1,Kashipur,370,10,03177
+2385,1,Kashipur,321,8,02385
 6748,1,Kashtigarh,4,,00000
 6834,1,KASIMABAD,146,,00000
 4876,1,Kasimkota,520,36,04876
@@ -3059,7 +3060,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1847,1,Kezocha,245,3,01847
 4929,3,K Gangavaram,505,45,04929
 3508,1,Khacharod,435,1,03508
-6878,1,Khadda,160,,00000
+6878,5,Khadda,160,,00000
 3235,1,Khadganva,384,0,03235
 261,1,Khadur Sahib,609,6,00261
 4,4,Khag,2,8,00004
@@ -3079,7 +3080,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3720,1,Khaknar,397,0,03720
 4175,1,Khalapur,491,4,04175
 3083,1,KHALIKOTE,354,11,03083
-942,1,Khalilabad,178,2,00942
+942,2,Khalilabad,178,2,00942
 12,1,Khalsi,9,1,00012
 3715,2,Khalwa,405,0,03715
 223,1,Khamanon,30,4,00223
@@ -3093,8 +3094,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6393,2,KHAMNOR,112,,00000
 2354,1,Khanakul - I,312,17,02354
 2355,1,Khanakul - II,312,18,02355
-4299,1,Khanapur,493,4,04299
 4709,1,Khanapur,522,38,04709
+4299,1,Khanapur,493,4,04299
 5439,1,Khanapur,527,7,05439
 4347,3,Khanapur,680,43,04347
 2297,1,Khandaghosh,306,30,02297
@@ -3133,7 +3134,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2747,1,Kharsawan,341,5,02747
 3269,1,Kharsia,386,5,03269
 1992,1,Khatarshnong Laitkroh,274,0,01992
-710,1,Khatauli,172,4,00710
+710,3,Khatauli,172,4,00710
 4260,1,Khatav,494,6,04260
 3531,1,Khategaon,402,6,03531
 3198,1,Khatiguda,366,8,03198
@@ -3143,8 +3144,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1909,1,Khawbung,262,3,01909
 1907,2,Khawzawl,728,2,01907
 6247,2,Khazipet,686,,00000
-4268,1,Khed,492,0003,04268
 4190,1,Khed,490,4,04190
+4268,1,Khed,492,0003,04268
 3874,1,Kheda,450,6,03874
 3760,2,Khedbrahma,458,1,03760
 561,1,Kheenvsar,110,5,00561
@@ -3154,7 +3155,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2683,1,Khelari,339,0,02683
 6605,1,Khenawa Circle,231,,00000
 6384,3,KHENDELA,114,,00000
-6496,3,KHENGJOY,253,,00000
+6496,4,KHENGJOY,253,,00000
 768,2,Kheragarh,118,4,00768
 3752,1,Kheralu,451,2,03752
 6195,1,Khergam,453,,00000
@@ -3190,7 +3191,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2732,2,Khuntpani,343,12,02732
 2953,1,Khuntuni,350,10,02953
 3444,1,Khurai,425,2,03444
-751,1,Khurja,134,7,00751
+751,3,Khurja,134,7,00751
 1413,1,Khusrupur,212,16,01413
 1802,1,Khuza,248,0,01802
 3018,1,Kiakata,344,20,03018
@@ -3212,8 +3213,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4899,1,Kirlampudi,505,15,04899
 3673,1,Kirnapur,392,4,03673
 6361,7,Kirtinagar,55,,00000
-674,1,Kishanganj,89,5,00674
 1167,1,Kishanganj,205,7,01167
+674,1,Kishanganj,89,5,00674
 1127,1,Kishanganj,203,7,01127
 606,12,Kishangarh,86,1,00606
 497,1,Kishangarh Bas,87,5,00497
@@ -3286,8 +3287,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5119,1,Konakanamitla,517,23,05119
 4431,3,Konaraopet,683,38,04431
 3061,1,Konark,369,6,03061
-1487,1,Konch,196,1,01487
 855,1,Konch,151,5,00855
+1487,1,Konch,196,1,01487
 3357,2,Kondagaon,643,3,03357
 6307,1,Kondamallepally,514,,00000
 4462,2,Kondapak,692,13,04462
@@ -3345,8 +3346,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4738,5,Kothagudem,690,16,04738
 4593,3,Kothakota,693,45,04593
 5663,1,Kothamangalam,555,7,05663
-4912,1,Kothapalle,505,28,04912
 5263,1,Kothapalle,511,14,05263
+4912,1,Kothapalle,505,28,04912
 6230,3,Kothapally,508,,00000
 5140,1,Kotha Patnam,517,44,05140
 4927,1,Kothapeta,505,43,04927
@@ -3386,14 +3387,15 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5682,2,Kozhenchery,564,4,05682
 5640,2,Kozhikode,561,3,05640
 6783,1,Kralpora,8,,00000
+7119,1,KRANTI,314,,00000
 36,14,Kreeri,3,6,00036
 163,3,Krishangarh,25,4,00163
 6264,2,Krishna,721,,00000
 2309,1,Krishnaganj,320,11,02309
 2308,1,Krishnagar - I,320,10,02308
 2306,1,Krishnagar - II,320,8,02306
-5891,2,Krishnagiri,577,2,05891
 5277,1,Krishnagiri,511,28,05277
+5891,2,Krishnagiri,577,2,05891
 5571,1,Krishnarajanagara,545,3,05571
 5546,1,Krishnarajpet,544,1,05546
 5770,1,Krishnarayapuram,576,3,05770
@@ -3415,7 +3417,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5502,3,Kudligi,528,7,05502
 1448,1,Kudra,200,3,01448
 4035,1,Kuhi,484,13,04035
-1794,1,Kuhoboto,244,2,01794
+1794,2,Kuhoboto,244,2,01794
 2936,1,Kujang,355,2,02936
 6169,1,Kukarmunda,641,,00000
 6327,1,Kukatpally,700,,00000
@@ -3506,8 +3508,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5382,1,K.V.B.Puram,503,16,05382
 7052,1,K V Kuppam,595,,00000
 2262,1,Labpur,307,14,02262
-552,1,Lachhmangarh,114,0002,00552
 503,3,Lachhmangarh,87,11,00503
+552,1,Lachhmangarh,114,0002,00552
 6098,2,Lada Circle,231,,00000
 1084,1,Ladania,206,5,01084
 125,7,Lad Bharol,22,3,00125
@@ -3525,14 +3527,14 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3264,1,Lailunga,386,2,03264
 1694,9,Laju SDO,239,8,01694
 4043,1,Lakhandur,471,7,04043
-6168,1,Lakhani,441,,00000
 4041,1,Lakhani,471,5,04041
+6168,1,Lakhani,441,,00000
 6468,1,Lakhan Majra ST,73,,00000
-2771,1,Lakhanpur,357,2,02771
 3248,2,Lakhanpur,389,0,03248
-801,1,Lakhimpur,159,4,00801
-2013,1,Lakhipur,287,1,02013
+2771,1,Lakhanpur,357,2,02771
+801,10,Lakhimpur,159,4,00801
 2100,1,Lakhipur,282,0005,02100
+2013,1,Lakhipur,287,1,02013
 1368,1,Lakhisarai,204,4,01368
 3659,1,Lakhnadon,428,1,03659
 1099,1,Lakhnaur,206,20,01099
@@ -3548,14 +3550,14 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2108,1,Lala,289,3,02108
 3671,1,Lalbarra,392,0,03671
 6351,1,Laldhang,50,,00000
-969,3,Lalganj,123,4,00969
-1270,1,Lalganj,224,3,01270
+880,1,Lalganj,174,4,00880
+969,8,Lalganj,123,4,00969
 1001,1,Lalganj,170,0002,01001
 826,1,Lalganj,175,4,00826
-880,1,Lalganj,174,4,00880
+1270,1,Lalganj,224,3,01270
 2229,1,Lalgola,319,7,02229
 5777,1,Lalgudi,591,5,05777
-862,2,Lalitpur,161,2,00862
+862,3,Lalitpur,161,2,00862
 345,1,Lalkuan,51,0,00345
 6792,1,Lalpora,8,,00000
 3818,1,Lalpur,447,7,03818
@@ -3679,23 +3681,23 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3160,1,Madanpur Rampur,358,7,03160
 2170,2,Madarihat,664,5,02170
 5907,1,Madathukulam,634,0,05907
-6369,2,madawara,161,,00000
+6369,4,madawara,161,,00000
 5292,1,Maddikera (East),511,43,05292
 5127,1,Maddipadu,517,31,05127
 6300,1,Maddirala,696,,00000
-4673,2,Maddur,692,2,04673
 4554,2,Maddur,721,6,04554
 5551,1,Maddur,544,6,05551
+4673,2,Maddur,692,2,04673
 4564,2,Madgul,518,16,04564
 4245,1,Madha,496,2,04245
 1100,1,Madhepur,206,21,01100
 1161,1,Madhepura,205,4,01161
 4766,1,Madhira,509,44,04766
 851,1,Madhogarh,151,1,00851
-972,1,Madhuban,168,2,00972
 1055,1,Madhuban,213,25,01055
-1093,1,Madhubani,206,9,01093
+972,1,Madhuban,168,2,00972
 1021,1,Madhubani,211,9,01021
+1093,1,Madhubani,206,9,01093
 5535,1,Madhugiri,548,4,05535
 2550,1,Madhupur,324,5,02550
 1080,1,Madhwapur,206,1,01080
@@ -3729,13 +3731,13 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5285,1,Mahanandi,511,36,05285
 2956,1,Mahanga,350,1,02956
 6725,2,Mahanpur,7,,00000
-1236,1,Maharajganj,222,8,01236
-823,1,Maharajganj,175,1,00823
 947,2,Maharajganj,164,1,00947
+823,2,Maharajganj,175,1,00823
+1236,1,Maharajganj,222,8,01236
 3428,1,Maharajpur,398,0,03428
 6837,1,Maharanipeta,520,,00000
 3341,1,Mahasamund,385,3,03341
-920,1,Mahasi,125,2,00920
+920,3,Mahasi,125,2,00920
 763,1,Mahavan,167,2,00763
 411,5,Mahendragarh,69,1,00411
 3757,2,Mahesana,451,7,03757
@@ -3753,15 +3755,15 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6880,1,Maholi,183,,00000
 4095,1,Mahoor,485,1,04095
 6850,1,Mahore,627,,00000
-863,3,Mahroni,161,3,00863
+863,6,Mahroni,161,3,00863
 1275,1,Mahua,224,8,01275
 2637,1,Mahuadanr,335,15,02637
 3877,1,Mahudha,450,9,03877
 2831,1,Mahulapada,373,27,02831
 2887,1,Mahuldiha,365,24,02887
 2781,1,Mahulpalli,371,2,02781
-3941,1,Mahuva,459,0015,03941
 3860,1,Mahuva,443,11,03860
+3941,1,Mahuva,459,0015,03941
 534,4,Mahwa,97,2,00534
 3470,1,Maihar,426,7,03470
 1016,1,Mainatanr,211,4,01016
@@ -3771,7 +3773,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6702,1,Maira Mandrian,5,,00000
 1982,1,Mairang,279,3,01982
 1240,1,Mairwa,222,12,01240
-6871,1,Maitha,156,,00000
+6871,8,Maitha,156,,00000
 75,1,Majalta,14,5,00075
 3701,1,Majhauli,433,7,03701
 1027,1,Majhaulia,211,15,01027
@@ -3795,15 +3797,15 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6969,4,Makridi,22,,00000
 3680,1,Maksoodangarh,406,0,03680
 4589,2,Makthal,721,41,04589
-2167,1,Mal,314,2,02167
+2167,2,Mal,314,2,02167
 6382,3,MALAKHERA,87,,00000
 528,1,Malarna Doongar,113,3,00528
 5552,1,Malavalli,544,7,05552
 2217,1,Maldah (Old),316,10,02217
 4604,2,Maldakal,695,56,04604
-4146,1,Malegaon,487,0005,04146
 3995,1,Malegaon,499,1,03995
-269,2,Malerkotla,43,2,00269
+4146,1,Malegaon,487,0005,04146
+269,4,Malerkotla,737,2,00269
 7014,5,Malharganj,410,,00000
 3493,1,Malhargarh,416,2,03493
 4405,2,Malharrao,687,13,04405
@@ -3861,10 +3863,10 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2693,1,Mandar,339,9,02693
 4776,1,Mandasa,519,8,04776
 5015,1,Mandavalli,510,26,05015
-6914,4,Mandawar,97,,00000
 494,1,Mandawar,87,2,00494
-17,1,Mandi,10,1,00017
+6914,4,Mandawar,97,,00000
 133,18,Mandi,22,10,00133
+17,1,Mandi,10,1,00017
 2429,2,Mandirbazar,304,18,02429
 3643,1,Mandla,415,2,03643
 524,2,Mandrayal,108,5,00524
@@ -3891,16 +3893,16 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1828,1,Mangko,249,0,01828
 1764,1,Mangkolemba,246,7,01764
 2278,1,Mangolkote,306,11,02278
+3832,1,Mangrol,448,8,03832
 670,1,Mangrol,89,1,00670
 3933,1,Mangrol,459,0002,03933
-3832,1,Mangrol,448,8,03832
 3996,1,Mangrulpir,499,2,03996
 6933,4,Mania,98,,00000
 1185,4,Manigachhi,195,5,01185
 1156,1,Manihari,201,15,01156
 2635,1,Manika,335,9,02635
 2219,1,Manikchak,316,12,02219
-5930,1,MANIKPUR,136,,00000
+5930,9,MANIKPUR,136,,00000
 6515,1,Maninagar,438,,00000
 6772,1,Manjakote,12,,00000
 5932,1,Manjeswaram,558,,00000
@@ -3923,9 +3925,9 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4611,3,Manopad,695,63,04611
 3998,1,Manora,499,4,03998
 3258,1,Manora,380,0,03258
-1494,1,Manpur,196,8,01494
 3309,1,Manpur,388,7,03309
 3484,5,Manpur,436,0,03484
+1494,1,Manpur,196,8,01494
 249,2,Mansa,37,3,00249
 3774,1,Mansa,446,2,03774
 1152,1,Mansahi,201,11,01152
@@ -3967,7 +3969,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5163,1,Marripadu,515,11,05163
 5129,1,Marripudi,517,33,05129
 2932,1,Marsaghai,360,5,02932
-6165,1,MARTINGANJ,123,,00000
+6165,6,MARTINGANJ,123,,00000
 5106,1,Martur,517,10,05106
 5954,1,MARUNGAPURI,591,,00000
 69,4,Marwah,620,4,00069
@@ -3985,7 +3987,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3875,2,Matar,450,7,03875
 410,3,Matenhail,64,3,00410
 2181,1,Mathabhanga - I,308,3,02181
-2182,1,Mathabhanga - II,308,4,02182
+2182,2,MATHABHANGA II,308,4,02182
 5701,5,Mathavaram,568,8,05701
 3221,1,Mathili,364,2,03221
 764,2,Mathura,167,3,00764
@@ -3997,8 +3999,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1320,1,Matihani,191,17,01320
 6412,2,Matlauda,71,,00000
 4670,3,MattamPally,696,58,04670
-876,1,Mau,136,0002,00876
 7000,2,Mau,395,,00000
+876,3,Mau,136,0002,00876
 4029,1,Mauda,484,7,04029
 867,1,Maudaha,149,3,00867
 3477,2,Mauganj,424,4,03477
@@ -4044,12 +4046,12 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3708,1,Meghnagar,412,3,03708
 3765,2,Meghraj,672,6,03765
 6894,3,Mehatpur,26,,00000
-941,1,Mehdawal,178,1,00941
+941,2,Mehdawal,178,1,00941
 2555,1,Meherma,330,1,02555
 3393,2,Mehgaon,395,3,03393
 3982,1,Mehkar,472,8,03982
 3873,1,Mehmedabad,450,5,03873
-970,1,Mehnagar,123,7,00970
+970,2,Mehnagar,123,7,00970
 6080,1,Mehrauli,83,,00000
 1057,1,Mehsi,213,27,01057
 894,1,Meja,120,7,00894
@@ -4084,7 +4086,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2453,1,Midnapore,318,13,02453
 5267,1,Midthur,511,18,05267
 1659,3,Migging Circle,240,2,01659
-6862,1,MIHINPURWA MOTIPUR,125,,00000
+6862,8,MIHINPURWA MOTIPUR,125,,00000
 3397,1,Mihona,395,6,03397
 2030,1,Mikirbheta,296,5,02030
 728,1,Milak,176,5,00728
@@ -4099,7 +4101,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4664,1,Miryalaguda,514,52,04664
 1000,1,Mirzapur,170,1,01000
 803,2,Misrikh,183,1,00803
-6875,1,Mitauli,159,,00000
+6875,23,Mitauli,159,,00000
 6636,1,Modakkurichi,573,,00000
 1538,1,Modanganj,199,9,01538
 3769,2,Modasa,672,10,03769
@@ -4114,16 +4116,16 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 990,3,Mohammadabad,146,4,00990
 2257,1,Mohammad Bazar,307,9,02257
 2617,1,Mohammad Ganj,338,0,02617
-800,2,Mohammdi,159,3,00800
+800,14,Mohammdi,159,3,00800
 3101,1,Mohana,353,2,03101
 3419,1,Mohangarh,434,0,03419
 1449,1,Mohania,200,4,01449
 822,1,Mohanlalganj,162,4,00822
-6689,1,Mohanpur,272,1,00000
-2546,1,Mohanpur,324,2,02546
 2469,1,Mohanpur,318,52,02469
+2546,1,Mohanpur,324,2,02546
 1509,1,Mohanpur,196,10,01509
 1293,1,Mohanpur,217,10,01293
+6689,2,Mohanpur,272,1,00000
 6635,1,MOHANUR,580,,00000
 1294,1,Mohiuddinagar,217,11,01294
 3655,1,Mohkhed,399,0,03655
@@ -4150,7 +4152,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2067,1,Moran,286,5,02067
 196,2,Morang,19,3,00196
 2086,1,Morangi,288,4,02086
-6498,3,MOREH,716,,00000
+6498,4,MOREH,716,,00000
 3387,5,Morena,417,3,03387
 7047,1,Morena Nagar,417,,00000
 279,3,Mori,57,0,00279
@@ -4188,7 +4190,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6671,1,Muduchinthalapally,700,,00000
 5857,1,Mudukulathur,583,3,05857
 3222,1,Mudulipada,364,3,03222
-6869,1,Mugalsarai,135,,00000
+6869,10,Mugalsarai,135,,00000
 6764,1,Mughalmaidan,620,,00000
 6235,1,Mugpal,516,,00000
 974,1,Muhammadabad Gohna,168,4,00974
@@ -4279,8 +4281,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5547,1,Nagamangala,544,2,05547
 2035,1,Nagaon,297,5,02035
 5799,1,Nagapattinam,579,4,05799
-4209,1,Nagar,466,9,04209
 507,3,Nagar,91,3,00507
+4209,1,Nagar,466,9,04209
 6298,1,Nagaram,696,,00000
 5095,1,Nagaram,506,56,05095
 2123,1,Nagarbera,291,7,02123
@@ -4353,8 +4355,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 157,7,Namhol,15,0,00157
 2439,1,Namkhana,304,28,02439
 2690,1,Namkum,339,7,02690
-4654,2,Nampally,514,42,04654
 4504,1,Nampally,507,9,04504
+4654,2,Nampally,514,42,04654
 1676,7,Nampong SDO,229,5,01676
 1732,6,Namsai HQ,678,12,01732
 1831,1,Namsang,615,0,01831
@@ -4393,13 +4395,13 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 178,2,Nankhari,23,2,00178
 5805,1,Nannilam,590,3,05805
 2263,1,Nanoor,307,15,02263
-919,2,Nanpara,125,1,00919
+919,9,Nanpara,125,1,00919
 1078,1,Nanpur,221,16,01078
 2050,1,Naobaicha,295,3,02050
 1315,1,Naokothi,191,12,01315
 6954,3,Narag,24,,00000
 358,1,Naraingarh,58,1,00358
-874,1,Naraini,128,4,00874
+874,3,Naraini,128,4,00874
 3161,1,Narala,358,6,03161
 4799,1,Narasannapeta,519,31,04799
 4987,1,Narasapuram,523,44,04987
@@ -4414,12 +4416,12 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4452,3,Narayankhed,691,3,04452
 3204,1,Narayanpatana,363,6,03204
 4570,2,Narayanpet,721,22,04570
-1329,1,Narayanpur,192,1,01329
-6936,3,Narayanpur,87,,00000
-3367,1,Narayanpur,637,2,03367
-4648,3,Narayanpur,697,36,04648
 2676,1,Narayanpur,333,11,02676
+6936,3,Narayanpur,87,,00000
 2048,1,Narayanpur,295,1,02048
+4648,3,Narayanpur,697,36,04648
+3367,1,Narayanpur,637,2,03367
+1329,1,Narayanpur,192,1,01329
 6813,4,Narbal,2,,00000
 1511,1,Nardiganj,210,1,01511
 430,3,Narela,80,1,00430
@@ -4448,7 +4450,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6272,1,Narsingi,513,,00000
 4854,1,Narsipatnam,520,14,04854
 4588,4,Narwa,721,40,04588
-6163,1,NARWAL,157,,00000
+6163,2,NARWAL,157,,00000
 382,4,Narwana,65,1,00382
 3409,2,Narwar,432,3,03409
 4152,1,Nashik,487,11,04152
@@ -4464,15 +4466,15 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 645,6,Nathdwara,112,7,00645
 1339,1,Nathnagar,192,11,01339
 6470,1,Nathusari Chopta,74,,00000
-5963,4,Natrampalli,732,,00000
+5963,5,Natrampalli,732,,00000
 1404,1,Naubatpur,212,7,01404
 1332,1,Naugachhia,192,4,01332
 2942,1,Naugaon,355,0,02942
 933,1,Naugarh,182,2,00933
-6870,1,NAUGARH,135,,00000
-6831,1,Naugawan Sadat,154,,00000
-1171,1,Nauhatta,216,1,01171
+6870,5,NAUGARH,135,,00000
+6831,9,Naugawan Sadat,154,,00000
 1469,1,Nauhatta,215,1,01469
+1171,1,Nauhatta,216,1,01171
 1030,1,Nautan,211,18,01030
 1229,1,Nautan,222,18,01229
 944,2,Nautanwa,164,1,00944
@@ -4481,10 +4483,10 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3922,1,Navsari,453,1,03922
 566,3,Nawa,110,10,00566
 2625,1,Nawa Bazar,338,0,02625
-788,1,Nawabganj,130,5,00788
 898,1,Nawabganj,129,5,00898
-4514,2,Nawabpet,698,3,04514
+788,1,Nawabganj,130,5,00788
 4556,1,Nawabpet,512,8,04556
+4514,2,Nawabpet,698,3,04514
 1512,1,Nawada,210,2,01512
 2588,1,Nawadih,322,1,02588
 2621,1,Nawadiha Bazar/Nawadiha*,338,0,02621
@@ -4540,7 +4542,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4968,1,Nidamarru,523,25,04968
 4661,4,Nidmanoor,514,49,04661
 6451,1,Nigdu ST,67,,00000
-797,1,Nighasan,159,1,00797
+797,9,Nighasan,159,1,00797
 2992,1,Nihalprasad,352,10,02992
 231,1,Nihal Singhwala,38,1,00231
 1795,1,Nihokhu,244,3,01795
@@ -4576,7 +4578,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3560,1,Niwali,393,5,03560
 3415,2,Niwari,722,1,03415
 3641,1,Niwas,415,1,03641
-967,2,Nizamabad,123,4,00967
+967,6,Nizamabad,123,4,00967
 4368,5,Nizamabad North,516,12,04368
 6233,1,Nizamabad Rural,516,,00000
 6385,1,NIZAMABAD SOUTH,516,,00000
@@ -4602,8 +4604,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1855,1,Nsong,613,10,01855
 1899,1,'N' Thingdawl,263,1,01899
 3004,1,N.T.P.C.,344,5,03004
-3120,1,Nuagaon,359,6,03120
 3025,1,Nuagaon,367,6,03025
+3120,1,Nuagaon,359,6,03120
 3097,1,NUAGAON,354,17,03097
 1447,1,Nuaon,200,2,01447
 3154,1,NUAPADA,368,2,03154
@@ -4672,7 +4674,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3185,1,Padmapur,370,5,03185
 2757,1,Padmapur,347,3,02757
 3906,1,Padra,461,10,03906
-955,2,Padrauna,160,1,00955
+955,7,Padrauna,160,1,00955
 3213,1,Padua,363,14,03213
 2627,1,Padwa,338,0,02627
 5261,1,Pagidyala,511,12,05261
@@ -4681,7 +4683,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1044,1,Paharpur,213,14,01044
 6194,4,Pahloo,622,,00000
 2755,1,Paikamal,347,1,02755
-6157,1,Pailani,128,,00000
+6157,4,Pailani,128,,00000
 4141,1,Paithan,469,9,04141
 6955,1,Pajhota,24,,00000
 5396,1,Pakala,503,30,05396
@@ -4717,14 +4719,14 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3420,2,Palera,434,4,03420
 4163,2,Palghar,665,7,04163
 6418,5,Palhawas ST,72,,00000
-6881,1,Pali,161,,00000
 3485,1,Pali,436,0,03485
 601,6,Pali,111,5,00601
+6881,3,Pali,161,,00000
 3274,1,Pali,383,2,03274
-798,1,Palia,159,1,00798
+798,2,Palia,159,1,00798
 1407,1,Paliganj,212,10,01407
 6250,2,Palimela,687,,00000
-1703,6,Palin Circle,677,4,01703
+1703,7,Palin Circle,677,4,01703
 3858,2,Palitana,443,9,03858
 2717,1,Palkot,331,11,02717
 5905,1,Palladam,634,4,05905
@@ -4828,11 +4830,11 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6846,1,PASSA VALLEY CIRCLE,723,,00000
 1053,1,Patahi,213,23,01053
 2604,1,Patamda,327,1,02604
-3747,2,Patan,455,5,03747
 2626,1,Patan,338,6,02626
-3629,1,Patan,411,2,03629
 4264,1,Patan,494,10,04264
+3747,2,Patan,455,5,03747
 3318,1,Patan,378,7,03318
+3629,1,Patan,411,2,03629
 2843,1,Patana,361,9,02843
 4494,3,Patancheru,691,44,04494
 3835,2,Patan-Veraval,675,11,03835
@@ -4874,8 +4876,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5940,1,Pattambi,563,,00000
 2926,1,Pattamundai,360,3,02926
 34,13,Pattan,3,5,00034
-260,2,Patti,609,5,00260
 883,1,Patti,174,4,00883
+260,2,Patti,609,5,00260
 5290,1,Pattikonda,511,41,05290
 5816,1,Pattukkottai,586,7,05816
 6140,2,PATUK ADC,233,,00000
@@ -4886,7 +4888,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6924,4,Pavta,102,,00000
 3440,3,Pawai,420,4,03440
 6363,2,Pawkidevi,55,,00000
-6861,1,PAYAGPUR,125,,00000
+6861,15,PAYAGPUR,125,,00000
 4881,1,Payakaraopeta,520,41,04881
 226,1,Payal,36,3,00226
 1612,2,Payeng Circle,241,6,01612
@@ -4957,7 +4959,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1857,1,Peren,613,12,01857
 5643,1,Perinthalmanna,562,3,05643
 5843,1,Periyakulam,588,2,05843
-6663,9,Pernambut,595,,00000
+6663,10,Pernambut,595,,00000
 5609,1,Pernem,551,1,05609
 5752,1,Perundurai,573,4,05752
 5957,2,Perur,569,,00000
@@ -4994,8 +4996,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1903,4,Phullen,727,2,01903
 2090,1,Phuloni,292,3,02090
 1087,1,Phulparas,206,8,01087
+968,7,Phulpur,123,2,00968
 889,1,Phulpur,120,2,00889
-968,3,Phulpur,123,2,00968
 1402,1,Phulwari,212,5,01402
 1220,1,Phulwaria,197,6,01220
 1890,3,Phungyar,717,4,01890
@@ -5009,12 +5011,12 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 790,2,Pilibhit,173,1,00790
 6445,1,Pillukhera ST,65,,00000
 4725,3,Pinapaka,690,3,04725
-995,1,Pindra,187,1,00995
+995,17,Pindra,187,1,00995
 594,1,Pindwara,115,3,00594
 2463,1,Pingla,318,30,02463
 665,1,Pipalda,109,1,00665
-1366,1,Pipariya,204,2,01366
 3618,4,Pipariya,409,6,03618
+1366,1,Pipariya,204,2,01366
 6051,3,Pipar shahar,107,,00000
 3057,1,Pipili,369,2,03057
 3500,1,Piploda,423,1,03500
@@ -5093,10 +5095,10 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 699,1,Pratapgarh,629,12,00699
 882,1,Pratapgarh,174,3,00882
 295,3,Pratapnagar,55,3,00295
-3239,2,Pratappur,648,3,03239
 2515,1,Pratappur,323,2,02515
-5081,1,Prathipadu,506,42,05081
+3239,2,Pratappur,648,3,03239
 4900,1,Prathipadu,505,16,04900
+5081,1,Prathipadu,506,42,05081
 441,2,Preet Vihar,78,3,00441
 3246,2,Premnagar,648,0,03246
 3417,2,Prithvipur,722,2,03417
@@ -5176,8 +5178,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1479,1,Rafiganj,189,4,01479
 6129,3,Raga ADC,718,,00000
 3679,1,Raghogarh,406,5,03679
-1105,1,Raghopur,223,5,01105
 1279,2,Raghopur,224,5,01279
+1105,1,Raghopur,223,5,01105
 4757,3,Raghunadhapalem,509,35,04757
 2821,1,Raghunathapali,373,17,02821
 2227,1,Raghunathganj - I,319,5,02227
@@ -5209,11 +5211,11 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2296,1,Raina - I,306,29,02296
 2298,1,Raina - II,306,31,02298
 6283,1,Raipole,692,,00000
+6925,3,Raipur,105,,00000
+598,1,Raipur,111,2,00598
+632,1,Raipur,92,0006,00632
 2376,1,Raipur,305,21,02376
 3332,1,Raipur,387,9,03332
-598,1,Raipur,111,2,00598
-6925,3,Raipur,105,,00000
-632,1,Raipur,92,0006,00632
 3442,1,Raipura,420,0,03442
 3480,3,Raipur - Karchuliyan,424,6,03480
 6411,3,Raipur Rani,70,,00000
@@ -5235,11 +5237,11 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5847,2,Rajapalayam,597,1,05847
 4615,3,Rajapeta,697,3,04615
 6261,1,Rajapur,512,,00000
+6156,6,Rajapur,136,,00000
 4274,1,Rajapur,492,9,04274
-6156,1,Rajapur,136,,00000
 2332,1,Rajarhat,303,17,02332
 6653,1,RAJASINGAMANGALAM,583,,00000
-6093,1,Rajatalab,187,,00000
+6093,19,Rajatalab,187,,00000
 1524,1,Rajauli,210,14,01524
 1347,1,Rajaun,190,3,01347
 6447,1,Rajaund ST,66,,00000
@@ -5247,10 +5249,10 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4527,2,Rajendranagar,518,16,04527
 2166,1,Rajganj,314,1,02166
 502,5,Rajgarh,87,0010,00502
+6762,2,Rajgarh,621,,00000
 482,5,Rajgarh,96,2,00482
 167,4,Rajgarh,24,1,00167
 3565,3,Rajgarh,422,3,03565
-6762,1,Rajgarh,621,,00000
 280,6,Rajgarhi,57,2,00280
 1394,1,Rajgir,209,17,01394
 3333,2,Rajim,645,10,03333
@@ -5260,19 +5262,19 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6524,1,RAJKOT SOUTH,457,,00000
 6523,1,RAJKOT WEST,457,,00000
 2569,1,Rajmahal,340,6,02569
-2258,1,Rajnagar,307,10,02258
 1095,1,Rajnagar,206,16,01095
 3430,1,Rajnagar,398,5,03430
 2923,1,Rajnagar,360,7,02923
+2258,1,Rajnagar,307,10,02258
 3305,1,Rajnandgaon,388,4,03305
 6296,1,Rajoli,695,,00000
 22,6,Rajouri,12,2,00022
 449,1,Rajouri Garden,85,3,00449
 6796,6,Rajpora,11,,00000
-3558,1,Rajpur,393,3,03558
-3250,2,Rajpur,649,7,03250
 1443,1,Rajpur,194,9,01443
+3558,1,Rajpur,393,3,03558
 1464,1,Rajpur,215,9,01464
+3250,2,Rajpur,649,7,03250
 254,8,Rajpura,41,4,00254
 6719,1,Rajpura,624,,00000
 643,8,Rajsamand,112,5,00643
@@ -5289,8 +5291,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5398,1,Ramachandrapuram,503,32,05398
 4924,1,Ramachandrapuram,505,40,04924
 4423,1,Ramadugu,508,30,04423
-5348,1,Ramagiri,502,45,05348
 3109,3,Ramagiri,353,90,03109
+5348,1,Ramagiri,502,45,05348
 6216,2,RAMAGIRI,682,,00000
 4399,5,Ramagundam,682,7,04399
 5428,1,Ramakuppam,503,62,05428
@@ -5310,12 +5312,12 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5442,1,Ramdurg,527,10,05442
 5861,1,Rameswaram,583,7,05861
 668,1,Ramganj Mandi,109,4,00668
-6353,2,Ramgarh,51,,00000
-6724,3,Ramgarh,624,,00000
-2668,1,Ramgarh,326,14,02668
 2662,1,Ramgarh,607,14,02662
-1446,1,Ramgarh,200,1,01446
+2668,1,Ramgarh,326,14,02668
+6353,2,Ramgarh,51,,00000
 498,1,Ramgarh,87,6,00498
+6724,3,Ramgarh,624,,00000
+1446,1,Ramgarh,200,1,01446
 6325,1,RAMGARH,338,,00000
 1370,1,Ramgarh Chowk,204,5,01370
 6908,5,Ramgarh Pachwara,97,,00000
@@ -5326,18 +5328,18 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6728,2,Ramkote,7,,00000
 2105,1,Ramkrishna Nagar,293,5,02105
 2501,1,Ramna,328,5,02501
-74,3,Ramnagar,14,5,00074
-3469,1,Ramnagar,426,6,03469
-1014,1,Ramnagar,211,2,01014
 897,1,Ramnagar,129,2,00897
 343,1,Ramnagar,51,0,00343
+3469,1,Ramnagar,426,6,03469
+1014,1,Ramnagar,211,2,01014
+74,3,Ramnagar,14,5,00074
 2493,1,Ramnagar - I,317,53,02493
 2494,1,Ramnagar - II,317,54,02494
 4895,1,Rampachodavaram,505,11,04895
-177,11,Rampur,23,1,00177
-726,1,Rampur,176,3,00726
-1454,1,Rampur,200,9,01454
 3134,1,Rampur,372,7,03134
+1454,1,Rampur,200,9,01454
+177,11,Rampur,23,1,00177
+726,2,Rampur,176,3,00726
 7032,2,Rampura,419,,00000
 244,2,Rampura Phul,28,1,00244
 3466,1,Rampur Baghelan,426,0,03466
@@ -5364,13 +5366,13 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6396,1,Rangpo,225,,00000
 1333,1,Rangra Chowk,192,5,01333
 6898,4,Rani,111,,00000
-2702,1,Rania,606,15,02702
 391,4,Rania,74,3,00391
+2702,1,Rania,606,15,02702
 5495,1,Ranibennur,540,7,05495
 2375,1,Ranibundh,305,20,02375
 1115,1,Raniganj,188,4,01115
-884,1,Raniganj,174,3,00884
 2271,2,Raniganj,704,4,02271
+884,1,Raniganj,174,3,00884
 328,1,Ranikhet,45,2,00328
 1983,2,Ranikor,658,4,01983
 2236,1,Raninagar - I,319,14,02236
@@ -5391,9 +5393,9 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5746,2,Rasipuram,580,2,05746
 2998,1,Rasol,352,8,02998
 977,2,Rasra,126,3,00977
-843,2,Rasulabad,156,1,00843
+843,3,Rasulabad,156,1,00843
 485,1,Ratangarh,96,6,00485
-865,1,Rath,149,2,00865
+865,3,Rath,149,2,00865
 386,5,Ratia,61,1,00386
 3507,5,Ratlam,423,6,03507
 7009,4,Ratlam Nagar,423,,00000
@@ -5417,8 +5419,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1031,1,Raxaul,213,1,01031
 5239,1,Rayachoti,504,41,05239
 5305,1,Rayadurg,502,2,05305
-3107,1,Rayagada,353,8,03107
 3181,1,Rayagada,370,8,03181
+3107,1,Rayagada,353,8,03107
 4703,2,Rayaparthy,522,32,04703
 4921,1,Rayavaram,505,37,04921
 5435,1,Raybag,527,3,05435
@@ -5476,8 +5478,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1724,3,Roing HQ,235,8,01724
 5353,1,Rolla,502,50,05353
 4855,1,Rolugunta,520,15,04855
-5066,1,Rompicherla,506,27,05066
 5373,1,Rompicherla,503,7,05373
+5066,1,Rompicherla,506,27,05066
 5469,3,Ron,537,2,05469
 3396,1,Ron,395,5,03396
 1978,1,Rongara,277,3,01978
@@ -5516,11 +5518,11 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6688,1,Sabroom,271,,00000
 760,1,Sadabad,163,4,00760
 4049,1,Sadak-Arjuni,476,6,04049
-821,3,Sadar,162,3,00821
-996,3,Sadar,187,2,00996
-6696,1,Sadar,272,10,00000
+6696,2,Sadar,272,10,00000
 3164,1,Sadar,358,15,03164
 2791,1,Sadar,371,15,02791
+996,21,Sadar,187,2,00996
+821,5,Sadar,162,3,00821
 3066,1,Sadar,369,9,03066
 4381,4,Sadashivanagar,685,25,04381
 4490,2,Sadasivpet,691,40,04490
@@ -5531,14 +5533,14 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 814,3,Safipur,186,1,00814
 1601,7,Sagalee ADC,237,6,01601
 5515,1,Sagar,547,1,05515
-3449,5,Sagar,425,5,03449
 2438,1,Sagar,304,27,02438
+3449,5,Sagar,425,5,03449
 2230,1,Sagardighi,319,8,02230
 7030,1,Sagar Nagar,425,,00000
 3912,1,Sagbara,452,4,03912
 2505,1,Sagma,328,0,02505
 6840,1,SAGO,724,,00000
-965,1,Sagri,123,2,00965
+965,4,Sagri,123,2,00965
 648,2,Sagwara,99,3,00648
 2898,1,Sahadevkhunta,346,8,02898
 6499,2,SAHAMPHUNG,717,,00000
@@ -5558,7 +5560,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 949,1,Sahjanwa,148,2,00949
 4511,1,Saidabad,507,16,04511
 988,1,Saidpur,146,2,00988
-837,1,Saifai,139,2,00837
+837,2,Saifai,139,2,00837
 1921,1,Saiha,267,0,01921
 7003,2,Saikheda,418,,00000
 6501,5,SAIKOT,254,,00000
@@ -5573,7 +5575,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1862,5,Saitu-Gamphazol,712,5,01862
 3313,2,Saja,650,3,03313
 6043,1,SAJJANGARH,88,,00000
-992,4,Sakaldiha,135,1,00992
+992,10,Sakaldiha,135,1,00992
 6079,1,Saket,83,,00000
 4939,1,Sakhinetipalle,505,55,04939
 5553,1,Sakleshpur,539,1,05553
@@ -5588,14 +5590,14 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5616,1,Salcete,552,2,05616
 4048,1,Salekasa,476,5,04048
 5740,3,Salem,584,5,05740
-962,1,Salempur,137,4,00962
+962,2,Salempur,137,4,00962
 5970,1,Salem South,584,,00000
 5971,1,Salem West,584,,00000
 2957,1,Salepur,350,1,02957
 6443,1,Salhawas ST,64,,00000
 1179,1,Salkhua,216,9,01179
 6818,6,Sallar,1,,00000
-829,3,Salon,175,7,00829
+829,4,Salon,175,7,00829
 2356,1,Saltora,305,1,02356
 692,3,Salumbar,117,8,00692
 85,6,Saluni,16,3,00085
@@ -5643,9 +5645,9 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 199,2,Sangla,19,6,00199
 669,2,Sangod,109,5,00669
 4251,1,Sangole,496,8,04251
-1364,1,Sangrampur,207,16,01364
-3976,1,Sangrampur,472,2,03976
 1046,1,Sangrampur,213,16,01046
+3976,1,Sangrampur,472,2,03976
+1364,1,Sangrampur,207,16,01364
 1705,6,SANGRAM SDO,233,6,01705
 271,2,Sangrur,43,4,00271
 1819,1,Sangsangnyu,249,0,01819
@@ -5656,12 +5658,12 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1465,1,Sanjhauli,215,9,01465
 5871,5,Sankarankoil,733,2,05871
 5733,5,Sankarapuram,729,6,05733
-5739,1,Sankari,584,4,05739
 6404,2,Sankari,57,,00000
+5739,1,Sankari,584,4,05739
 4892,1,Sankhavaram,505,8,04892
 3904,3,Sankheda,668,8,03904
-2404,1,Sankrail,313,19,02404
 2459,2,Sankrail,703,19,02459
+2404,1,Sankrail,313,19,02404
 14,1,Sanku,6,1,00014
 3744,1,Santalpur,455,1,03744
 4790,1,Santhabommali,519,22,04790
@@ -5687,8 +5689,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1202,1,Saraiya,208,4,01202
 2666,1,Saraiyahat,326,1,02666
 3117,1,Sarangagarh,359,7,03117
-4396,3,Sarangapur,681,4,04396
 4336,3,Sarangapur,680,32,04336
+4396,3,Sarangapur,681,4,04396
 3270,1,Sarangarh,386,6,03270
 3567,1,Sarangpur,422,5,03567
 3032,1,Sarankul,367,8,03032
@@ -5703,13 +5705,13 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 732,1,Sardhana,169,1,00732
 247,2,Sardulgarh,37,1,00247
 2377,1,Sarenga,305,22,02377
-866,1,Sarila,149,2,00866
+866,3,Sarila,149,2,00866
 6081,1,Sarita Vihar,670,,00000
 129,11,Sarkaghat,22,7,00129
 1712,6,SARLI CIRCLE,233,10,01712
 6389,2,SARMATHURA,98,,00000
 1384,1,Sarmera,209,7,01384
-6094,1,Sarojani Nagar,162,,00005
+6094,3,Sarojani Nagar,162,,00005
 4526,2,Saroornagar,518,15,04526
 2023,1,Sarthebari,280,5,02023
 4793,1,Sarubujjili,519,25,04793
@@ -5755,8 +5757,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 810,1,Sawayajpur,150,2,00810
 3542,4,Sawer,410,2,03542
 1884,1,Sawombung,255,2,01884
-585,1,Sayla,104,1,00585
 3795,1,Sayla,460,8,03795
+585,1,Sayla,104,1,00585
 1918,3,S' Bungtlang,264,0,01918
 1850,1,Sechu-Zubza,245,0,01850
 4498,1,Secunderabad,507,3,04498
@@ -5766,8 +5768,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 438,2,Seema Puri,671,3,00438
 6836,1,Seethammadhara,520,,00000
 4770,1,Seethampeta,519,2,04770
-4896,1,Seethanagaram,505,12,04896
 4814,1,Seethanagaram,521,8,04814
+4896,1,Seethanagaram,505,12,04896
 5153,1,Seetharamapuram,515,1,05153
 3548,1,Segaon,414,4,03548
 6553,1,Segi Gusar Circle,241,,00000
@@ -5801,8 +5803,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1835,1,Seyochung,614,13,01835
 4542,1,Shabad,518,31,04542
 3687,3,Shadhora,391,0,03687
-809,1,Shahabad,150,4,00809
 727,2,Shahabad,176,4,00727
+809,1,Shahabad,150,4,00809
 7088,3,SHAHABAD,538,,00000
 3953,1,Shahade,486,4,03953
 4167,1,Shahapur,497,11,04167
@@ -5817,13 +5819,13 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1341,1,Shahkund,192,13,01341
 3441,2,Shahnagar,420,5,03441
 6794,1,Shahoora,11,,00000
+98,17,Shahpur,18,6,00098
 5588,4,Shahpur,635,9,05588
 3603,2,Shahpur,394,3,03603
-98,17,Shahpur,18,6,00098
 1421,1,Shahpur,193,1,01421
-540,1,Shahpura,102,3,00540
 3630,1,Shahpura,411,3,03630
 3639,1,Shahpura,404,1,03639
+540,1,Shahpura,102,3,00540
 629,2,Shahpura,92,3,00629
 4283,1,Shahuwadi,480,1,04283
 6431,1,Shahzadpur ST,58,,00000
@@ -5839,9 +5841,9 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3495,1,Shamgarh,416,0,03495
 1321,1,Shamho Akha Kurha,191,18,01321
 4520,4,Shamirpet,700,9,04520
-707,7,Shamli,660,2,00707
-3576,1,Shamshabad,437,0,03576
+707,9,Shamli,660,2,00707
 4543,1,Shamshabad,518,32,04543
+3576,1,Shamshabad,437,0,03576
 1747,1,Shangnyu,247,4,01747
 56,8,Shangus,1,3,00056
 4454,1,Shankarampet (A),513,5,04454
@@ -5871,9 +5873,9 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4207,1,Shevgaon,466,7,04207
 5489,1,Shiggaon,540,1,05489
 2671,1,Shikaripara,326,6,02671
-750,1,Shikarpur,134,6,00750
+750,2,Shikarpur,134,6,00750
 5517,1,Shikarpur,547,3,05517
-774,2,Shikohabad,143,4,00774
+774,3,Shikohabad,143,4,00774
 181,13,Shimla ( Rural ),23,0,00181
 182,1,Shimla (urban),23,0,00182
 4295,1,Shirala,493,1,04295
@@ -5902,7 +5904,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 3583,2,Shyampur,427,0,03583
 2410,1,Shyampur - I,313,13,02410
 2411,1,Shyampur - II,313,14,02411
-747,1,Siana,134,3,00747
+747,4,Siana,134,3,00747
 6573,1,Sibe Circle,719,,00000
 2071,3,Sibsagar,300,2,02071
 5486,1,Siddapur,550,9,05486
@@ -5993,7 +5995,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4315,2,Sirpur (T),699,11,04315
 4326,4,Sirpur U,699,22,04326
 390,4,Sirsa,74,2,00390
-6161,1,SIRSAGANJ,143,,00000
+6161,2,SIRSAGANJ,143,,00000
 5483,1,Sirsi,550,6,05483
 5499,1,Siruguppa,528,4,05499
 5286,1,Sirvel,511,37,05286
@@ -6007,7 +6009,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 804,1,Sitapur,183,2,00804
 3252,1,Sitapur,389,9,03252
 351,4,Sitarganj,56,3,00351
-1839,1,Sitimi,614,18,01839
+1839,2,Sitimi,614,18,01839
 5832,3,Sivaganga,585,4,05832
 5870,3,Sivagiri,733,1,05870
 5849,2,Sivakasi,597,3,05849
@@ -6071,7 +6073,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2907,1,Soro,346,15,02907
 2855,1,Soso,361,20,02855
 1820,1,Sotokur,249,0,01820
-2011,9,South Salmara,707,7,02011
+2011,10,South Salmara,707,7,02011
 116,1,Spiti,21,3,00116
 4882,1,S.Rayavaram,520,42,04882
 5206,1,Sri Avadhutha Kasinayana,504,8,05206
@@ -6099,7 +6101,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5848,2,Srivilliputhur,597,2,05848
 4831,1,Srungavarapukota,521,25,04831
 6506,1,SUANGDOH,254,,00000
-723,2,Suar,176,1,00723
+723,3,Suar,176,1,00723
 3138,1,Subalaya,372,4,03138
 2054,1,Subansiri (Pt-I),295,92,02054
 6024,1,Subir,444,,00000
@@ -6116,8 +6118,8 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 5197,1,Sullurpeta,515,45,05197
 327,4,Sult,45,0,00327
 1340,1,Sultanganj,192,12,01340
-915,2,Sultanpur,185,4,00915
 6532,8,Sultanpur,421,,00000
+915,2,Sultanpur,185,4,00915
 207,1,Sultanpur Lodhi,35,3,00207
 4425,3,Sulthanabad,682,32,04425
 5636,1,Sulthanbathery,567,2,05636
@@ -6175,7 +6177,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 4389,3,Tadwai,685,33,04389
 858,1,Tahrauli,153,3,00858
 1290,1,Tajpur,217,7,01290
-6158,1,Takha,139,,00000
+6158,3,Takha,139,,00000
 3294,1,Takhatpur,375,5,03294
 6963,7,Taklech,23,,00000
 6549,1,Taksing Circle,241,,00000
@@ -6209,21 +6211,21 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1865,1,Tamenglong North,258,2,01865
 1864,1,Tamenglong West,258,1,01864
 3647,1,Tamia,399,1,03647
-958,2,Tamkuhi Raj,160,4,00958
+958,6,Tamkuhi Raj,160,4,00958
 1830,1,Tamlu,615,1,01830
 2472,1,Tamluk,317,25,02472
 3266,1,Tamnar,386,0,03266
 4305,2,Tamsi,501,1,04305
 2144,3,Tamulpur,616,9,02144
 5360,1,Tanakal,502,57,05360
+724,2,Tanda,176,1,00724
 907,1,Tanda,121,1,00907
-724,1,Tanda,176,1,00724
-4534,2,Tandur,698,23,04534
 4332,2,Tandur,684,28,04332
+4534,2,Tandur,698,23,04534
 2525,1,Tandwa,323,10,02525
 2822,1,Tangarapali,373,18,02822
-2955,1,Tangi,350,8,02955
 3052,1,Tangi,362,12,03052
+2955,1,Tangi,350,8,02955
 39,16,Tangmarg,3,8,00039
 5141,1,Tangutur,517,45,05141
 3800,2,Tankara,673,3,03800
@@ -6240,11 +6242,11 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 930,1,Tarabganj,147,3,00930
 1250,1,Taraiya,218,3,01250
 2342,1,Tarakeswar,312,5,02342
-1711,5,Tarak Lengdi Cicle,677,0,01711
+1711,6,Tarak Lengdi Cicle,677,0,01711
 3512,3,Tarana,435,5,03512
 481,1,Taranagar,96,1,00481
-1362,1,Tarapur,207,7,01362
 3861,1,Tarapur,440,1,03861
+1362,1,Tarapur,207,7,01362
 1433,1,Tarari,193,13,01433
 3071,1,TARASINGI,354,1,03071
 1595,9,Taraso Circle,237,0,01595
@@ -6303,6 +6305,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 2871,1,Thakurmunda,365,25,02871
 2412,1,Thakurpukur Mahestola,304,1,02412
 6359,7,Thal,53,,00000
+7120,1,Thalaivasal,584,,00000
 4562,5,Thalakondapally,518,14,04562
 5634,2,Thalassery,557,3,05634
 6539,1,Thalavadi,573,,00000
@@ -6378,7 +6381,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1575,8,Thrizino ADC,242,8,01575
 3171,1,Thuamul Rampur,358,9,03171
 5053,1,Thullur,506,14,05053
-136,11,Thunag,22,13,00136
+136,12,Thunag,22,13,00136
 4620,5,Thungaturthy,696,8,04620
 5775,1,Thuraiyur,591,3,05775
 108,15,Thural,18,14,00108
@@ -6447,7 +6450,7 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 6642,2,Tiruvengadam,733,,00000
 5982,6,Tiruvottiyur,568,,00000
 4997,1,Tiruvuru,510,8,04997
-835,2,Tirwa,155,3,00835
+835,4,Tirwa,155,3,00835
 4333,3,Tiryani,699,29,04333
 6649,1,Tisayanvilai,592,,00000
 2533,1,Tisri,329,2,02533
@@ -6559,20 +6562,20 @@ Sub District Code,Sub District Version,Sub District Name ,District Code,Census 2
 1985,1,Umling,276,1,01985
 3853,1,Umrala,443,4,03853
 4034,1,Umred,484,12,04034
-3653,1,Umreth,399,0,03653
 3863,1,Umreth,440,3,03863
+3653,1,Umreth,399,0,03653
 4103,1,Umri,485,9,04103
 1987,2,Umsning,276,2,01987
-6159,1,UN,660,,00000
+6159,3,UN,660,,00000
 150,11,Una,26,4,00150
 3838,3,Una,675,14,03838
-828,1,Unchahar,175,6,00828
+828,2,Unchahar,175,6,00828
 3465,1,Unchahara,426,0,03465
 6299,1,Undavelly,695,,00000
 4976,1,Undi,523,33,04976
 4970,1,Undrajavaram,523,27,04970
-4962,1,Unguturu,523,19,04962
 5013,1,Unguturu,510,24,05013
+4962,1,Unguturu,523,19,04962
 621,1,Uniara,116,7,00621
 3753,1,Unjha,451,3,03753
 816,1,Unnao,186,3,00816
