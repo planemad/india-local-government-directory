@@ -2,6 +2,8 @@
 
 Data dump of entities from the India Local Government Directory. These include the official listing of administrative units with unique identifier codes.
 
+UPDATE: For the latest complete dump of https://lgdirectory.gov.in/ data in CSV format please see https://ramseraph.github.io/opendata/lgd/
+
 ## Contents
 
 **Reference Lookups**
@@ -10,15 +12,15 @@ Data dump of entities from the India Local Government Directory. These include t
 
 **Administrative**
 
-- 1. States `All States of India`
-- 2. Districts `All Districts of India`
-- 3. Subdistricts (tehsil, taluka, mandal, circle) `All Sub-Districts of India`
-- 4. Villages `All Villages of India`
+- 1-State `All States of India`
+- 2-District `All Districts of India`
+- 3-Subdistrict (tehsil, taluka, mandal, circle) `All Sub-Districts of India`
+- 4-Village `All Villages of India`
 - Blocks `All Blocks of India`
 
 **Constituency**
 
-1-2. Parliament and assembly constituencies `State Wise Parliament Constituency and Assembly Constituency`
+Parliament and assembly constituencies `State Wise Parliament Constituency and Assembly Constituency`
  - Per state (incomplete)
 
 **Municipal**
@@ -39,7 +41,7 @@ India Local Government Directory https://lgdirectory.gov.in/downloadDirectory.do
 
 **Date of retrieval**
 
-28 November 2020
+11 March 2022
 
 **License**
 
