@@ -1,556 +1,700 @@
-S.No.,Organization / Department Code,Organization / Department Name,Organization Type,Parent Code,Parent Name,Parent Type
-"1","741",Comptroller And Auditor General Of India,Department,"740",Comptroller And Auditor General Of India,Ministry
-"2","1587",Department For Promotion Of Industry And Internal Trade,Department,"1565",Ministry Of Commerce And Industry,Ministry
-"3","543",Department of Adi Dravidar and Tribal Welfare,Department,"490",Ministry of Tribal Affarirs,Ministry
-"4","1611",Department Of Administrative Reforms And Public Grievances (DARPG),Department,"1578","Ministry Of Personnel, Public Grievances And Pensions",Ministry
-"5","511",Department of Agriculture and Cooperation,Department,"498",MINISTRY OF AGRICULTURE AND FARMERS WELFARE,Ministry
-"6","513",Department of Agriculture Research and Education,Department,"498",MINISTRY OF AGRICULTURE AND FARMERS WELFARE,Ministry
-"7","512","Department of Animal Husbandary, Diary and Fisheries",Department,"498",MINISTRY OF AGRICULTURE AND FARMERS WELFARE,Ministry
-"8","1614",Department Of Biotechnology,Department,"1579",Ministry Of Science And Technology,Ministry
-"9","1604",Department Of Border Management,Department,"1574",Ministry Of Home Affairs,Ministry
-"10","1584",Department Of Chemicals And Petrochemicals,Department,"1562",Ministry Of Chemicals And Fertilizers,Ministry
-"11","1588",Department Of Commerce,Department,"1565",Ministry Of Commerce And Industry,Ministry
-"12","1589",Department Of Consumer Affairs,Department,"1566","Ministry Of Consumer Affairs, Food And Public Distribution",Ministry
-"13","1592",Department Of Defence,Department,"1569",Ministry Of Defence,Ministry
-"14","1593",Department Of Defence Production,Department,"1569",Ministry Of Defence,Ministry
-"15","1594",Department Of Defence Research And Development,Department,"1569",Ministry Of Defence,Ministry
-"16","1560",Department of Drinking Water and Sanitation,Department,"1559",Ministry of Jal Shakti,Ministry
-"17","506",Department of Drinking Water Supply,Department,"487",Ministry of Rural Development,Ministry
-"18","1597",Department Of Economic Affairs,Department,"499",Ministry of Finance,Ministry
-"19","1617",Department Of Empowerment Of Persons With Disabilities,Department,"712",Ministry of Social Justice and Empowerment,Ministry
-"20","514",Department of Expenditure,Department,"499",Ministry of Finance,Ministry
-"21","1595",Department Of Ex-Servicemen Welfare,Department,"1569",Ministry Of Defence,Ministry
-"22","1484",Department of External Affairs,Department,"626",Ministry of External Affairs,Ministry
-"23","1585",Department Of Fertilizers,Department,"1562",Ministry Of Chemicals And Fertilizers,Ministry
-"24","1174",Department of Financial Service,Department,"499",Ministry of Finance,Ministry
-"25","1590",Department Of Food And Public Distribution,Department,"1566","Ministry Of Consumer Affairs, Food And Public Distribution",Ministry
-"26","541",Department of Forest and Environment,Department,"493","Ministry of Environment,forests and climate change",Ministry
-"27","509",Department of Health and Family Welfare,Department,"489",MINISTRY OF HEALTH & FAMILY WELFARE,Ministry
-"28","1601",Department Of Health Research,Department,"489",MINISTRY OF HEALTH & FAMILY WELFARE,Ministry
-"29","1602",Department Of Heavy Industry,Department,"1573",Ministry Of Heavy Industries And Public Enterprises,Ministry
-"30","1608",Department Of Higher Education,Department,"488",Ministry of Human Resource Development,Ministry
-"31","1605",Department Of Home,Department,"1574",Ministry Of Home Affairs,Ministry
-"32","508",Department of Human Resource and Development,Department,"488",Ministry of Human Resource Development,Ministry
-"33","1598",Department Of Investment And Public Asset Management,Department,"499",Ministry of Finance,Ministry
-"34","695",Department of Justice,Department,"563",Ministry of Law and Justice,Ministry
-"35","507",Department of Land Resources,Department,"487",Ministry of Rural Development,Ministry
-"36","564",Department of Legal Affairs,Department,"563",Ministry of Law and Justice,Ministry
-"37","1147",Department of National Highways,Department,"1146",Ministry of Road Transport & Highways,Ministry
-"38","538",Department of New and Renewable Energy,Department,"502",MINISTRY OF NEW AND RENEWABLE ENERGY,Ministry
-"39","1606",Department Of Official Language,Department,"1574",Ministry Of Home Affairs,Ministry
-"40","1612",Department Of Pension And Pensioners Welfare,Department,"1578","Ministry Of Personnel, Public Grievances And Pensions",Ministry
-"41","1613",Department Of Personnel and Training,Department,"1578","Ministry Of Personnel, Public Grievances And Pensions",Ministry
-"42","1586",Department Of Pharmaceuticals,Department,"1562",Ministry Of Chemicals And Fertilizers,Ministry
-"43","1149",Department of Posts,Department,"1065",Ministry of Communication,Ministry
-"44","539",Department of Power,Department,"492",Ministry of Power,Ministry
-"45","537",Department of Programme Implementation,Department,"500",Ministry of Statistics and Programme Implementation,Ministry
-"46","1603",Department Of Public Enterprises,Department,"1573",Ministry Of Heavy Industries And Public Enterprises,Ministry
-"47","1599",Department Of Revenue,Department,"499",Ministry of Finance,Ministry
-"48","505",Department of Rural Development,Department,"487",Ministry of Rural Development,Ministry
-"49","1162",Department of School Education & Literacy,Department,"488",Ministry of Human Resource Development,Ministry
-"50","1636",Department of Science and Technology,Department,"1579",Ministry Of Science And Technology,Ministry
-"51","1615",Department Of Science And Technology,Department,"1579",Ministry Of Science And Technology,Ministry
-"52","1616",Department Of Scientific And Industrial Research,Department,"1579",Ministry Of Science And Technology,Ministry
-"53","1238",Department of Socail Justice,Department,"712",Ministry of Social Justice and Empowerment,Ministry
-"54","1618",Department Of Sports,Department,"520",Ministry of Youth Affairs & Sports,Ministry
-"55","1607",Department Of States,Department,"1574",Ministry Of Home Affairs,Ministry
-"56","536",Department of Statistics,Department,"500",Ministry of Statistics and Programme Implementation,Ministry
-"57","1066",Department of Telecommunication,Department,"1065",Ministry of Communication,Ministry
-"58","535",Department of Urban Development,Department,"501",Ministry of Urban Development,Ministry
-"59","1609","Department Of Water Resources, River Development And Ganga Rejuvenation",Department,"1559",Ministry of Jal Shakti,Ministry
-"60","540",Department of Women and Child Development,Department,"503",Ministry of Woman and Child Development,Ministry
-"61","1619",Department Of Youth Affairs,Department,"520",Ministry of Youth Affairs & Sports,Ministry
-"62","1985",DEPT. OF ATOMIC ENERGY,Department,"1984",PMO,Ministry
-"63","1986",DEPT. OF SPACE,Department,"1984",PMO,Ministry
-"64","716",DIT,Department,"494",Ministry of Communication and IT,Ministry
-"65","719",Employees Provident Fund Organisation,Department,"496",Ministry of Labour,Ministry
-"66","1600",Income Tax Department,Department,"499",Ministry of Finance,Ministry
-"67","1596",India Meteorological Department (IMD),Department,"1571",Ministry Of Earth Sciences,Ministry
-"68","1164",Indian Railways,Department,"1163",Ministry of Railways,Ministry
-"69","1610",Legislative Department,Department,"563",Ministry of Law and Justice,Ministry
-"70","510",Ministry of Electronics & Information Technology,Department,"494",Ministry of Communication and IT,Ministry
-"71","691",Ministry of Labour and Employment,Department,"496",Ministry of Labour,Ministry
-"72","688",Ministry of Panchayati Raj,Department,"486",Ministry of Panchayati Raj,Ministry
-"73","717",National Commission for Scheduled Tribes,Department,"712",Ministry of Social Justice and Empowerment,Ministry
-"74","1239",National Land Records Modernization Programme,Department,"487",Ministry of Rural Development,Ministry
-"75","1161",National Skill Development Corporation India,Department,"1160",Ministry of Skill Development And Entrepreneurship,Ministry
-"76","2200",Office of the Development Commissioner(Textiles),Department,"504",Ministry of Textiles,Ministry
-"77","542",Panchayati Raj Department,Department,"486",Ministry of Panchayati Raj,Ministry
-"78","2144",Railway Board,Department,"1163",Ministry of Railways,Ministry
-"79","2",Test Department,Department,,,Ministry
-"80","1669",AGRINNOVATE INDIA LTD.,Organization,"513",Department of Agriculture Research and Education,Department
-"81","2019",Ali Yavar Jung National Institute Of Speech And Hearing Disabilities (AYJNISHD)-Mumbai,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"82","1175",Allahabad Bank,Organization,"1174",Department of Financial Service,Department
-"83","2050","All India Jain Youth Federation, Karnataka",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"84","2026","Amarjyoti Charitable Trust, N. Delhi",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"85","2045","Andhjan Kalyan Trust, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"86","1176",Andhra Bank,Organization,"1174",Department of Financial Service,Department
-"87","1762",ANDREW YULE & COMPANY LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"88","1995",ANTRIX CORPORATION LTD.,Organization,"1986",DEPT. OF SPACE,Department
-"89","1987",ANUSHAKTI VIDHYUT NIGAM LTD.,Organization,"1985",DEPT. OF ATOMIC ENERGY,Department
-"90","2032","Apang Jeevan Vikas Sanstha, Amravati",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"91","1941",ARTIFICIAL LIMBS MFG. CORPN. OF INDIA,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"92","2051","Asha Gram Trust, Barwani",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"93","2046","Ashirwad  Trust for Disabled, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"94","2033","Ayodhaya Chariatable Trust, Pune",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"95","1177",Bank of Baroda,Organization,"1174",Department of Financial Service,Department
-"96","1178",Bank of India,Organization,"1174",Department of Financial Service,Department
-"97","1179",Bank of Maharashtra,Organization,"1174",Department of Financial Service,Department
-"98","1741",BEL OPTRONICS DEVICES LTD.,Organization,"1593",Department Of Defence Production,Department
-"99","1742",BEL-THALES SYSTEMS LTD.,Organization,"1593",Department Of Defence Production,Department
-"100","1743",BEML LTD.,Organization,"1593",Department Of Defence Production,Department
-"101","1684",BENGAL CHEMICALS & PHARMACEUTICALS LTD.,Organization,"1586",Department Of Pharmaceuticals,Department
-"102","2071","Bhagwan Mahaveer Viklang Sahayata Samiti, Jaipur",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"103","2085","Bharabi Club, Orrissa",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"104","1730",BHARAT BROADBAND NETWORK LTD.,Organization,"1066",Department of Telecommunication,Department
-"105","1744",BHARAT DYNAMICS LTD.,Organization,"1593",Department Of Defence Production,Department
-"106","2101",BHARAT ELECTRONICS LTD.,Organization,"1593",Department Of Defence Production,Department
-"107","1763",BHARAT HEAVY ELECTRICALS LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"108","1927",BHARAT IMMUNOLOGICALS & BIOLOGICALS CORP. LTD.,Organization,"1614",Department Of Biotechnology,Department
-"109","1988",BHARATIYA NABHIKIYA VIDYUT NIGAM LTD.,Organization,"1985",DEPT. OF ATOMIC ENERGY,Department
-"110","1764",BHARAT PUMPS & COMPRESSORS LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"111","1067",Bharat Sanchar Nigam Limited,Organization,"1066",Department of Telecommunication,Department
-"112","2048","Bharat Vikas Parishad, Ludhiana, Punjab",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"113","1765",BHEL ELECTRICAL MACHINES LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"114","2031","Bikaram Nagar Uddayan Sangha, Kolkatta",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"115","2030","Bikas Bharti Welfare Society, Kolkatta",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"116","1928",BIOTECHNOLOGY INDUSTRY RESEARCH ASSISTANCE COUNCIL,Organization,"1614",Department Of Biotechnology,Department
-"117","2044","Blind People Association, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"118","2075","Blind Welfare Council, Dahod, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"119","1671",BRAHAMPUTRA CRACKERS & POLYMER LTD.,Organization,"1584",Department Of Chemicals And Petrochemicals,Department
-"120","1675",BRAHMAPUTRA VALLEY FERTILIZER CORPN. LTD.,Organization,"1585",Department Of Fertilizers,Department
-"121","1766",BRAITHWAITE BURN & JESSOP CONSTRUCTION COMPANY LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"122","1767",BRIDGE & ROOF CO.(INDIA) LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"123","1180",Canara Bank,Organization,"1174",Department of Financial Service,Department
-"124","1768",CEMENT CORPN. OF INDIA LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"125","1181",Central Bank of India,Organization,"1174",Department of Financial Service,Department
-"126","1930",CENTRAL ELECTRONICS LTD.,Organization,"1616",Department Of Scientific And Industrial Research,Department
-"127","1738",CENTRAL RAILSIDE WAREHOUSE CO. LTD.,Organization,"1590",Department Of Food And Public Distribution,Department
-"128","1739",CENTRAL WAREHOUSING CORPN.,Organization,"1590",Department Of Food And Public Distribution,Department
-"129","2059",Centre for Rehabiliation Services & Research- Orissa,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"130","2058",Centre for Rehabiliation Services & Research- Orissa,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"131","2040","Cherry Blossoms Society, Nagaland",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"132","1182",Corporation Bank,Organization,"1174",Department of Financial Service,Department
-"133","1659",Council of Scientific and Industrial Research,Organization,"1616",Department Of Scientific And Industrial Research,Department
-"134","2063","Debagrame Welfare Society, Assam",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"135","1183",Dena Bank,Organization,"1174",Department of Financial Service,Department
-"136","2037","Dikrong Vallley, Assam",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"137","2056","Disabled Welfare Society, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"138","2043","District Disability Rehabilitation Centre- East Godvari, AP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"139","1720",E. C. G. C. LTD.,Organization,"1588",Department Of Commerce,Department
-"140","1796",EdCIL(India) Ltd.,Organization,"1608",Department Of Higher Education,Department
-"141","1989",ELECTRONICS CORPN. OF INDIA LTD.,Organization,"1985",DEPT. OF ATOMIC ENERGY,Department
-"142","1769",ENGINEERING PROJECTS (INDIA) LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"143","1770",EPI URBAN INFRA DEVELOPERS LTD. (EPIUIDL),Organization,"1602",Department Of Heavy Industry,Department
-"144","1202",Exim Bank,Organization,"1174",Department of Financial Service,Department
-"145","1676",FCI ARAVALI GYPSUM & MINERALS (INDIA) LTD.,Organization,"1585",Department Of Fertilizers,Department
-"146","1677",FERTILIZERS & CHEMICALS (TRAVANCORE) LTD.,Organization,"1585",Department Of Fertilizers,Department
-"147","1740",FOOD CORPN. OF INDIA,Organization,"1590",Department Of Food And Public Distribution,Department
-"148","1745",GARDEN REACH SHIPBUILDERS & ENGINEERS LTD.,Organization,"1593",Department Of Defence Production,Department
-"149","2086","Gauri Shankar, Bhind, MP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"150","1201",General Insurance Corporation of India,Organization,"1174",Department of Financial Service,Department
-"151","1997",GOA ANTIBIOTICS & PHARMACEUTICALS  LTD.,Organization,"509",Department of Health and Family Welfare,Department
-"152","1746",GOA SHIPYARD LTD.,Organization,"1593",Department Of Defence Production,Department
-"153","2061","Guru Nanak Charitable Trust, Ludhiana",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"154","2060","Gyanaram Jhammanlal, Jaipur, Raj.",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"155","2082","Gyanaram Jhammanlal, Jaipur, Rajasthan",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"156","1771",HEAVY ENGINEERING CORPN. LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"157","1731",HEMISPHERE PROPERTIES INDIA LTD.,Organization,"1066",Department of Telecommunication,Department
-"158","1672",HIL (INDIA) LTD.,Organization,"1584",Department Of Chemicals And Petrochemicals,Department
-"159","1747",HINDUSTAN AERONAUTICS LTD.,Organization,"1593",Department Of Defence Production,Department
-"160","1685",HINDUSTAN ANTIBIOTICS LTD.,Organization,"1586",Department Of Pharmaceuticals,Department
-"161","1772",HINDUSTAN CABLES LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"162","1678",HINDUSTAN FERTILIZER CORPN. LTD.,Organization,"1585",Department Of Fertilizers,Department
-"163","1673",HINDUSTAN FLUOROCARBONS LIMITED,Organization,"1584",Department Of Chemicals And Petrochemicals,Department
-"164","1773",HINDUSTAN NEWSPRINT LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"165","1674",HINDUSTAN ORGANIC CHEMICALS LTD.,Organization,"1584",Department Of Chemicals And Petrochemicals,Department
-"166","1774",HINDUSTAN PAPER CORPORATION LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"167","1775",HINDUSTAN PHOTO FILMS MANUFACTURING CO. LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"168","1776",HINDUSTAN SALTS LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"169","1748",HINDUSTAN SHIPYARD LTD.,Organization,"1593",Department Of Defence Production,Department
-"170","1998",HLL BIOTECH LTD.,Organization,"509",Department of Health and Family Welfare,Department
-"171","1999",HLL INFRA TECH SERVICES LTD.,Organization,"509",Department of Health and Family Welfare,Department
-"172","2000",HLL LIFECARE LTD.,Organization,"509",Department of Health and Family Welfare,Department
-"173","2001",HLL MEDIPARK LTD,Organization,"509",Department of Health and Family Welfare,Department
-"174","2002",HLL MOTHER & CHILD CARE HOSPITALS LTD.,Organization,"509",Department of Health and Family Welfare,Department
-"175","1778",HMT BEARINGS LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"176","1779",HMT CHINAR WATCHES LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"177","1777",HMT (INTERNATIONAL) LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"178","1780",HMT LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"179","1781",HMT MACHINE TOOLS LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"180","1782",HMT WATCHES LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"181","1783",HOOGHLY PRINTING COMPANY LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"182","2003",HSCC (INDIA) LTD.,Organization,"509",Department of Health and Family Welfare,Department
-"183","2038","Humanity Foundation, Assam",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"184","1186",IDBI,Organization,"1174",Department of Financial Service,Department
-"185","1686",IDPL (TAMILNADU) LTD.,Organization,"1586",Department Of Pharmaceuticals,Department
-"186","1206",IFCI Ltd,Organization,"1174",Department of Financial Service,Department
-"187","1759",IIFCL ASSET MANAGEMENT COMPANY LTD.,Organization,"1174",Department of Financial Service,Department
-"188","1760",IIFCL PROJECTS LTD.,Organization,"1174",Department of Financial Service,Department
-"189","1761",INDIA INFRASTRUCTURE FINANCE CO. LTD.,Organization,"1174",Department of Financial Service,Department
-"190","1721",INDIA INTERNATIONAL CONVENTION AND EXHIBITION CENTRE LTD.,Organization,"1588",Department Of Commerce,Department
-"191","1185",Indian Bank,Organization,"1174",Department of Financial Service,Department
-"192","1687",INDIAN DRUGS & PHARMACEUTICALS LTD.,Organization,"1586",Department Of Pharmaceuticals,Department
-"193","1184",Indian Overseas Bank,Organization,"1174",Department of Financial Service,Department
-"194","2090",Indian Red Cross Society- Faridabad,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"195","2094","Indian Red Cross Society- Kangra, HP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"196","2091","Indian Red Cross Society-Kangra, HP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"197","2095","Indian Red Cross Society- Kullu, HP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"198","2092","Indian Red Cross Society- Sangrur, Punjab",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"199","2093",Indian Red Cross Society- Silvassa,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"200","2089",Indian Red Cross Society- Silvassa,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"201","2096","Indian Red Cross Society- Solan, HP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"202","2027","Indian Spinal Injuries Centre, N. Delhi",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"203","2041",Indian Spinal Injuries Centre-New Delhi,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"204","1929",INDIAN VACCINE CORP. LTD.,Organization,"1614",Department Of Biotechnology,Department
-"205","1150",India Post,Organization,"1149",Department of Posts,Department
-"206","1722",INDIA TRADE PROMOTION ORGANISATION,Organization,"1588",Department Of Commerce,Department
-"207","1749",INDO RUSSIAN HELICOPTERS LTD.,Organization,"1593",Department Of Defence Production,Department
-"208","1784",INSTRUMENTATION LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"209","1990",IREL (INDIA) LTD.,Organization,"1985",DEPT. OF ATOMIC ENERGY,Department
-"210","1732",I T I LTD.,Organization,"1066",Department of Telecommunication,Department
-"211","1785",JAGDISHPUR PAPER MILLS LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"212","2052","Jalguti, Assam",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"213","1729",JAMMU & KASHMIR DEVELOPMENT FINANCE CORPORATION LTD,Organization,"1587",Department For Promotion Of Industry And Internal Trade,Department
-"214","2067","Jayshree Maruti Nandan Kissan Vikas Education Trust, Gujarat.",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"215","2080","Jodhpur Manav Kalyan Seva Sangh, Jodhpur",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"216","2028","Kalyanam Karoti, Mathura, UP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"217","1688",KARNATAKA ANTIBIOTICS & PHARMACEUTICALS LTD.,Organization,"1586",Department Of Pharmaceuticals,Department
-"218","1723",KARNATAKA TRADE PROMOTION ORGANISATION,Organization,"1588",Department Of Commerce,Department
-"219","2068","Kerala State Handicapped Welfare Corporation, Kerala",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"220","1196",Life India Insurance,Organization,"1174",Department of Financial Service,Department
-"221","1679",MADRAS FERTILIZERS LTD.,Organization,"1585",Department Of Fertilizers,Department
-"222","1733",MAHANAGAR TELEPHONE NIGAM LTD.,Organization,"1066",Department of Telecommunication,Department
-"223","2034","Mahatama Gandhi Seva Sangh, Maharashtra",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"224","1750",MAMC INDUSTRIES LTD.,Organization,"1593",Department Of Defence Production,Department
-"225","2077","Manav Kalyan Mandal, Rajkot, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"226","2049","Manglam, Lucknow",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"227","1751",MAZAGON DOCK SHIPBUILDERS LTD.,Organization,"1593",Department Of Defence Production,Department
-"228","2073","Medical Care Centre, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"229","2074","Medical Care Centre, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"230","1734",MILLENNIUM TELECOM LTD.,Organization,"1066",Department of Telecommunication,Department
-"231","1752",MISHRA DHATU NIGAM LTD.,Organization,"1593",Department Of Defence Production,Department
-"232","1724",M M T C LTD.,Organization,"1588",Department Of Commerce,Department
-"233","2084","Mobility Aid Centre, Indore, MP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"234","2029","Mukti Sansthan, Ranchi",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"235","1786",NAGALAND PULP & PAPER COMPANY LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"236","1753",NAINI AEROSPACE LTD.,Organization,"1593",Department Of Defence Production,Department
-"237","2072","Narayan Seva Sansthan, Udaipur",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"238","1943",NATIONAL BACKWARD CLASSES FINANCE & DEVP.CO.,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"239","1203",National Bank for Agriculture and Rural Development,Organization,"1174",Department of Financial Service,Department
-"240","1680",NATIONAL FERTILIZERS LTD.,Organization,"1585",Department Of Fertilizers,Department
-"241","1942",NATIONAL HANDICAPPED FINANCE & DEVPT. CORPN.,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"242","1148",National Highways Authority of India,Organization,"1147",Department of National Highways,Department
-"243","1205",National Housing Bank,Organization,"1174",Department of Financial Service,Department
-"244","625",National Informatics Centre,Organization,"510",Ministry of Electronics & Information Technology,Department
-"245","1488",National Informatics Centre Services Inc.(NICSI),Organization,"510",Ministry of Electronics & Information Technology,Department
-"246","2025",National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD)- Chennai,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"247","2021",National Institute For Locomotor Disabilities (NILD)-Kolkatta,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"248","2023",National Institute for the Empowerment of Persons with Intellectual Disabilities (NIEPID)- Secunderabad,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"249","2020",National Institute for the Empowerment of Persons with Visual Disabilities (NIEPVD)-Dehradun,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"250","595",National Institute of Rural Development & Panchayati Raj,Organization,"505",Department of Rural Development,Department
-"251","2069",National Institute of Speech and Hearing (NISH)-Kerala,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"252","1200",National Insurance Co Ltd.,Organization,"1174",Department of Financial Service,Department
-"253","1931",NATIONAL RESEARCH DEVELOPMENT CORPN.,Organization,"1616",Department Of Scientific And Industrial Research,Department
-"254","1944",NATIONAL SAFAI KARAMCHARIS FINANCE & DEVPT. CORPN,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"255","1945",NATIONAL SCHEDULED CASTES FINANCE & DEVP. CORPN.,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"256","1668",National Seeds Corporation limited,Organization,"511",Department of Agriculture and Cooperation,Department
-"257","1787",NEPA LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"258","1197",New India Assurance,Organization,"1174",Department of Financial Service,Department
-"259","1996",NEWSPACE INDIA LTD.,Organization,"1986",DEPT. OF SPACE,Department
-"260","2036","North East Voluntary Association of Rural Development, Assam",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"261","1991",NPCIL - INDIAN OIL NUCLEAR ENERGY CORPORATION LTD.,Organization,"1985",DEPT. OF ATOMIC ENERGY,Department
-"262","1992",NPCIL - NALCO POWER COMPANY LTD.,Organization,"1985",DEPT. OF ATOMIC ENERGY,Department
-"263","1993",NUCLEAR POWER CORPN. OF INDIA LTD.,Organization,"1985",DEPT. OF ATOMIC ENERGY,Department
-"264","1187",Oriental Bank of commerce,Organization,"1174",Department of Financial Service,Department
-"265","1199",Oriental Insurance Company Ltd.,Organization,"1174",Department of Financial Service,Department
-"266","1689",ORISSA DRUGS & CHEMICALS LTD.,Organization,"1586",Department Of Pharmaceuticals,Department
-"267","1725",P E C LTD.,Organization,"1588",Department Of Commerce,Department
-"268","2066","Perpetual Reconstructive Instt. For Youth Activity, Orrissa",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"269","2087","Prabhat Gramodhog Sansthan, UP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"270","1681",PROJECTS & DEVELOPMENT INDIA LTD.,Organization,"1585",Department Of Fertilizers,Department
-"271","2022",Pt. Deendayal Upadhyaya National Institute For Persons with Physical Disabilities (PDUNIPPD)- New Delhi,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"272","1189",Punjab National Bank,Organization,"1174",Department of Financial Service,Department
-"273","1188",Punjab & Sind Bank,Organization,"1174",Department of Financial Service,Department
-"274","1690",RAJASTHAN DRUGS & PHARMACEUTICALS LTD.,Organization,"1586",Department Of Pharmaceuticals,Department
-"275","1788",RAJASTHAN ELECTRONICS AND INSTRUMENTS LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"276","1682",RASHTRIYA CHEMICALS AND FERTILIZERS LTD.,Organization,"1585",Department Of Fertilizers,Department
-"277","2064","Ravicherla Integrated Development & Education Society, AP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"278","2042","Rawat Shiksha Samiti, UP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"279","2057",Regional Rehabilitation and Research Centre- Orrisa,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"280","1213",Reserve Bank of India,Organization,"1174",Department of Financial Service,Department
-"281","1789",RICHARDSON & CRUDDAS LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"282","2047","Rogi Kalyan Samiti, Ahmedabad",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"283","2143",Rubber Board,Organization,"1588",Department Of Commerce,Department
-"284","2053","Rupahi Kohinoor Club, Assam",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"285","1790",SAMBHAR SALTS LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"286","2055","Sampart Education Society, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"287","2079","Saraswati Educational Society, Moradabad, UP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"288","1791",SCOOTERS INDIA LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"289","1758",SECURITY PRINTING & MINTING CORPN. INDIA LTD.,Organization,"1597",Department Of Economic Affairs,Department
-"290","2054","Shree Lok Seva Sarvjanik Trust, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"291","2076","Shri Brahma Samaj Seva Trust, Patan ,Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"292","2088","Shrimad Rajchandra Hospital, valsad, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"293","2083","Shri Ram Bhakt Sansakar Mandal, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"294","2065","S.K. R. Pupils Welfare Society, AP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"295","1204",Small Industries Development Bank of India,Organization,"1174",Department of Financial Service,Department
-"296","1190",State Bank of India,Organization,"1174",Department of Financial Service,Department
-"297","1726",STATE TRADING CORPN. OF INDIA LTD.,Organization,"1588",Department Of Commerce,Department
-"298","1727",STCL LTD.,Organization,"1588",Department Of Commerce,Department
-"299","2035",Student Welfare Mission Assam,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"300","2062","Suryodaya Khadi Mission, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"301","2024",Swami Vivekanand National Institute of Rehabilitation Training and Research (SVNIRTAR)-Cuttack,Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"302","1191",Syndicate Bank,Organization,"1174",Department of Financial Service,Department
-"303","1728",TAMIL NADU TRADE PROMOTION ORGANISATION,Organization,"1588",Department Of Commerce,Department
-"304","1735",TCIL BINA TOLL ROAD LTD.,Organization,"1066",Department of Telecommunication,Department
-"305","1736",TCIL LAKHNADONE TOLL ROAD LTD.,Organization,"1066",Department of Telecommunication,Department
-"306","1737",TELECOMMUNICATIONS CONSULTANTS (INDIA) LTD.,Organization,"1066",Department of Telecommunication,Department
-"307","2081","The All India Institute of Speech and Hearing, Mysore",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"308","1683",THE FERTILIZER CORPN. OF INDIA LTD.,Organization,"1585",Department Of Fertilizers,Department
-"309","1792",TUNGABHADRA STEEL PRODUCTS LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"310","1192",UCO Bank,Organization,"1174",Department of Financial Service,Department
-"311","1193",Union Bank of India,Organization,"1174",Department of Financial Service,Department
-"312","1194",United Bank of India,Organization,"1174",Department of Financial Service,Department
-"313","1198",United Insurance Company Ltd.,Organization,"1174",Department of Financial Service,Department
-"314","2078","Upasana Jan Kalyan Sewa Samiti, Rampur, UP",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"315","1994",URANIUM CORPORATION OF INDIA LTD.,Organization,"1985",DEPT. OF ATOMIC ENERGY,Department
-"316","2102",VIGNYAN INDUSTRIES LTD.,Organization,"1593",Department Of Defence Production,Department
-"317","1195",Vijaya Bank,Organization,"1174",Department of Financial Service,Department
-"318","2070","V-One Society, Gujarat",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"319","2039","Wodwichee, Assam",Organization,"1617",Department Of Empowerment Of Persons With Disabilities,Department
-"320","1793",YULE ELECTRICAL LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"321","1794",YULE ENGINEERING COMPANY LTD.,Organization,"1602",Department Of Heavy Industry,Department
-"322","1691",AAI CARGO LOGISTICS & ALLIED SERVICES COMPANY LTD.,Organization,"1563",Ministry Of Civil Aviation,Ministry
-"323","1692",AIR INDIA AIR TRANSPORT SERVICES LTD.,Organization,"1563",Ministry Of Civil Aviation,Ministry
-"324","1693",AIR INDIA ENGINEERING SERVICES LTD.,Organization,"1563",Ministry Of Civil Aviation,Ministry
-"325","1694",AIR INDIA EXPRESS LTD.,Organization,"1563",Ministry Of Civil Aviation,Ministry
-"326","1695",AIR INDIA LTD.,Organization,"1563",Ministry Of Civil Aviation,Ministry
-"327","1696",AIRLINE ALLIED SERVICES LTD.,Organization,"1563",Ministry Of Civil Aviation,Ministry
-"328","1697",AIRPORTS AUTHORITY OF INDIA,Organization,"1563",Ministry Of Civil Aviation,Ministry
-"329","1829",AJMER PHAGI TRANSCO LTD.,Organization,"492",Ministry of Power,Ministry
-"330","1756",ANDAMAN & NICOBAR ISL. FOREST & PLANT.DEV.CORP.LTD,Organization,"493","Ministry of Environment,forests and climate change",Ministry
-"331","1830",BALLABGARH - GN TRANSMISSION CO. LTD.,Organization,"492",Ministry of Power,Ministry
-"332","1804",BALMER LAWRIE & CO. LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"333","1805",BALMER LAWRIE INVESTMENTS LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"334","1701",BHARAT COKING COAL LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"335","1806","BHARAT GAS RESOURCES LTD,",Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"336","1809",BHARAT PETROLEUM CORPN. LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"337","1807",BHARAT PETRO RESOURCES JPDA,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"338","1808",BHARAT PETRO RESOURCES LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"339","1899",BHARAT WAGON & ENGG. CO. LTD.,Organization,"1163",Ministry of Railways,Ministry
-"340","1831",BHARTIYA RAIL BIJLEE CO. LTD.,Organization,"492",Ministry of Power,Ministry
-"341","1832",BHIND GUNA TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"342","1833",BIHAR INFRAPOWER LTD.,Organization,"492",Ministry of Power,Ministry
-"343","1834",BIHAR MEGA POWER LTD.,Organization,"492",Ministry of Power,Ministry
-"344","1835",BIJAWAR-VIDARBHA TRANSMISSION LTD,Organization,"492",Ministry of Power,Ministry
-"345","1967",BIRDS JUTE & EXPORTS LTD.,Organization,"504",Ministry of Textiles,Ministry
-"346","1810",BPCL-KIAL FUEL FARM PVT. LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"347","1900",BRAITHWAITE & CO. LTD.,Organization,"1163",Ministry of Railways,Ministry
-"348","1968",BRITISH INDIA CORPORATION LTD.,Organization,"504",Ministry of Textiles,Ministry
-"349","1797",BROADCAST ENGG. CONSULTANTS INDIA LTD.,Organization,"1575",Ministry Of Information And Broadcasting,Ministry
-"350","1836",BUNDELKHAND SAUR URJA LTD.,Organization,"492",Ministry of Power,Ministry
-"351","1901",BURN STANDARD COMPANY LTD.,Organization,"1163",Ministry of Railways,Ministry
-"352","1702",CENTRAL COALFIELDS LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"353","1969",CENTRAL COTTAGE INDUSTRIES CORPN. OF INDIA LTD.,Organization,"504",Ministry of Textiles,Ministry
-"354","1932",CENTRAL INLAND WATER TRANSPORT CORPN. LTD.,Organization,"1580",Ministry Of Shipping,Ministry
-"355","1703",CENTRAL MINE PLANNING & DESIGN INSTITUTE LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"356","1811",CERTIFICATION ENGINEERS INTERNATIONAL LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"357","1698",CHANDIGARH INTERNATIONAL AIRPORT LTD.,Organization,"1563",Ministry Of Civil Aviation,Ministry
-"358","1837",CHANDIL TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"359","2103",CHENNAI PETROLEUM CORPORATION LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"360","1838",CHEYYUR INFRA LTD.,Organization,"492",Ministry of Power,Ministry
-"361","1704",CHHATTISGARH EAST RAILWAYS LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"362","1705",CHHATTISGARH EAST-WEST RAILWAYS LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"363","1946",CHHATTISGARH MEGA STEEL CO. LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"364","1839",CHHATTISHGARH SURGUJA POWER LTD.,Organization,"492",Ministry of Power,Ministry
-"365","1706",COAL INDIA LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"366","1840",COASTAL KARNATAKA POWER LTD.,Organization,"492",Ministry of Power,Ministry
-"367","1841",COASTAL MAHARASHTRA MEGA POWER LTD.,Organization,"492",Ministry of Power,Ministry
-"368","1842",COASTAL TAMIL NADU POWER LTD.,Organization,"492",Ministry of Power,Ministry
-"369","1933",COCHIN SHIPYARD LTD.,Organization,"1580",Ministry Of Shipping,Ministry
-"370","1902",CONCOR AIR LTD.,Organization,"1163",Ministry of Railways,Ministry
-"371","1903",CONTAINER CORPORATION OF INDIA LTD.,Organization,"1163",Ministry of Railways,Ministry
-"372","2147",Damodar Valley Corporation,Organization,"492",Ministry of Power,Ministry
-"373","1904",DEDICATED FRIGHT CORRIDOR CORP. OF INDIA LTD.,Organization,"1163",Ministry of Railways,Ministry
-"374","2146",Delhi Metro Rail Corporation,Organization,"518",MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
-"375","1795",DELHI POLICE HOUSING CORPORATION LTD.,Organization,"1574",Ministry Of Home Affairs,Ministry
-"376","1843",DEOGHAR INFRA LTD.,Organization,"492",Ministry of Power,Ministry
-"377","1844",DEOGHAR MEGA POWER LTD.,Organization,"492",Ministry of Power,Ministry
-"378","1845",DINGCHANG TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"379","1846",DUMKA TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"380","1707",EASTERN COALFIELDS LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"381","1947",EASTERN INVESTMENT LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"382","1812",ENGINEERS INDIA LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"383","1948",FERRO SCRAP NIGAM LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"384","1905",FRESH & HEALTHY ENTERPRISES LTD.,Organization,"1163",Ministry of Railways,Ministry
-"385","1814",GAIL GAS LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"386","1813",GAIL (INDIA) LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"387","1641",GB Pant National Institute of Himalayan Environment (GBNIHE),Organization,"493","Ministry of Environment,forests and climate change",Ministry
-"388","1847",GHOGARPALLI INTEGRATED POWER COMPANY LTD.,Organization,"492",Ministry of Power,Ministry
-"389","1970",HANDICRAFTS & HANDLOOM EXPORTS CORP. OF INDIA LTD.,Organization,"504",Ministry of Textiles,Ministry
-"390","1906",HIGH SPEED RAIL CORPORATION OF INDIA LTD.,Organization,"1163",Ministry of Railways,Ministry
-"391","1800",HINDUSTAN COPPER LTD.,Organization,"1576",Ministry Of Mines,Ministry
-"392","1815",HINDUSTAN PETROLEUM CORPN. LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"393","2004",HINDUSTAN PREFAB LTD.,Organization,"518",MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
-"394","2005",HINDUSTAN STEELWORKS COSTN. LTD.,Organization,"518",MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
-"395","1934",HOOGHLY DOCK AND PORT ENGINEERS LTD.,Organization,"1580",Ministry Of Shipping,Ministry
-"396","1935",HOOGLY COCHIN SHIPYARD LTD.,Organization,"1580",Ministry Of Shipping,Ministry
-"397","1699",HOTEL CORPN. OF INDIA LTD.,Organization,"1563",Ministry Of Civil Aviation,Ministry
-"398","2006",HOUSING & URBAN DEV. CORPN. LTD.,Organization,"518",MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
-"399","1816",HPCL BIOFUELS LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"400","1817",HPCL RAJASTHAN REFINERY LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"401","1660",Indian Council of Agricultural Research,Organization,"498",MINISTRY OF AGRICULTURE AND FARMERS WELFARE,Ministry
-"402","1643","Indian Council of Forestry, Research and Education, Dehradun",Organization,"493","Ministry of Environment,forests and climate change",Ministry
-"403","1670",INDIAN MEDICINES & PHARMACEUTICAL CORPN. LTD.,Organization,"1561",Ministry Of Ayush,Ministry
-"404","1818",INDIAN OIL CORPORATION LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"405","1907",INDIAN RAILWAY CATERING AND TOURISM CORPN. LTD.,Organization,"1163",Ministry of Railways,Ministry
-"406","1908",INDIAN RAILWAY FINANCE CORPORATION LTD.,Organization,"1163",Ministry of Railways,Ministry
-"407","2012",INDIAN RENEWABLE ENERGY DEVT.AGENCY LTD.,Organization,"502",MINISTRY OF NEW AND RENEWABLE ENERGY,Ministry
-"408","1976",INDIA TOURISM DEV. CORPN. LTD.,Organization,"1582",Ministry Of Tourism,Ministry
-"409","1819",INDO CAT PRIVATE LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"410","1936",INLAND & COASTAL SHIPPING LTD.,Organization,"1580",Ministry Of Shipping,Ministry
-"411","1909",IRCON DAVANAGERE HAVERI HIGHWAY LTD.,Organization,"1163",Ministry of Railways,Ministry
-"412","1910",IRCON INFRASTRUCTURE & SERVICES LTD.,Organization,"1163",Ministry of Railways,Ministry
-"413","1911",IRCON INTERNATIONAL LTD.,Organization,"1163",Ministry of Railways,Ministry
-"414","1912",IRCON PB TOLLWAY LTD.,Organization,"1163",Ministry of Railways,Ministry
-"415","1913",IRCON SHIVPURI GUNA TOLLWAY LTD.,Organization,"1163",Ministry of Railways,Ministry
-"416","1914",IRCON VADODARA KIM EXPRESSWAY LTD.,Organization,"1163",Ministry of Railways,Ministry
-"417","1848",JAM KHAMBALIYA TRANSCO LTD.,Organization,"492",Ministry of Power,Ministry
-"418","1708",JHARKHAND CENTRAL RAILWAY LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"419","1849",JHARKHAND INFRAPOWER LTD.,Organization,"492",Ministry of Power,Ministry
-"420","1950",JHARKHAND KOLHAN STEEL LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"421","1951",JHARKHAND NATIONAL MINERAL DEVPT. CORPORATION LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"422","1949",J & K MINERAL DEVELOPMENT CORPN. LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"423","1937",KAMARAJAR PORT LTD.,Organization,"1580",Ministry Of Shipping,Ministry
-"424","1850",KANTI BIJLEE UTPADAN NIGAM LTD.,Organization,"492",Ministry of Power,Ministry
-"425","1952",KARNATAKA VIJAY NAGAR STEEL LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"426","1851",KHETRI TRANSCO LTD.,Organization,"492",Ministry of Power,Ministry
-"427","1953",KIOCL LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"428","1852",KODERMA TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"429","1853",KODERMA TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"430","1915",KOLKATA METRO RAIL CORPORATION LTD.,Organization,"1163",Ministry of Railways,Ministry
-"431","1916",KONKAN RAILWAY CORPORATION LTD.,Organization,"1163",Ministry of Railways,Ministry
-"432","1977",KUMARAKRUPPA FRONTIER HOTELS PVT. LTD.,Organization,"1582",Ministry Of Tourism,Ministry
-"433","1854",LAKADIA BANASKANTHA TRANSCO LTD.,Organization,"492",Ministry of Power,Ministry
-"434","1855",LOKTAK DOWNSTREAM HYDROELECTRIC CORPORATION LTD.,Organization,"492",Ministry of Power,Ministry
-"435","1709",MAHANADI BASIN POWER LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"436","1711",MAHANADI COALFIELDLS LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"437","1710",MAHANADI COAL RAILWAY LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"438","1856",MANDAR TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"439","1820",MANGALORE REFINERY & PETROCHEMICALS LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"440","1955",MECON LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"441","1801",MINERAL EXPLORATION CORPN. LTD.,Organization,"1576",Ministry Of Mines,Ministry
-"442","1712",MJSJ COAL LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"443","1713",MNH SHAKTI LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"444","1857",MOHINDER GARH-BHIWANI TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"445","1956",MOIL LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"446","1954",M S T C LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"447","1917",MUMBAI RAILWAY VIKAS CORPORATION LTD.,Organization,"1163",Ministry of Railways,Ministry
-"448","1858",NABINAGAR POWER GENERATING COMPANY LTD.,Organization,"492",Ministry of Power,Ministry
-"449","1802",NATIONAL ALUMINIUM COMPANY LTD.,Organization,"1576",Ministry Of Mines,Ministry
-"450","1798",NATIONAL FILM DEV. CORPN. LTD.,Organization,"1575",Ministry Of Information And Broadcasting,Ministry
-"451","1971",NATIONAL HANDLOOM DEVELOPMENT CORPORATION LTD.,Organization,"504",Ministry of Textiles,Ministry
-"452","1926",NATIONAL HIGHWAYS & INFRASTRUCTURE DEVELOPMENT CORPN. LTD.,Organization,"1146",Ministry of Road Transport & Highways,Ministry
-"453","2106",NATIONAL HIGHWAYS & INFRASTRUCTURE DEVELOPMENT CORPN. LTD.,Organization,"1146",Ministry of Road Transport & Highways,Ministry
-"454","1972",NATIONAL JUTE MANUFACTURES CORPORATION LTD.,Organization,"504",Ministry of Textiles,Ministry
-"455","1803",NATIONAL MINORITIES DEVP. & FINANCE CORPORATION,Organization,"521",Ministry of Minority Affairs,Ministry
-"456","2014",NATIONAL PROJECTS CONSTRUCTION CORPN. LTD.,Organization,"491","MINISTRY OF WATER RESOURCES, RIVER DEVELOPMENT & GANGA REJUVENATION",Ministry
-"457","1983",NATIONAL SCHEDULED TRIBES FINANCE & DEVP. CORPN.,Organization,"490",Ministry of Tribal Affarirs,Ministry
-"458","1799",NATIONAL SMALL INDUSTRIES CORPN. LTD.,Organization,"497","Ministry of Micro, Small and Medium Enterprises",Ministry
-"459","1973",NATIONAL TEXTILE CORPN. LTD.,Organization,"504",Ministry of Textiles,Ministry
-"460","2008",NBCC ENGINEERING AND CONSULTANCY LTD.,Organization,"518",MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
-"461","2009",NBCC ENVIRONMENT ENGINEERING LTD.,Organization,"518",MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
-"462","2007",NBCC (INDIA) LTD.,Organization,"518",MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
-"463","2010",NBCC INTERNATIONAL LTD.,Organization,"518",MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
-"464","2011",NBCC SERVICES LTD.,Organization,"518",MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
-"465","1714",NEYVELI UTTAR PRADESH POWER LTD,Organization,"1564",Ministry Of Coal,Ministry
-"466","1859",NHDC LTD.,Organization,"492",Ministry of Power,Ministry
-"467","1860",NHPC LTD.,Organization,"492",Ministry of Power,Ministry
-"468","1715",NLC INDIA LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"469","1716",NLC TAMIL NADU POWER LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"470","1961",NMDC-CMDC LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"471","1957",NMDC CSR FOUNDATION,Organization,"1581",Ministry Of Steel,Ministry
-"472","1958",NMDC Ltd.,Organization,"1581",Ministry Of Steel,Ministry
-"473","1959",NMDC POWER LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"474","1960",NMDC STEEL LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"475","1861",NORTH EASTERN ELECTRIC POWER CORPORATION LTD.,Organization,"492",Ministry of Power,Ministry
-"476","1754",NORTH EASTERN HANDICRAFTS & HANDLOOM DEV.CORPN. LTD.,Organization,"1570",Ministry Of Development Of North Eastern Region,Ministry
-"477","1755",NORTH EASTERN REGIONAL AGRI. MARKETING CORP.LTD.,Organization,"1570",Ministry Of Development Of North Eastern Region,Ministry
-"478","1717",NORTHERN COALFIELDS LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"479","1862",NTPC ELECTRIC SUPPLY COMPANY LTD.,Organization,"492",Ministry of Power,Ministry
-"480","1863",NTPC LTD.,Organization,"492",Ministry of Power,Ministry
-"481","1864",NTPC VIDYUT VYAPAR NIGAM LTD.,Organization,"492",Ministry of Power,Ministry
-"482","1821",NUMALIGARH REFINERY LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"483","1865",ODISHA INFRAPOWER LTD.,Organization,"492",Ministry of Power,Ministry
-"484","1823",OIL INDIA INTERNATIONAL LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"485","1824",OIL INDIA LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"486","1822",OIL & NATURAL GAS CORPORATION LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"487","1825",ONGC MANGALORE PETROCHEMICALS LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"488","1826",ONGC VIDESH LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"489","1866",ORISSA INTEGRATED POWER LTD.,Organization,"492",Ministry of Power,Ministry
-"490","1962",ORISSA MINERAL DEVELOPMENT COMPANY LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"491","1867",PATRATU VIDYUT UTPADAN NIGAM LTD.,Organization,"492",Ministry of Power,Ministry
-"492","1700",PAWAN HANS LTD.,Organization,"1563",Ministry Of Civil Aviation,Ministry
-"493","1868",PFC CONSULTING LTD.,Organization,"492",Ministry of Power,Ministry
-"494","1978",PONDICHERRY ASHOK HOTEL CORPN. LTD.,Organization,"1582",Ministry Of Tourism,Ministry
-"495","1870",POWER EQUITY CAPITAL ADVISORS PVT. LTD.,Organization,"492",Ministry of Power,Ministry
-"496","1871",POWER FINANCE CORPORATION LTD.,Organization,"492",Ministry of Power,Ministry
-"497","1872",POWER GRID CORPORATION OF INDIA LTD.,Organization,"492",Ministry of Power,Ministry
-"498","1873",POWER GRID JABALPUR TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"499","1881",POWERGRID JAWAHARPUR FIROZABAD TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"500","1882",POWERGRID KALA AMB TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"501","1874",POWER GRID MEDINIPUR JEERAT TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"502","1869",POWER GRID MITHILANCHAL TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"503","1883",POWERGRID NM TRANMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"504","1875",POWER GRID PARLI TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"505","1876",POWER GRID SOUTHERN INTERCONNECTOR TRANSMISSION SYSTEM LTD.,Organization,"492",Ministry of Power,Ministry
-"506","1884",POWERGRID UNCHAHAR TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"507","1877",POWER GRID VARANASI TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"508","1878",POWER GRID VEMAGIRI TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"509","1885",POWERGRID VIZAG TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"510","1879",POWER GRID WARORA TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"511","1880",POWER SYSTEM OPERATION CORPORATION LTD.,Organization,"492",Ministry of Power,Ministry
-"512","1827",PRIZE PETROLEUM COMPANY LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"513","1980",PUNJAB ASHOK HOTEL COMPANY LTD.,Organization,"1582",Ministry Of Tourism,Ministry
-"514","1918",PUNJAB LOGISTIC INFRASTRUCTURE LTD.,Organization,"1163",Ministry of Railways,Ministry
-"515","1920",RAILTEL CORPORATION INDIA LTD.,Organization,"1163",Ministry of Railways,Ministry
-"516","1921",RAILTEL ENTERPRISES LTD.,Organization,"1163",Ministry of Railways,Ministry
-"517","1919",RAIL VIKAS NIGAM LTD.,Organization,"1163",Ministry of Railways,Ministry
-"518","1922",RAILWAY ENERGY MANAGEMENT COMPANY LTD.,Organization,"1163",Ministry of Railways,Ministry
-"519","1981",RANCHI ASHOK BIHAR HOTEL CORPN. LTD.,Organization,"1582",Ministry Of Tourism,Ministry
-"520","1663",Rashtriya Ayurveda Vidyapeeth,Organization,"1561",Ministry Of Ayush,Ministry
-"521","1963",RASHTRIYA ISPAT NIGAM LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"522","1886",REC LTD.,Organization,"492",Ministry of Power,Ministry
-"523","1887",REC POWER DISTRIBUTION CO. LTD.,Organization,"492",Ministry of Power,Ministry
-"524","1888",REC TRANSMISSION PROJECTS CO. LTD.,Organization,"492",Ministry of Power,Ministry
-"525","1923",RITES INFRASTRUCTURE SERVICES LTD.,Organization,"1163",Ministry of Railways,Ministry
-"526","1924",RITES LTD.,Organization,"1163",Ministry of Railways,Ministry
-"527","1938",SAGARMALA DEVELOPMENT COMPANY LTD.,Organization,"1580",Ministry Of Shipping,Ministry
-"528","1964",SAIL REFRACTORY COMPANY LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"529","1889",SAKHIGOPAL INTEGRATED POWER COMPANY LTD.,Organization,"492",Ministry of Power,Ministry
-"530","1939",SETHUSAMUDRAM CORPN. LTD.,Organization,"1580",Ministry Of Shipping,Ministry
-"531","1940",SHIPPING CORPORATION OF INDIA LTD.,Organization,"1580",Ministry Of Shipping,Ministry
-"532","2104",SHONGTONG KARCHAM WANGTOO  TRANSMISSION LTD,Organization,"492",Ministry of Power,Ministry
-"533","1890",SHONGTONG KARCHAM WANGTOO TRANSMISSION LTD,Organization,"492",Ministry of Power,Ministry
-"534","1925",SIDCUL CONCOR INFRA COMPANY LTD.,Organization,"1163",Ministry of Railways,Ministry
-"535","2145",Singareni Collieries Company ltd,Organization,"1564",Ministry Of Coal,Ministry
-"536","1891",SJVN LTD.,Organization,"492",Ministry of Power,Ministry
-"537","1892",SJVN THERMAL PVT. LTD.,Organization,"492",Ministry of Power,Ministry
-"538","2013",SOLAR ENERGY CORPORATION OF INDIA,Organization,"502",MINISTRY OF NEW AND RENEWABLE ENERGY,Ministry
-"539","1893",SOUTH-CENTRAL EAST DELHI POWER TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"540","1718",SOUTH EASTERN COALFIELDS LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"541","1965",STEEL AUTHORITY OF INDIA LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"542","1894",TANDA TRANSMISSION COMPANY LTD.,Organization,"492",Ministry of Power,Ministry
-"543","1895",TATIYA ANDHRA MEGA POWER LTD.,Organization,"492",Ministry of Power,Ministry
-"544","1896",THDC INDIA LTD.,Organization,"492",Ministry of Power,Ministry
-"545","1966",THE BISRA STONE LIME COMPANY LTD.,Organization,"1581",Ministry Of Steel,Ministry
-"546","1974",THE COTTON CORPN. OF INDIA LTD.,Organization,"504",Ministry of Textiles,Ministry
-"547","1975",THE JUTE CORPN. OF INDIA LTD.,Organization,"504",Ministry of Textiles,Ministry
-"548","1897",UDUPI KASARGODE TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"549","1982",UTKAL ASHOK HOTEL CORPN. LTD.,Organization,"1582",Ministry Of Tourism,Ministry
-"550","2105",VAPI-II NORTH LAKHIMPUR TRANSMISSION LTD.,Organization,"492",Ministry of Power,Ministry
-"551","1828",VISAKHAPATANAM PORT LOGISTICS PARK LTD.,Organization,"1254",Ministry of Petroleum and Natural Gas,Ministry
-"552","2015",WAPCOS LTD.,Organization,"491","MINISTRY OF WATER RESOURCES, RIVER DEVELOPMENT & GANGA REJUVENATION",Ministry
-"553","1719",WESTERN COALFIELDS LTD.,Organization,"1564",Ministry Of Coal,Ministry
-"554","1642",WILDLIFE INSTITUTE OF INDIA,Organization,"493","Ministry of Environment,forests and climate change",Ministry
-"555","1898",WRSS XXI(A) TRANSCO LIMITED,Organization,"492",Ministry of Power,Ministry
+S.No.,Organization Code,Organization Name,Organization Type,Parent Organization Code,Parent Organization Name,Parent Organization Type
+1.0,2222,Central Silk Board,Department,504,Ministry of Textiles,Ministry
+2.0,741,Comptroller And Auditor General Of India,Department,740,Comptroller And Auditor General Of India,Ministry
+3.0,1587,Department For Promotion Of Industry And Internal Trade,Department,1565,Ministry Of Commerce And Industry,Ministry
+4.0,543,Department of Adi Dravidar and Tribal Welfare,Department,490,Ministry of Tribal Affarirs,Ministry
+5.0,1611,Department Of Administrative Reforms And Public Grievances (DARPG),Department,1578,"Ministry Of Personnel, Public Grievances And Pensions",Ministry
+6.0,511,Department of Agriculture and Cooperation,Department,498,MINISTRY OF AGRICULTURE AND FARMERS WELFARE,Ministry
+7.0,513,Department of Agriculture Research and Education,Department,498,MINISTRY OF AGRICULTURE AND FARMERS WELFARE,Ministry
+8.0,512,"Department of Animal Husbandary, Diary and Fisheries",Department,498,MINISTRY OF AGRICULTURE AND FARMERS WELFARE,Ministry
+9.0,1614,Department Of Biotechnology,Department,1579,Ministry Of Science And Technology,Ministry
+10.0,1604,Department Of Border Management,Department,1574,Ministry Of Home Affairs,Ministry
+11.0,1584,Department Of Chemicals And Petrochemicals,Department,1562,Ministry Of Chemicals And Fertilizers,Ministry
+12.0,1588,Department Of Commerce,Department,1565,Ministry Of Commerce And Industry,Ministry
+13.0,1589,Department Of Consumer Affairs,Department,1566,"Ministry Of Consumer Affairs, Food And Public Distribution",Ministry
+14.0,1592,Department Of Defence,Department,1569,Ministry Of Defence,Ministry
+15.0,1593,Department Of Defence Production,Department,1569,Ministry Of Defence,Ministry
+16.0,1594,Department Of Defence Research And Development,Department,1569,Ministry Of Defence,Ministry
+17.0,1560,Department of Drinking Water and Sanitation,Department,1559,Ministry of Jal Shakti,Ministry
+18.0,506,Department of Drinking Water Supply,Department,487,Ministry of Rural Development,Ministry
+19.0,1597,Department Of Economic Affairs,Department,499,Ministry of Finance,Ministry
+20.0,1617,Department Of Empowerment Of Persons With Disabilities,Department,712,Ministry of Social Justice and Empowerment,Ministry
+21.0,514,Department of Expenditure,Department,499,Ministry of Finance,Ministry
+22.0,1595,Department Of Ex-Servicemen Welfare,Department,1569,Ministry Of Defence,Ministry
+23.0,1484,Department of External Affairs,Department,626,Ministry of External Affairs,Ministry
+24.0,1585,Department Of Fertilizers,Department,1562,Ministry Of Chemicals And Fertilizers,Ministry
+25.0,1174,Department of Financial Service,Department,499,Ministry of Finance,Ministry
+26.0,2245,Department of Fisheries,Department,1572,Ministry Of Fisheries,Ministry
+27.0,1590,Department Of Food And Public Distribution,Department,1566,"Ministry Of Consumer Affairs, Food And Public Distribution",Ministry
+28.0,2229,Department of Food & Public Distribution,Department,1566,"Ministry Of Consumer Affairs, Food And Public Distribution",Ministry
+29.0,541,Department of Forest and Environment,Department,493,"Ministry of Environment,forests and climate change",Ministry
+30.0,509,Department of Health and Family Welfare,Department,489,MINISTRY OF HEALTH & FAMILY WELFARE,Ministry
+31.0,1601,Department Of Health Research,Department,489,MINISTRY OF HEALTH & FAMILY WELFARE,Ministry
+32.0,1602,Department Of Heavy Industry,Department,1573,Ministry Of Heavy Industries And Public Enterprises,Ministry
+33.0,1608,Department Of Higher Education,Department,488,Ministry of Human Resource Development,Ministry
+34.0,1605,Department Of Home,Department,1574,Ministry Of Home Affairs,Ministry
+35.0,508,Department of Human Resource and Development,Department,488,Ministry of Human Resource Development,Ministry
+36.0,2236,Department of Internal Security,Department,1574,Ministry Of Home Affairs,Ministry
+37.0,1598,Department Of Investment And Public Asset Management,Department,499,Ministry of Finance,Ministry
+38.0,2237,"Department of Jammu, Kashmir and Ladakh Affairs",Department,1574,Ministry Of Home Affairs,Ministry
+39.0,695,Department of Justice,Department,563,Ministry of Law and Justice,Ministry
+40.0,507,Department of Land Resources,Department,487,Ministry of Rural Development,Ministry
+41.0,564,Department of Legal Affairs,Department,563,Ministry of Law and Justice,Ministry
+42.0,2235,Department of Military Affairs,Department,1569,Ministry Of Defence,Ministry
+43.0,1147,Department of National Highways,Department,1146,Ministry of Road Transport & Highways,Ministry
+44.0,538,Department of New and Renewable Energy,Department,502,MINISTRY OF NEW AND RENEWABLE ENERGY,Ministry
+45.0,1606,Department Of Official Language,Department,1574,Ministry Of Home Affairs,Ministry
+46.0,1612,Department Of Pension And Pensioners Welfare,Department,1578,"Ministry Of Personnel, Public Grievances And Pensions",Ministry
+47.0,1613,Department Of Personnel and Training,Department,1578,"Ministry Of Personnel, Public Grievances And Pensions",Ministry
+48.0,1586,Department Of Pharmaceuticals,Department,1562,Ministry Of Chemicals And Fertilizers,Ministry
+49.0,1149,Department of Posts,Department,1065,Ministry of Communication,Ministry
+50.0,539,Department of Power,Department,492,Ministry of Power,Ministry
+51.0,537,Department of Programme Implementation,Department,500,Ministry of Statistics and Programme Implementation,Ministry
+52.0,1603,Department Of Public Enterprises,Department,1573,Ministry Of Heavy Industries And Public Enterprises,Ministry
+53.0,1599,Department Of Revenue,Department,499,Ministry of Finance,Ministry
+54.0,505,Department of Rural Development,Department,487,Ministry of Rural Development,Ministry
+55.0,1162,Department of School Education & Literacy,Department,488,Ministry of Human Resource Development,Ministry
+56.0,1636,Department of Science and Technology,Department,1579,Ministry Of Science And Technology,Ministry
+57.0,1615,Department of Scientific and Industrial Research,Department,1579,Ministry Of Science And Technology,Ministry
+58.0,1238,Department of Socail Justice,Department,712,Ministry of Social Justice and Empowerment,Ministry
+59.0,1618,Department Of Sports,Department,520,Ministry of Youth Affairs & Sports,Ministry
+60.0,1607,Department Of States,Department,1574,Ministry Of Home Affairs,Ministry
+61.0,536,Department of Statistics,Department,500,Ministry of Statistics and Programme Implementation,Ministry
+62.0,1066,Department of Telecommunication,Department,1065,Ministry of Communication,Ministry
+63.0,535,Department of Urban Development,Department,501,Ministry of Urban Development,Ministry
+64.0,1609,"Department Of Water Resources, River Development And Ganga Rejuvenation",Department,1559,Ministry of Jal Shakti,Ministry
+65.0,540,Department of Women and Child Development,Department,503,Ministry of Woman and Child Development,Ministry
+66.0,1619,Department Of Youth Affairs,Department,520,Ministry of Youth Affairs & Sports,Ministry
+67.0,1985,DEPT. OF ATOMIC ENERGY,Department,1984,PMO,Ministry
+68.0,1986,DEPT. OF SPACE,Department,1984,PMO,Ministry
+69.0,716,DIT,Department,494,Ministry of Communication and IT,Ministry
+70.0,719,Employees Provident Fund Organisation,Department,496,Ministry of Labour,Ministry
+71.0,1600,Income Tax Department,Department,499,Ministry of Finance,Ministry
+72.0,1596,India Meteorological Department (IMD),Department,1571,Ministry Of Earth Sciences,Ministry
+73.0,1164,Indian Railways,Department,1163,Ministry of Railways,Ministry
+74.0,1610,Legislative Department,Department,563,Ministry of Law and Justice,Ministry
+75.0,510,Ministry of Electronics & Information Technology,Department,494,Ministry of Communication and IT,Ministry
+76.0,691,Ministry of Labour and Employment,Department,496,Ministry of Labour,Ministry
+77.0,717,National Commission for Scheduled Tribes,Department,712,Ministry of Social Justice and Empowerment,Ministry
+78.0,1239,National Land Records Modernization Programme,Department,487,Ministry of Rural Development,Ministry
+79.0,1161,National Skill Development Corporation India,Department,1160,Ministry of Skill Development And Entrepreneurship,Ministry
+80.0,2200,Office of the Development Commissioner(Textiles),Department,504,Ministry of Textiles,Ministry
+81.0,542,Panchayati Raj Department,Department,486,Ministry of Panchayati Raj,Ministry
+82.0,2144,Railway Board,Department,1163,Ministry of Railways,Ministry
+83.0,2377,State Water and Sanitation Mission Shimla,Department,1559,Ministry of Jal Shakti,Ministry
+84.0,2477,Test,Department,498,MINISTRY OF AGRICULTURE AND FARMERS WELFARE,Ministry
+85.0,2,Test Department,Department,,,Ministry
+86.0,2390,Action for Community Empowerment Society Samiti Ranchi Jharkhand (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+87.0,2391,Adarash Saraswati mahila shiksha evam Gramin Vikas Samiti  Jaipur Rajasthan (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+88.0,2392,Aga Khan Rural Support Programme  Ahmedabad Gujarat,Organization,1560,Department of Drinking Water and Sanitation,Department
+89.0,1669,AGRINNOVATE INDIA LTD.,Organization,513,Department of Agriculture Research and Education,Department
+90.0,2019,Ali Yavar Jung National Institute Of Speech And Hearing Disabilities (AYJNISHD)-Mumbai,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+91.0,1175,Allahabad Bank,Organization,1174,Department of Financial Service,Department
+92.0,2050,"All India Jain Youth Federation, Karnataka",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+93.0,2026,"Amarjyoti Charitable Trust, N. Delhi",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+94.0,2045,"Andhjan Kalyan Trust, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+95.0,1176,Andhra Bank,Organization,1174,Department of Financial Service,Department
+96.0,1762,ANDREW YULE & COMPANY LTD.,Organization,1602,Department Of Heavy Industry,Department
+97.0,1995,ANTRIX CORPORATION LTD.,Organization,1986,DEPT. OF SPACE,Department
+98.0,1987,ANUSHAKTI VIDHYUT NIGAM LTD.,Organization,1985,DEPT. OF ATOMIC ENERGY,Department
+99.0,2032,"Apang Jeevan Vikas Sanstha, Amravati",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+100.0,1941,ARTIFICIAL LIMBS MFG. CORPN. OF INDIA,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+101.0,2051,"Asha Gram Trust, Barwani",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+102.0,2046,"Ashirwad  Trust for Disabled, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+103.0,2393,Ashwamegh Gramin Panlot Kshetra Vikas Va Shaikshanik Sanstha Amravati Maharashtra (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+104.0,2033,"Ayodhaya Chariatable Trust, Pune",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+105.0,1177,Bank of Baroda,Organization,1174,Department of Financial Service,Department
+106.0,1178,Bank of India,Organization,1174,Department of Financial Service,Department
+107.0,1179,Bank of Maharashtra,Organization,1174,Department of Financial Service,Department
+108.0,1741,BEL OPTRONICS DEVICES LTD.,Organization,1593,Department Of Defence Production,Department
+109.0,1742,BEL-THALES SYSTEMS LTD.,Organization,1593,Department Of Defence Production,Department
+110.0,1743,BEML LTD.,Organization,1593,Department Of Defence Production,Department
+111.0,1684,BENGAL CHEMICALS & PHARMACEUTICALS LTD.,Organization,1586,Department Of Pharmaceuticals,Department
+112.0,2071,"Bhagwan Mahaveer Viklang Sahayata Samiti, Jaipur",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+113.0,2085,"Bharabi Club, Orrissa",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+114.0,1730,BHARAT BROADBAND NETWORK LTD.,Organization,1066,Department of Telecommunication,Department
+115.0,1744,BHARAT DYNAMICS LTD.,Organization,1593,Department Of Defence Production,Department
+116.0,2101,BHARAT ELECTRONICS LTD.,Organization,1593,Department Of Defence Production,Department
+117.0,1763,BHARAT HEAVY ELECTRICALS LTD.,Organization,1602,Department Of Heavy Industry,Department
+118.0,1927,BHARAT IMMUNOLOGICALS & BIOLOGICALS CORP. LTD.,Organization,1614,Department Of Biotechnology,Department
+119.0,1988,BHARATIYA NABHIKIYA VIDYUT NIGAM LTD.,Organization,1985,DEPT. OF ATOMIC ENERGY,Department
+120.0,1764,BHARAT PUMPS & COMPRESSORS LTD.,Organization,1602,Department Of Heavy Industry,Department
+121.0,1067,Bharat Sanchar Nigam Limited,Organization,1066,Department of Telecommunication,Department
+122.0,2048,"Bharat Vikas Parishad, Ludhiana, Punjab",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+123.0,1765,BHEL ELECTRICAL MACHINES LTD.,Organization,1602,Department Of Heavy Industry,Department
+124.0,2394,Bhopal Yuwa Paryavaran Shikshan and Samajik Sansthan Bhopal Madhya Pradesh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+125.0,2293,BIHAR DRUGS AND ORGANIC CHEMICALS LTD,Organization,1586,Department Of Pharmaceuticals,Department
+126.0,2031,"Bikaram Nagar Uddayan Sangha, Kolkatta",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+127.0,2030,"Bikas Bharti Welfare Society, Kolkatta",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+128.0,1928,BIOTECHNOLOGY INDUSTRY RESEARCH ASSISTANCE COUNCIL,Organization,1614,Department Of Biotechnology,Department
+129.0,2044,"Blind People Association, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+130.0,2075,"Blind Welfare Council, Dahod, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+131.0,1671,BRAHAMPUTRA CRACKERS & POLYMER LTD.,Organization,1584,Department Of Chemicals And Petrochemicals,Department
+132.0,1675,BRAHMAPUTRA VALLEY FERTILIZER CORPN. LTD.,Organization,1585,Department Of Fertilizers,Department
+133.0,1766,BRAITHWAITE BURN & JESSOP CONSTRUCTION COMPANY LTD.,Organization,1602,Department Of Heavy Industry,Department
+134.0,1767,BRIDGE & ROOF CO.(INDIA) LTD.,Organization,1602,Department Of Heavy Industry,Department
+135.0,2294,BSNL TOWER CORPORATION,Organization,1066,Department of Telecommunication,Department
+136.0,1180,Canara Bank,Organization,1174,Department of Financial Service,Department
+137.0,1768,CEMENT CORPN. OF INDIA LTD.,Organization,1602,Department Of Heavy Industry,Department
+138.0,1181,Central Bank of India,Organization,1174,Department of Financial Service,Department
+139.0,1738,CENTRAL RAILSIDE WAREHOUSE CO. LTD.,Organization,1590,Department Of Food And Public Distribution,Department
+140.0,2295,CENTRAL REGISTRY OF SECURITSATION ASSET RECONSTRUCTION AND SECURITY INTEREST OF INDIA (CERSAI),Organization,1174,Department of Financial Service,Department
+141.0,2542,Central Sanskrit University,Organization,508,Department of Human Resource and Development,Department
+142.0,1739,CENTRAL WAREHOUSING CORPN.,Organization,1590,Department Of Food And Public Distribution,Department
+143.0,2395,Centre for Advanced Research and Development Bhopal (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+144.0,2396,Centre for Development Communication and Studies (CDECS) Jaipur Rajasthan (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+145.0,2357,Centre For Environmental Law Education Research and Advocacy (CEERA) and National Law School of India University (NLSIU) Bengaluru,Organization,1560,Department of Drinking Water and Sanitation,Department
+146.0,2371,Centre For Environment and Development Thiruvananthapuram,Organization,1560,Department of Drinking Water and Sanitation,Department
+147.0,2372,Centre for Environment Education Ahmedabad,Organization,1560,Department of Drinking Water and Sanitation,Department
+148.0,2359,Centre for Good Governance Dr R S Tolia Uttarakhand Academy of Administration Nainital,Organization,1560,Department of Drinking Water and Sanitation,Department
+149.0,2386,Centre for Organization Development Hyderabad (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+150.0,2058,Centre for Rehabiliation Services & Research- Orissa,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+151.0,2059,Centre for Rehabiliation Services & Research- Orissa,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+152.0,2387,Centre for Science and Environment New Delhi (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+153.0,2397,Centre for Youth and Social Development Khordha Odisha (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+154.0,2040,"Cherry Blossoms Society, Nagaland",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+155.0,2398,Coastal Salinity Prevention Cell Ahmedabad Gujrat (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+156.0,1182,Corporation Bank,Organization,1174,Department of Financial Service,Department
+157.0,2399,Daksh Foundation Jabalpur Madhya Pradesh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+158.0,2063,"Debagrame Welfare Society, Assam",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+159.0,1183,Dena Bank,Organization,1174,Department of Financial Service,Department
+160.0,2366,Development Management Institute Patna,Organization,1560,Department of Drinking Water and Sanitation,Department
+161.0,2380,Development Support Centre Ahmedabad (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+162.0,2400,Dev Rishi Educational Society Dehradun Uttarakhnad (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+163.0,2037,"Dikrong Vallley, Assam",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+164.0,2056,"Disabled Welfare Society, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+165.0,2043,"District Disability Rehabilitation Centre- East Godvari, AP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+166.0,2401,Down Town Charity Trust Kamrup Assam (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+167.0,2402,Dr Shambhunath Singh Research Foundation Varanasi Uttar Pradesh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+168.0,1720,E. C. G. C. LTD.,Organization,1588,Department Of Commerce,Department
+169.0,1796,EdCIL(India) Ltd.,Organization,1608,Department Of Higher Education,Department
+170.0,1989,ELECTRONICS CORPN. OF INDIA LTD.,Organization,1985,DEPT. OF ATOMIC ENERGY,Department
+171.0,1769,ENGINEERING PROJECTS (INDIA) LTD.,Organization,1602,Department Of Heavy Industry,Department
+172.0,2358,Engineering Staff College of India Hyderabad,Organization,1560,Department of Drinking Water and Sanitation,Department
+173.0,1770,EPI URBAN INFRA DEVELOPERS LTD. (EPIUIDL),Organization,1602,Department Of Heavy Industry,Department
+174.0,1202,Exim Bank,Organization,1174,Department of Financial Service,Department
+175.0,2403,Facilitation and Awareness of Community For Empowerment (FACE Society) Rewa MP (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+176.0,1676,FCI ARAVALI GYPSUM & MINERALS (INDIA) LTD.,Organization,1585,Department Of Fertilizers,Department
+177.0,2404,Feedback Foundation Charitable Trust New Delhi (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+178.0,1677,FERTILIZERS & CHEMICALS (TRAVANCORE) LTD.,Organization,1585,Department Of Fertilizers,Department
+179.0,1740,FOOD CORPN. OF INDIA,Organization,1590,Department Of Food And Public Distribution,Department
+180.0,1745,GARDEN REACH SHIPBUILDERS & ENGINEERS LTD.,Organization,1593,Department Of Defence Production,Department
+181.0,2086,"Gauri Shankar, Bhind, MP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+182.0,1201,General Insurance Corporation of India,Organization,1174,Department of Financial Service,Department
+183.0,1997,GOA ANTIBIOTICS & PHARMACEUTICALS  LTD.,Organization,509,Department of Health and Family Welfare,Department
+184.0,1746,GOA SHIPYARD LTD.,Organization,1593,Department Of Defence Production,Department
+185.0,2381,Gramalaya Tiruchirappalli (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+186.0,2406,Gramin Vikas Shodh Sansthan Chitrakoot Uttar Pradesh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+187.0,2464,Gramin Vikas Trust New Delhi (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+188.0,2409,Gramodyog Sansthan Mandla Madhya Pradesh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+189.0,2405,Gram Vikas Khordha Odisha (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+190.0,2410,Gramvikas Sanstha Aurangabad Maharashtra (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+191.0,2411,Green Earth Organization for Environment Health Safety and Sanitation Kurukshetra Haryana (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+192.0,2388,Gujarat Cleaner Production Centre Gandhinagar (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+193.0,2061,"Guru Nanak Charitable Trust, Ludhiana",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+194.0,2060,"Gyanaram Jhammanlal, Jaipur, Raj.",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+195.0,2082,"Gyanaram Jhammanlal, Jaipur, Rajasthan",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+196.0,1771,HEAVY ENGINEERING CORPN. LTD.,Organization,1602,Department Of Heavy Industry,Department
+197.0,2413,Helping Youth Foundation Lucknow Uttar Pradesh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+198.0,1731,HEMISPHERE PROPERTIES INDIA LTD.,Organization,1066,Department of Telecommunication,Department
+199.0,1672,HIL (INDIA) LTD.,Organization,1584,Department Of Chemicals And Petrochemicals,Department
+200.0,2373,Himalayan Institute for Environment Ecology and Development Dehradun Uttarakhand,Organization,1560,Department of Drinking Water and Sanitation,Department
+201.0,2382,Himalayan Institute Hospital Trust Dehradun (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+202.0,2414,Himmotthan Society Dehradun Uttarakhand (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+203.0,1747,HINDUSTAN AERONAUTICS LTD.,Organization,1593,Department Of Defence Production,Department
+204.0,1685,HINDUSTAN ANTIBIOTICS LTD.,Organization,1586,Department Of Pharmaceuticals,Department
+205.0,1772,HINDUSTAN CABLES LTD.,Organization,1602,Department Of Heavy Industry,Department
+206.0,1678,HINDUSTAN FERTILIZER CORPN. LTD.,Organization,1585,Department Of Fertilizers,Department
+207.0,1673,HINDUSTAN FLUOROCARBONS LIMITED,Organization,1584,Department Of Chemicals And Petrochemicals,Department
+208.0,1773,HINDUSTAN NEWSPRINT LTD.,Organization,1602,Department Of Heavy Industry,Department
+209.0,1674,HINDUSTAN ORGANIC CHEMICALS LTD.,Organization,1584,Department Of Chemicals And Petrochemicals,Department
+210.0,1774,HINDUSTAN PAPER CORPORATION LTD.,Organization,1602,Department Of Heavy Industry,Department
+211.0,1775,HINDUSTAN PHOTO FILMS MANUFACTURING CO. LTD.,Organization,1602,Department Of Heavy Industry,Department
+212.0,1776,HINDUSTAN SALTS LTD.,Organization,1602,Department Of Heavy Industry,Department
+213.0,1748,HINDUSTAN SHIPYARD LTD.,Organization,1593,Department Of Defence Production,Department
+214.0,1998,HLL BIOTECH LTD.,Organization,509,Department of Health and Family Welfare,Department
+215.0,1999,HLL INFRA TECH SERVICES LTD.,Organization,509,Department of Health and Family Welfare,Department
+216.0,2000,HLL LIFECARE LTD.,Organization,509,Department of Health and Family Welfare,Department
+217.0,2001,HLL MEDIPARK LTD,Organization,509,Department of Health and Family Welfare,Department
+218.0,2002,HLL MOTHER & CHILD CARE HOSPITALS LTD.,Organization,509,Department of Health and Family Welfare,Department
+219.0,1778,HMT BEARINGS LTD.,Organization,1602,Department Of Heavy Industry,Department
+220.0,1779,HMT CHINAR WATCHES LTD.,Organization,1602,Department Of Heavy Industry,Department
+221.0,1777,HMT (INTERNATIONAL) LTD.,Organization,1602,Department Of Heavy Industry,Department
+222.0,1780,HMT LTD.,Organization,1602,Department Of Heavy Industry,Department
+223.0,1781,HMT MACHINE TOOLS LTD.,Organization,1602,Department Of Heavy Industry,Department
+224.0,1782,HMT WATCHES LTD.,Organization,1602,Department Of Heavy Industry,Department
+225.0,1783,HOOGHLY PRINTING COMPANY LTD.,Organization,1602,Department Of Heavy Industry,Department
+226.0,2003,HSCC (INDIA) LTD.,Organization,509,Department of Health and Family Welfare,Department
+227.0,2038,"Humanity Foundation, Assam",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+228.0,1186,IDBI,Organization,1174,Department of Financial Service,Department
+229.0,1686,IDPL (TAMILNADU) LTD.,Organization,1586,Department Of Pharmaceuticals,Department
+230.0,1206,IFCI Ltd,Organization,1174,Department of Financial Service,Department
+231.0,1759,IIFCL ASSET MANAGEMENT COMPANY LTD.,Organization,1174,Department of Financial Service,Department
+232.0,1760,IIFCL PROJECTS LTD.,Organization,1174,Department of Financial Service,Department
+233.0,2415,Ikon Welfare Society Gaya Bihar (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+234.0,1761,INDIA INFRASTRUCTURE FINANCE CO. LTD.,Organization,1174,Department of Financial Service,Department
+235.0,1721,INDIA INTERNATIONAL CONVENTION AND EXHIBITION CENTRE LTD.,Organization,1588,Department Of Commerce,Department
+236.0,1185,Indian Bank,Organization,1174,Department of Financial Service,Department
+237.0,2389,Indian Development Center Goutam Buddha Nagar (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+238.0,1687,INDIAN DRUGS & PHARMACEUTICALS LTD.,Organization,1586,Department Of Pharmaceuticals,Department
+239.0,2379,Indian Institute for Human Settlements Bangalore (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+240.0,2360,Indian Institute of Public Administration New Delhi,Organization,1560,Department of Drinking Water and Sanitation,Department
+241.0,2246,"Indian Institute of Science  Education and Research, SAS Nagar Mohali",Organization,508,Department of Human Resource and Development,Department
+242.0,2361,Indian Institute of Technology Bombay,Organization,1560,Department of Drinking Water and Sanitation,Department
+243.0,2367,Indian Institute of Technology ISM Dhanbad,Organization,1560,Department of Drinking Water and Sanitation,Department
+244.0,1184,Indian Overseas Bank,Organization,1174,Department of Financial Service,Department
+245.0,2090,Indian Red Cross Society- Faridabad,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+246.0,2094,"Indian Red Cross Society- Kangra, HP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+247.0,2091,"Indian Red Cross Society-Kangra, HP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+248.0,2095,"Indian Red Cross Society- Kullu, HP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+249.0,2092,"Indian Red Cross Society- Sangrur, Punjab",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+250.0,2093,Indian Red Cross Society- Silvassa,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+251.0,2089,Indian Red Cross Society- Silvassa,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+252.0,2096,"Indian Red Cross Society- Solan, HP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+253.0,2027,"Indian Spinal Injuries Centre, N. Delhi",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+254.0,2041,Indian Spinal Injuries Centre-New Delhi,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+255.0,1929,INDIAN VACCINE CORP. LTD.,Organization,1614,Department Of Biotechnology,Department
+256.0,1150,India Post,Organization,1149,Department of Posts,Department
+257.0,1722,INDIA TRADE PROMOTION ORGANISATION,Organization,1588,Department Of Commerce,Department
+258.0,1749,INDO RUSSIAN HELICOPTERS LTD.,Organization,1593,Department Of Defence Production,Department
+259.0,2347,Institute for Integrated Rural Development (IIRD)Shimla Himachal Pradesh,Organization,1560,Department of Drinking Water and Sanitation,Department
+260.0,2463,Institute for Integrated Rural Development (IIRD) Shimla Himachal Pradesh (Company),Organization,1560,Department of Drinking Water and Sanitation,Department
+261.0,2374,Institute of Health Management Research Bangalore Karnataka,Organization,1560,Department of Drinking Water and Sanitation,Department
+262.0,1784,INSTRUMENTATION LTD.,Organization,1602,Department Of Heavy Industry,Department
+263.0,2416,International Union for Conservation of Nature New Delhi (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+264.0,1990,IREL (INDIA) LTD.,Organization,1985,DEPT. OF ATOMIC ENERGY,Department
+265.0,1732,I T I LTD.,Organization,1066,Department of Telecommunication,Department
+266.0,1785,JAGDISHPUR PAPER MILLS LTD.,Organization,1602,Department Of Heavy Industry,Department
+267.0,2052,"Jalguti, Assam",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+268.0,2465,Jal Seva Charitable Foundation New Delhi (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+269.0,1729,JAMMU & KASHMIR DEVELOPMENT FINANCE CORPORATION LTD,Organization,1587,Department For Promotion Of Industry And Internal Trade,Department
+270.0,2419,Janakalyan Raichur Karnataka (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+271.0,2417,Jan Jagaran Kendra Hazaribagh Jharkhand (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+272.0,2418,Jan Kalyan Parishad Farrukhabad UP (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+273.0,2067,"Jayshree Maruti Nandan Kissan Vikas Education Trust, Gujarat.",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+274.0,2420,Jivan Vikas Samajak Bhuu Panlot Sanstha Yavatmal Maharashtra (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+275.0,2080,"Jodhpur Manav Kalyan Seva Sangh, Jodhpur",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+276.0,2421,JPS Foundations Lucknow Uttar Pradesh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+277.0,2028,"Kalyanam Karoti, Mathura, UP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+278.0,1688,KARNATAKA ANTIBIOTICS & PHARMACEUTICALS LTD.,Organization,1586,Department Of Pharmaceuticals,Department
+279.0,1723,KARNATAKA TRADE PROMOTION ORGANISATION,Organization,1588,Department Of Commerce,Department
+280.0,2068,"Kerala State Handicapped Welfare Corporation, Kerala",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+281.0,2422,Krushi Vikas va Gramin Prashikshan Sanstha Buldana Maharashtra (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+282.0,1196,Life India Insurance,Organization,1174,Department of Financial Service,Department
+283.0,1679,MADRAS FERTILIZERS LTD.,Organization,1585,Department Of Fertilizers,Department
+284.0,1733,MAHANAGAR TELEPHONE NIGAM LTD.,Organization,1066,Department of Telecommunication,Department
+285.0,2308,MAHARASHTRA ANTIBIOTICS & PHARMACEUTICALS LTD,Organization,1586,Department Of Pharmaceuticals,Department
+286.0,2368,Maharashtra Environmental Engineering Training and Research Academy (MEETRA) Nashik,Organization,1560,Department of Drinking Water and Sanitation,Department
+287.0,2423,Maharashtra Gram Darpan Amravati Maharashtra (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+288.0,2034,"Mahatama Gandhi Seva Sangh, Maharashtra",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+289.0,2383,Mahatma Gandhi State Institute of Public Administration Chandigarh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+290.0,1750,MAMC INDUSTRIES LTD.,Organization,1593,Department Of Defence Production,Department
+291.0,2077,"Manav Kalyan Mandal, Rajkot, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+292.0,2049,"Manglam, Lucknow",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+293.0,2309,MANIPUR STATE DRUGS & PHAREMACEUTICALS LTD,Organization,1586,Department Of Pharmaceuticals,Department
+294.0,2425,Matribhoomi Vikas Parishad Kaushambi UP (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+295.0,1751,MAZAGON DOCK SHIPBUILDERS LTD.,Organization,1593,Department Of Defence Production,Department
+296.0,2074,"Medical Care Centre, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+297.0,2073,"Medical Care Centre, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+298.0,1734,MILLENNIUM TELECOM LTD.,Organization,1066,Department of Telecommunication,Department
+299.0,1752,MISHRA DHATU NIGAM LTD.,Organization,1593,Department Of Defence Production,Department
+300.0,1724,M M T C LTD.,Organization,1588,Department Of Commerce,Department
+301.0,2084,"Mobility Aid Centre, Indore, MP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+302.0,2369,Motilal Nehru NIT Allahabad,Organization,1560,Department of Drinking Water and Sanitation,Department
+303.0,2029,"Mukti Sansthan, Ranchi",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+304.0,1786,NAGALAND PULP & PAPER COMPANY LTD.,Organization,1602,Department Of Heavy Industry,Department
+305.0,1753,NAINI AEROSPACE LTD.,Organization,1593,Department Of Defence Production,Department
+306.0,2072,"Narayan Seva Sansthan, Udaipur",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+307.0,1943,NATIONAL BACKWARD CLASSES FINANCE & DEVP.CO.,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+308.0,1203,National Bank for Agriculture and Rural Development,Organization,1174,Department of Financial Service,Department
+309.0,2231,"National Centre for Drinking Water, Sanitation and Quality",Organization,1560,Department of Drinking Water and Sanitation,Department
+310.0,1680,NATIONAL FERTILIZERS LTD.,Organization,1585,Department Of Fertilizers,Department
+311.0,1942,NATIONAL HANDICAPPED FINANCE & DEVPT. CORPN.,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+312.0,1148,National Highways Authority of India,Organization,1147,Department of National Highways,Department
+313.0,1205,National Housing Bank,Organization,1174,Department of Financial Service,Department
+314.0,625,National Informatics Centre,Organization,510,Ministry of Electronics & Information Technology,Department
+315.0,1488,National Informatics Centre Services Inc.(NICSI),Organization,510,Ministry of Electronics & Information Technology,Department
+316.0,2025,National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD)- Chennai,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+317.0,2021,National Institute For Locomotor Disabilities (NILD)-Kolkatta,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+318.0,2426,National Institute for Rural Development Education Social Upliftment and Health Nirdesh Muzaffarpur Bihar (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+319.0,2023,National Institute for the Empowerment of Persons with Intellectual Disabilities (NIEPID)- Secunderabad,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+320.0,2020,National Institute for the Empowerment of Persons with Visual Disabilities (NIEPVD)-Dehradun,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+321.0,2505,National Institute of Rural Development and Panchayati Raj Hyderabad,Organization,1560,Department of Drinking Water and Sanitation,Department
+322.0,595,National Institute of Rural Development & Panchayati Raj,Organization,505,Department of Rural Development,Department
+323.0,2069,National Institute of Speech and Hearing (NISH)-Kerala,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+324.0,1200,National Insurance Co Ltd.,Organization,1174,Department of Financial Service,Department
+325.0,1944,NATIONAL SAFAI KARAMCHARIS FINANCE & DEVPT. CORPN,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+326.0,1945,NATIONAL SCHEDULED CASTES FINANCE & DEVP. CORPN.,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+327.0,1668,National Seeds Corporation limited,Organization,511,Department of Agriculture and Cooperation,Department
+328.0,2427,Navnirman Sarv Samaj Hitarth Sanstha Nandurbar Maharashtra(NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+329.0,2429,Nehru Yuwa Sangathan Tisi Fatehpur Uttar Pradesh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+330.0,1787,NEPA LTD.,Organization,1602,Department Of Heavy Industry,Department
+331.0,1197,New India Assurance,Organization,1174,Department of Financial Service,Department
+332.0,1996,NEWSPACE INDIA LTD.,Organization,1986,DEPT. OF SPACE,Department
+333.0,2430,NM Sadguru Water and Development Dohad Gujarat (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+334.0,2036,"North East Voluntary Association of Rural Development, Assam",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+335.0,1991,NPCIL - INDIAN OIL NUCLEAR ENERGY CORPORATION LTD.,Organization,1985,DEPT. OF ATOMIC ENERGY,Department
+336.0,1992,NPCIL - NALCO POWER COMPANY LTD.,Organization,1985,DEPT. OF ATOMIC ENERGY,Department
+337.0,1993,NUCLEAR POWER CORPN. OF INDIA LTD.,Organization,1985,DEPT. OF ATOMIC ENERGY,Department
+338.0,1187,Oriental Bank of commerce,Organization,1174,Department of Financial Service,Department
+339.0,1199,Oriental Insurance Company Ltd.,Organization,1174,Department of Financial Service,Department
+340.0,1689,ORISSA DRUGS & CHEMICALS LTD.,Organization,1586,Department Of Pharmaceuticals,Department
+341.0,1725,P E C LTD.,Organization,1588,Department Of Commerce,Department
+342.0,2066,"Perpetual Reconstructive Instt. For Youth Activity, Orrissa",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+343.0,2087,"Prabhat Gramodhog Sansthan, UP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+344.0,1681,PROJECTS & DEVELOPMENT INDIA LTD.,Organization,1585,Department Of Fertilizers,Department
+345.0,2432,Pruthvisangram Gramvikas Sangli Maharashtra (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+346.0,2022,Pt. Deendayal Upadhyaya National Institute For Persons with Physical Disabilities (PDUNIPPD)- New Delhi,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+347.0,1189,Punjab National Bank,Organization,1174,Department of Financial Service,Department
+348.0,1188,Punjab & Sind Bank,Organization,1174,Department of Financial Service,Department
+349.0,2363,Quality Council of India New Delhi,Organization,1560,Department of Drinking Water and Sanitation,Department
+350.0,2364,Rajagiri College of Social Sciences Ernakulam,Organization,1560,Department of Drinking Water and Sanitation,Department
+351.0,1690,RAJASTHAN DRUGS & PHARMACEUTICALS LTD.,Organization,1586,Department Of Pharmaceuticals,Department
+352.0,1788,RAJASTHAN ELECTRONICS AND INSTRUMENTS LTD.,Organization,1602,Department Of Heavy Industry,Department
+353.0,1682,RASHTRIYA CHEMICALS AND FERTILIZERS LTD.,Organization,1585,Department Of Fertilizers,Department
+354.0,2433,Rastravikash Agro Education Sanstha Jalgaon Maharashtra(NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+355.0,2064,"Ravicherla Integrated Development & Education Society, AP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+356.0,2042,"Rawat Shiksha Samiti, UP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+357.0,2365,Regional Centre For Urban and Environmental Studies Lucknow,Organization,1560,Department of Drinking Water and Sanitation,Department
+358.0,2057,Regional Rehabilitation and Research Centre- Orrisa,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+359.0,1213,Reserve Bank of India,Organization,1174,Department of Financial Service,Department
+360.0,1789,RICHARDSON & CRUDDAS LTD.,Organization,1602,Department Of Heavy Industry,Department
+361.0,2047,"Rogi Kalyan Samiti, Ahmedabad",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+362.0,2143,Rubber Board,Organization,1588,Department Of Commerce,Department
+363.0,2053,"Rupahi Kohinoor Club, Assam",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+364.0,2434,Rural Development Society Murgod Belgaum (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+365.0,2435,Sadbhawna Gramin Vikas Sansthan Wardha Maharashtra (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+366.0,2436,Sadhana Educational and Rural Development Society Tumkur Karnataka (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+367.0,2437,Safe Water Network India Delhi (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+368.0,2438,Sahbhagi Shikshan Kendra Lucknow UP (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+369.0,2439,Saiprem Gramin Vikas Sanstha Yavatmal Maharashtra (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+370.0,2375,Salt Lake Institute of Engineering and Management Ltd Kolkatta West Bengal,Organization,1560,Department of Drinking Water and Sanitation,Department
+371.0,2441,Samarthan Centre for Development Support Bhopal (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+372.0,2440,Samarth Organisation Trust Mahesana Gujarat (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+373.0,1790,SAMBHAR SALTS LTD.,Organization,1602,Department Of Heavy Industry,Department
+374.0,2055,"Sampart Education Society, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+375.0,2079,"Saraswati Educational Society, Moradabad, UP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+376.0,2362,Savitribai Phule Pune University Pune,Organization,1560,Department of Drinking Water and Sanitation,Department
+377.0,1791,SCOOTERS INDIA LTD.,Organization,1602,Department Of Heavy Industry,Department
+378.0,1758,SECURITY PRINTING & MINTING CORPN. INDIA LTD.,Organization,1597,Department Of Economic Affairs,Department
+379.0,2442,Shramik Bharti Kanpur Nagar Uttar Pradesh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+380.0,2054,"Shree Lok Seva Sarvjanik Trust, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+381.0,2076,"Shri Brahma Samaj Seva Trust, Patan ,Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+382.0,2088,"Shrimad Rajchandra Hospital, valsad, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+383.0,2443,Shri Manvel Bardeskar Education Society Kolhapur (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+384.0,2466,Shri Proskills LLP Hyderabad Telangana(NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+385.0,2083,"Shri Ram Bhakt Sansakar Mandal, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+386.0,2370,Shriram Institute for Industrial Research New Delhi,Organization,1560,Department of Drinking Water and Sanitation,Department
+387.0,2445,Shroffs Foundation Trust Vadodara Gujarat (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+388.0,2446,Shrushti Seva Samiti Udaipur Rajasthan (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+389.0,2065,"S.K. R. Pupils Welfare Society, AP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+390.0,1204,Small Industries Development Bank of India,Organization,1174,Department of Financial Service,Department
+391.0,2447,Society for Peoples Integrated Development Chikkamagaluru Karnataka (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+392.0,2467,Society of Indian Institute for Rural Development Jaipur Rajasthan (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+393.0,2468,Socio Economic Unit Foundation Thiruvananthapuram Kerala (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+394.0,2450,Sosva Training and Promotion Institute Pune Maharashtra (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+395.0,2451,Spectra Organization Alwar Rajasthan (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+396.0,2266,Spices Board,Organization,1588,Department Of Commerce,Department
+397.0,1190,State Bank of India,Organization,1174,Department of Financial Service,Department
+398.0,1726,STATE TRADING CORPN. OF INDIA LTD.,Organization,1588,Department Of Commerce,Department
+399.0,1727,STCL LTD.,Organization,1588,Department Of Commerce,Department
+400.0,2452,Students Relief Society Jaipur Rajasthan (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+401.0,2035,Student Welfare Mission Assam,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+402.0,2384,Support for Implementation and Research Lucknow (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+403.0,2062,"Suryodaya Khadi Mission, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+404.0,2453,Swami Vivekananda Youth Movement Mysore Karnataka (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+405.0,2024,Swami Vivekanand National Institute of Rehabilitation Training and Research (SVNIRTAR)-Cuttack,Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+406.0,1191,Syndicate Bank,Organization,1174,Department of Financial Service,Department
+407.0,1728,TAMIL NADU TRADE PROMOTION ORGANISATION,Organization,1588,Department Of Commerce,Department
+408.0,1735,TCIL BINA TOLL ROAD LTD.,Organization,1066,Department of Telecommunication,Department
+409.0,1736,TCIL LAKHNADONE TOLL ROAD LTD.,Organization,1066,Department of Telecommunication,Department
+410.0,2540,Tea Board India,Organization,1588,Department Of Commerce,Department
+411.0,2454,Technospert Rural Development Trust Parbhani Maharashtra (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+412.0,1737,TELECOMMUNICATIONS CONSULTANTS (INDIA) LTD.,Organization,1066,Department of Telecommunication,Department
+413.0,2081,"The All India Institute of Speech and Hearing, Mysore",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+414.0,2469,The Andhyodaya Ernakulum Kerala (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+415.0,2378,The Energy and Resources Institute New Delhi(NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+416.0,1683,THE FERTILIZER CORPN. OF INDIA LTD.,Organization,1585,Department Of Fertilizers,Department
+417.0,2456,The Fifth Dimension Academy Gwalior MP (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+418.0,1792,TUNGABHADRA STEEL PRODUCTS LTD.,Organization,1602,Department Of Heavy Industry,Department
+419.0,1192,UCO Bank,Organization,1174,Department of Financial Service,Department
+420.0,1193,Union Bank of India,Organization,1174,Department of Financial Service,Department
+421.0,1194,United Bank of India,Organization,1174,Department of Financial Service,Department
+422.0,1198,United Insurance Company Ltd.,Organization,1174,Department of Financial Service,Department
+423.0,2376,University of Science and Technology Ri Bhoi Meghalaya,Organization,1560,Department of Drinking Water and Sanitation,Department
+424.0,2457,Unnati Organisation for Development Education Ahmedabad Gujarat (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+425.0,2078,"Upasana Jan Kalyan Sewa Samiti, Rampur, UP",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+426.0,1994,URANIUM CORPORATION OF INDIA LTD.,Organization,1985,DEPT. OF ATOMIC ENERGY,Department
+427.0,2459,Vibhavari Dewas Madhya Pradesh (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+428.0,2102,VIGNYAN INDUSTRIES LTD.,Organization,1593,Department Of Defence Production,Department
+429.0,1195,Vijaya Bank,Organization,1174,Department of Financial Service,Department
+430.0,2460,Vishvas Sansthan Udaipur Rajasthan (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+431.0,2461,Vivekananda Global University (A Unit of Bagaria Education Trust) Jaipur Rajasthan (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+432.0,2070,"V-One Society, Gujarat",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+433.0,2331,Watershed Support Services and Activities Network (WASSAN) Hydrabad Telangana,Organization,1560,Department of Drinking Water and Sanitation,Department
+434.0,2462,Watershed Support Services and Activities Network (WASSAN) Hydrabad Telangana (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+435.0,2385,We the People New Delhi (NGO),Organization,1560,Department of Drinking Water and Sanitation,Department
+436.0,2039,"Wodwichee, Assam",Organization,1617,Department Of Empowerment Of Persons With Disabilities,Department
+437.0,1793,YULE ELECTRICAL LTD.,Organization,1602,Department Of Heavy Industry,Department
+438.0,1794,YULE ENGINEERING COMPANY LTD.,Organization,1602,Department Of Heavy Industry,Department
+439.0,1691,AAI CARGO LOGISTICS & ALLIED SERVICES COMPANY LTD.,Organization,1563,Ministry Of Civil Aviation,Ministry
+440.0,1692,AIR INDIA AIR TRANSPORT SERVICES LTD.,Organization,1563,Ministry Of Civil Aviation,Ministry
+441.0,2288,AIR INDIA ASSETS HOLDING LTD,Organization,1563,Ministry Of Civil Aviation,Ministry
+442.0,1693,AIR INDIA ENGINEERING SERVICES LTD.,Organization,1563,Ministry Of Civil Aviation,Ministry
+443.0,1694,AIR INDIA EXPRESS LTD.,Organization,1563,Ministry Of Civil Aviation,Ministry
+444.0,1695,AIR INDIA LTD.,Organization,1563,Ministry Of Civil Aviation,Ministry
+445.0,1696,AIRLINE ALLIED SERVICES LTD.,Organization,1563,Ministry Of Civil Aviation,Ministry
+446.0,1697,AIRPORTS AUTHORITY OF INDIA,Organization,1563,Ministry Of Civil Aviation,Ministry
+447.0,1829,AJMER PHAGI TRANSCO LTD.,Organization,492,Ministry of Power,Ministry
+448.0,2346,All India Institute of Local Self Government Mumbai,Organization,1559,Ministry of Jal Shakti,Ministry
+449.0,1756,ANDAMAN & NICOBAR ISL. FOREST & PLANT.DEV.CORP.LTD,Organization,493,"Ministry of Environment,forests and climate change",Ministry
+450.0,2289,APOLLO DESIGN APPAREL PARKS LTD.,Organization,504,Ministry of Textiles,Ministry
+451.0,2290,AURANGABAD TEXTILES & APPAREL PARKS LTD.,Organization,504,Ministry of Textiles,Ministry
+452.0,1830,BALLABGARH - GN TRANSMISSION CO. LTD.,Organization,492,Ministry of Power,Ministry
+453.0,1804,BALMER LAWRIE & CO. LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+454.0,1805,BALMER LAWRIE INVESTMENTS LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+455.0,1701,BHARAT COKING COAL LTD.,Organization,1564,Ministry Of Coal,Ministry
+456.0,1806,"BHARAT GAS RESOURCES LTD,",Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+457.0,2292,BHARAT OMAN REFINERIES LIMITED,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+458.0,1809,BHARAT PETROLEUM CORPN. LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+459.0,1807,BHARAT PETRO RESOURCES JPDA,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+460.0,1808,BHARAT PETRO RESOURCES LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+461.0,1899,BHARAT WAGON & ENGG. CO. LTD.,Organization,1163,Ministry of Railways,Ministry
+462.0,1831,BHARTIYA RAIL BIJLEE CO. LTD.,Organization,492,Ministry of Power,Ministry
+463.0,1832,BHIND GUNA TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+464.0,1833,BIHAR INFRAPOWER LTD.,Organization,492,Ministry of Power,Ministry
+465.0,1834,BIHAR MEGA POWER LTD.,Organization,492,Ministry of Power,Ministry
+466.0,1835,BIJAWAR-VIDARBHA TRANSMISSION LTD,Organization,492,Ministry of Power,Ministry
+467.0,1967,BIRDS JUTE & EXPORTS LTD.,Organization,504,Ministry of Textiles,Ministry
+468.0,1810,BPCL-KIAL FUEL FARM PVT. LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+469.0,1900,BRAITHWAITE & CO. LTD.,Organization,1163,Ministry of Railways,Ministry
+470.0,1968,BRITISH INDIA CORPORATION LTD.,Organization,504,Ministry of Textiles,Ministry
+471.0,1797,BROADCAST ENGG. CONSULTANTS INDIA LTD.,Organization,1575,Ministry Of Information And Broadcasting,Ministry
+472.0,1836,BUNDELKHAND SAUR URJA LTD.,Organization,492,Ministry of Power,Ministry
+473.0,1901,BURN STANDARD COMPANY LTD.,Organization,1163,Ministry of Railways,Ministry
+474.0,1702,CENTRAL COALFIELDS LTD.,Organization,1564,Ministry Of Coal,Ministry
+475.0,1969,CENTRAL COTTAGE INDUSTRIES CORPN. OF INDIA LTD.,Organization,504,Ministry of Textiles,Ministry
+476.0,1930,CENTRAL ELECTRONICS LTD.,Organization,,,Ministry
+477.0,1932,CENTRAL INLAND WATER TRANSPORT CORPN. LTD.,Organization,1580,Ministry Of Shipping,Ministry
+478.0,1703,CENTRAL MINE PLANNING & DESIGN INSTITUTE LTD.,Organization,1564,Ministry Of Coal,Ministry
+479.0,1811,CERTIFICATION ENGINEERS INTERNATIONAL LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+480.0,1698,CHANDIGARH INTERNATIONAL AIRPORT LTD.,Organization,1563,Ministry Of Civil Aviation,Ministry
+481.0,1837,CHANDIL TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+482.0,2103,CHENNAI PETROLEUM CORPORATION LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+483.0,1838,CHEYYUR INFRA LTD.,Organization,492,Ministry of Power,Ministry
+484.0,2296,CHHATTISGARH COPPER LTD,Organization,1576,Ministry Of Mines,Ministry
+485.0,1704,CHHATTISGARH EAST RAILWAYS LTD.,Organization,1564,Ministry Of Coal,Ministry
+486.0,1705,CHHATTISGARH EAST-WEST RAILWAYS LTD.,Organization,1564,Ministry Of Coal,Ministry
+487.0,1946,CHHATTISGARH MEGA STEEL CO. LTD.,Organization,1581,Ministry Of Steel,Ministry
+488.0,1839,CHHATTISHGARH SURGUJA POWER LTD.,Organization,492,Ministry of Power,Ministry
+489.0,1706,COAL INDIA LTD.,Organization,1564,Ministry Of Coal,Ministry
+490.0,1840,COASTAL KARNATAKA POWER LTD.,Organization,492,Ministry of Power,Ministry
+491.0,1841,COASTAL MAHARASHTRA MEGA POWER LTD.,Organization,492,Ministry of Power,Ministry
+492.0,1842,COASTAL TAMIL NADU POWER LTD.,Organization,492,Ministry of Power,Ministry
+493.0,1933,COCHIN SHIPYARD LTD.,Organization,1580,Ministry Of Shipping,Ministry
+494.0,1902,CONCOR AIR LTD.,Organization,1163,Ministry of Railways,Ministry
+495.0,2297,CONCOR LAST MILE LOGISTICS LTD,Organization,1163,Ministry of Railways,Ministry
+496.0,1903,CONTAINER CORPORATION OF INDIA LTD.,Organization,1163,Ministry of Railways,Ministry
+497.0,1659,Council of Scientific and Industrial Research,Organization,,,Ministry
+498.0,2147,Damodar Valley Corporation,Organization,492,Ministry of Power,Ministry
+499.0,1904,DEDICATED FRIGHT CORRIDOR CORP. OF INDIA LTD.,Organization,1163,Ministry of Railways,Ministry
+500.0,2146,Delhi Metro Rail Corporation,Organization,518,MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
+501.0,1795,DELHI POLICE HOUSING CORPORATION LTD.,Organization,1574,Ministry Of Home Affairs,Ministry
+502.0,2298,DEOGHAR AIRPORT LTD,Organization,1563,Ministry Of Civil Aviation,Ministry
+503.0,1843,DEOGHAR INFRA LTD.,Organization,492,Ministry of Power,Ministry
+504.0,1844,DEOGHAR MEGA POWER LTD.,Organization,492,Ministry of Power,Ministry
+505.0,2299,DHALBHUMGARH AIRPORT LTD,Organization,1563,Ministry Of Civil Aviation,Ministry
+506.0,2300,DHOLERA INTERNATIONAL AIRPORT,Organization,1563,Ministry Of Civil Aviation,Ministry
+507.0,1845,DINGCHANG TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+508.0,1846,DUMKA TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+509.0,1707,EASTERN COALFIELDS LTD.,Organization,1564,Ministry Of Coal,Ministry
+510.0,1947,EASTERN INVESTMENT LTD.,Organization,1581,Ministry Of Steel,Ministry
+511.0,1812,ENGINEERS INDIA LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+512.0,1948,FERRO SCRAP NIGAM LTD.,Organization,1581,Ministry Of Steel,Ministry
+513.0,1905,FRESH & HEALTHY ENTERPRISES LTD.,Organization,1163,Ministry of Railways,Ministry
+514.0,1814,GAIL GAS LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+515.0,1813,GAIL (INDIA) LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+516.0,1641,GB Pant National Institute of Himalayan Environment (GBNIHE),Organization,493,"Ministry of Environment,forests and climate change",Ministry
+517.0,1847,GHOGARPALLI INTEGRATED POWER COMPANY LTD.,Organization,492,Ministry of Power,Ministry
+518.0,2301,GOLDMOHUR DESIGN & APPAREL PARKS LTD.,Organization,504,Ministry of Textiles,Ministry
+519.0,1970,HANDICRAFTS & HANDLOOM EXPORTS CORP. OF INDIA LTD.,Organization,504,Ministry of Textiles,Ministry
+520.0,1906,HIGH SPEED RAIL CORPORATION OF INDIA LTD.,Organization,1163,Ministry of Railways,Ministry
+521.0,1800,HINDUSTAN COPPER LTD.,Organization,1576,Ministry Of Mines,Ministry
+522.0,1815,HINDUSTAN PETROLEUM CORPN. LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+523.0,2004,HINDUSTAN PREFAB LTD.,Organization,518,MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
+524.0,2005,HINDUSTAN STEELWORKS COSTN. LTD.,Organization,518,MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
+525.0,1934,HOOGHLY DOCK AND PORT ENGINEERS LTD.,Organization,1580,Ministry Of Shipping,Ministry
+526.0,1935,HOOGLY COCHIN SHIPYARD LTD.,Organization,1580,Ministry Of Shipping,Ministry
+527.0,1699,HOTEL CORPN. OF INDIA LTD.,Organization,1563,Ministry Of Civil Aviation,Ministry
+528.0,2006,HOUSING & URBAN DEV. CORPN. LTD.,Organization,518,MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
+529.0,1816,HPCL BIOFUELS LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+530.0,1817,HPCL RAJASTHAN REFINERY LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+531.0,1660,Indian Council of Agricultural Research,Organization,498,MINISTRY OF AGRICULTURE AND FARMERS WELFARE,Ministry
+532.0,1643,"Indian Council of Forestry, Research and Education, Dehradun",Organization,493,"Ministry of Environment,forests and climate change",Ministry
+533.0,1670,INDIAN MEDICINES & PHARMACEUTICAL CORPN. LTD.,Organization,1561,Ministry Of Ayush,Ministry
+534.0,1818,INDIAN OIL CORPORATION LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+535.0,2303,INDIAN PORTS GLOBAL LTD,Organization,1580,Ministry Of Shipping,Ministry
+536.0,1907,INDIAN RAILWAY CATERING AND TOURISM CORPN. LTD.,Organization,1163,Ministry of Railways,Ministry
+537.0,1908,INDIAN RAILWAY FINANCE CORPORATION LTD.,Organization,1163,Ministry of Railways,Ministry
+538.0,2012,INDIAN RENEWABLE ENERGY DEVT.AGENCY LTD.,Organization,502,MINISTRY OF NEW AND RENEWABLE ENERGY,Ministry
+539.0,1976,INDIA TOURISM DEV. CORPN. LTD.,Organization,1582,Ministry Of Tourism,Ministry
+540.0,2302,INDIA UNITED TEXTILE MILLS LTD.,Organization,504,Ministry of Textiles,Ministry
+541.0,1819,INDO CAT PRIVATE LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+542.0,1936,INLAND & COASTAL SHIPPING LTD.,Organization,1580,Ministry Of Shipping,Ministry
+543.0,1909,IRCON DAVANAGERE HAVERI HIGHWAY LTD.,Organization,1163,Ministry of Railways,Ministry
+544.0,1910,IRCON INFRASTRUCTURE & SERVICES LTD.,Organization,1163,Ministry of Railways,Ministry
+545.0,1911,IRCON INTERNATIONAL LTD.,Organization,1163,Ministry of Railways,Ministry
+546.0,1912,IRCON PB TOLLWAY LTD.,Organization,1163,Ministry of Railways,Ministry
+547.0,1913,IRCON SHIVPURI GUNA TOLLWAY LTD.,Organization,1163,Ministry of Railways,Ministry
+548.0,1914,IRCON VADODARA KIM EXPRESSWAY LTD.,Organization,1163,Ministry of Railways,Ministry
+549.0,1848,JAM KHAMBALIYA TRANSCO LTD.,Organization,492,Ministry of Power,Ministry
+550.0,1708,JHARKHAND CENTRAL RAILWAY LTD.,Organization,1564,Ministry Of Coal,Ministry
+551.0,1849,JHARKHAND INFRAPOWER LTD.,Organization,492,Ministry of Power,Ministry
+552.0,1950,JHARKHAND KOLHAN STEEL LTD.,Organization,1581,Ministry Of Steel,Ministry
+553.0,1951,JHARKHAND NATIONAL MINERAL DEVPT. CORPORATION LTD.,Organization,1581,Ministry Of Steel,Ministry
+554.0,1949,J & K MINERAL DEVELOPMENT CORPN. LTD.,Organization,1581,Ministry Of Steel,Ministry
+555.0,1937,KAMARAJAR PORT LTD.,Organization,1580,Ministry Of Shipping,Ministry
+556.0,1850,KANTI BIJLEE UTPADAN NIGAM LTD.,Organization,492,Ministry of Power,Ministry
+557.0,1952,KARNATAKA VIJAY NAGAR STEEL LTD.,Organization,1581,Ministry Of Steel,Ministry
+558.0,2304,KARUR TRANSMISSION LTD,Organization,492,Ministry of Power,Ministry
+559.0,1851,KHETRI TRANSCO LTD.,Organization,492,Ministry of Power,Ministry
+560.0,1953,KIOCL LTD.,Organization,1581,Ministry Of Steel,Ministry
+561.0,1853,KODERMA TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+562.0,1852,KODERMA TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+563.0,1915,KOLKATA METRO RAIL CORPORATION LTD.,Organization,1163,Ministry of Railways,Ministry
+564.0,2305,KONKAN LNG LIMITED,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+565.0,1916,KONKAN RAILWAY CORPORATION LTD.,Organization,1163,Ministry of Railways,Ministry
+566.0,2306,KOPPAL-NARENDRA TRANSMISSION LTD,Organization,492,Ministry of Power,Ministry
+567.0,1977,KUMARAKRUPPA FRONTIER HOTELS PVT. LTD.,Organization,1582,Ministry Of Tourism,Ministry
+568.0,1854,LAKADIA BANASKANTHA TRANSCO LTD.,Organization,492,Ministry of Power,Ministry
+569.0,2307,LANCOTEESTA HYDRO POWER LTD,Organization,492,Ministry of Power,Ministry
+570.0,1855,LOKTAK DOWNSTREAM HYDROELECTRIC CORPORATION LTD.,Organization,492,Ministry of Power,Ministry
+571.0,1709,MAHANADI BASIN POWER LTD.,Organization,1564,Ministry Of Coal,Ministry
+572.0,1711,MAHANADI COALFIELDLS LTD.,Organization,1564,Ministry Of Coal,Ministry
+573.0,1710,MAHANADI COAL RAILWAY LTD.,Organization,1564,Ministry Of Coal,Ministry
+574.0,1856,MANDAR TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+575.0,1820,MANGALORE REFINERY & PETROCHEMICALS LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+576.0,1955,MECON LTD.,Organization,1581,Ministry Of Steel,Ministry
+577.0,1801,MINERAL EXPLORATION CORPN. LTD.,Organization,1576,Ministry Of Mines,Ministry
+578.0,1712,MJSJ COAL LTD.,Organization,1564,Ministry Of Coal,Ministry
+579.0,1713,MNH SHAKTI LTD.,Organization,1564,Ministry Of Coal,Ministry
+580.0,1857,MOHINDER GARH-BHIWANI TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+581.0,1956,MOIL LTD.,Organization,1581,Ministry Of Steel,Ministry
+582.0,1954,M S T C LTD.,Organization,1581,Ministry Of Steel,Ministry
+583.0,1917,MUMBAI RAILWAY VIKAS CORPORATION LTD.,Organization,1163,Ministry of Railways,Ministry
+584.0,1858,NABINAGAR POWER GENERATING COMPANY LTD.,Organization,492,Ministry of Power,Ministry
+585.0,1802,NATIONAL ALUMINIUM COMPANY LTD.,Organization,1576,Ministry Of Mines,Ministry
+586.0,1798,NATIONAL FILM DEV. CORPN. LTD.,Organization,1575,Ministry Of Information And Broadcasting,Ministry
+587.0,1971,NATIONAL HANDLOOM DEVELOPMENT CORPORATION LTD.,Organization,504,Ministry of Textiles,Ministry
+588.0,2106,NATIONAL HIGHWAYS & INFRASTRUCTURE DEVELOPMENT CORPN. LTD.,Organization,1146,Ministry of Road Transport & Highways,Ministry
+589.0,1926,NATIONAL HIGHWAYS & INFRASTRUCTURE DEVELOPMENT CORPN. LTD.,Organization,1146,Ministry of Road Transport & Highways,Ministry
+590.0,1972,NATIONAL JUTE MANUFACTURES CORPORATION LTD.,Organization,504,Ministry of Textiles,Ministry
+591.0,1803,NATIONAL MINORITIES DEVP. & FINANCE CORPORATION,Organization,521,Ministry of Minority Affairs,Ministry
+592.0,2014,NATIONAL PROJECTS CONSTRUCTION CORPN. LTD.,Organization,491,"MINISTRY OF WATER RESOURCES, RIVER DEVELOPMENT & GANGA REJUVENATION",Ministry
+593.0,1931,NATIONAL RESEARCH DEVELOPMENT CORPN.,Organization,,,Ministry
+594.0,1983,NATIONAL SCHEDULED TRIBES FINANCE & DEVP. CORPN.,Organization,490,Ministry of Tribal Affarirs,Ministry
+595.0,1799,NATIONAL SMALL INDUSTRIES CORPN. LTD.,Organization,497,"Ministry of Micro, Small and Medium Enterprises",Ministry
+596.0,1973,NATIONAL TEXTILE CORPN. LTD.,Organization,504,Ministry of Textiles,Ministry
+597.0,2008,NBCC ENGINEERING AND CONSULTANCY LTD.,Organization,518,MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
+598.0,2009,NBCC ENVIRONMENT ENGINEERING LTD.,Organization,518,MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
+599.0,2007,NBCC (INDIA) LTD.,Organization,518,MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
+600.0,2010,NBCC INTERNATIONAL LTD.,Organization,518,MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
+601.0,2011,NBCC SERVICES LTD.,Organization,518,MINISTRY OF HOUSING & URBAN AFFAIRS,Ministry
+602.0,2310,NEW CITY OF BOMBAY MFG. MILLS LTD.,Organization,504,Ministry of Textiles,Ministry
+603.0,1714,NEYVELI UTTAR PRADESH POWER LTD,Organization,1564,Ministry Of Coal,Ministry
+604.0,1859,NHDC LTD.,Organization,492,Ministry of Power,Ministry
+605.0,1860,NHPC LTD.,Organization,492,Ministry of Power,Ministry
+606.0,1715,NLC INDIA LTD.,Organization,1564,Ministry Of Coal,Ministry
+607.0,1716,NLC TAMIL NADU POWER LTD.,Organization,1564,Ministry Of Coal,Ministry
+608.0,1961,NMDC-CMDC LTD.,Organization,1581,Ministry Of Steel,Ministry
+609.0,1957,NMDC CSR FOUNDATION,Organization,1581,Ministry Of Steel,Ministry
+610.0,1958,NMDC Ltd.,Organization,1581,Ministry Of Steel,Ministry
+611.0,1959,NMDC POWER LTD.,Organization,1581,Ministry Of Steel,Ministry
+612.0,1960,NMDC STEEL LTD.,Organization,1581,Ministry Of Steel,Ministry
+613.0,1861,NORTH EASTERN ELECTRIC POWER CORPORATION LTD.,Organization,492,Ministry of Power,Ministry
+614.0,1754,NORTH EASTERN HANDICRAFTS & HANDLOOM DEV.CORPN. LTD.,Organization,1570,Ministry Of Development Of North Eastern Region,Ministry
+615.0,1755,NORTH EASTERN REGIONAL AGRI. MARKETING CORP.LTD.,Organization,1570,Ministry Of Development Of North Eastern Region,Ministry
+616.0,1717,NORTHERN COALFIELDS LTD.,Organization,1564,Ministry Of Coal,Ministry
+617.0,1862,NTPC ELECTRIC SUPPLY COMPANY LTD.,Organization,492,Ministry of Power,Ministry
+618.0,1863,NTPC LTD.,Organization,492,Ministry of Power,Ministry
+619.0,2311,NTPC MINING LTD,Organization,492,Ministry of Power,Ministry
+620.0,1864,NTPC VIDYUT VYAPAR NIGAM LTD.,Organization,492,Ministry of Power,Ministry
+621.0,1821,NUMALIGARH REFINERY LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+622.0,1865,ODISHA INFRAPOWER LTD.,Organization,492,Ministry of Power,Ministry
+623.0,1823,OIL INDIA INTERNATIONAL LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+624.0,1824,OIL INDIA LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+625.0,1822,OIL & NATURAL GAS CORPORATION LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+626.0,1825,ONGC MANGALORE PETROCHEMICALS LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+627.0,1826,ONGC VIDESH LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+628.0,2312,ONGC VIDESH ROVUMA LTD. (INDIA),Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+629.0,1866,ORISSA INTEGRATED POWER LTD.,Organization,492,Ministry of Power,Ministry
+630.0,1962,ORISSA MINERAL DEVELOPMENT COMPANY LTD.,Organization,1581,Ministry Of Steel,Ministry
+631.0,1867,PATRATU VIDYUT UTPADAN NIGAM LTD.,Organization,492,Ministry of Power,Ministry
+632.0,1700,PAWAN HANS LTD.,Organization,1563,Ministry Of Civil Aviation,Ministry
+633.0,1868,PFC CONSULTING LTD.,Organization,492,Ministry of Power,Ministry
+634.0,1978,PONDICHERRY ASHOK HOTEL CORPN. LTD.,Organization,1582,Ministry Of Tourism,Ministry
+635.0,1870,POWER EQUITY CAPITAL ADVISORS PVT. LTD.,Organization,492,Ministry of Power,Ministry
+636.0,1871,POWER FINANCE CORPORATION LTD.,Organization,492,Ministry of Power,Ministry
+637.0,2313,POWER GRID BHUJ TRANSMISSION LTD,Organization,492,Ministry of Power,Ministry
+638.0,1872,POWER GRID CORPORATION OF INDIA LTD.,Organization,492,Ministry of Power,Ministry
+639.0,2314,POWER GRID FATEGARH TRANSMISSION LTD,Organization,492,Ministry of Power,Ministry
+640.0,1873,POWER GRID JABALPUR TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+641.0,1881,POWERGRID JAWAHARPUR FIROZABAD TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+642.0,1882,POWERGRID KALA AMB TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+643.0,1874,POWER GRID MEDINIPUR JEERAT TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+644.0,2315,POWER GRID MEERUT SIMBHAVALI TRANSMISSION LTD,Organization,492,Ministry of Power,Ministry
+645.0,1869,POWER GRID MITHILANCHAL TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+646.0,1883,POWERGRID NM TRANMISSION LTD.,Organization,492,Ministry of Power,Ministry
+647.0,1875,POWER GRID PARLI TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+648.0,2316,POWER GRID RAMPUR SAMBHAL TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+649.0,1876,POWER GRID SOUTHERN INTERCONNECTOR TRANSMISSION SYSTEM LTD.,Organization,492,Ministry of Power,Ministry
+650.0,1884,POWERGRID UNCHAHAR TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+651.0,1877,POWER GRID VARANASI TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+652.0,1878,POWER GRID VEMAGIRI TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+653.0,1885,POWERGRID VIZAG TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+654.0,1879,POWER GRID WARORA TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+655.0,1880,POWER SYSTEM OPERATION CORPORATION LTD.,Organization,492,Ministry of Power,Ministry
+656.0,1827,PRIZE PETROLEUM COMPANY LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+657.0,1980,PUNJAB ASHOK HOTEL COMPANY LTD.,Organization,1582,Ministry Of Tourism,Ministry
+658.0,1918,PUNJAB LOGISTIC INFRASTRUCTURE LTD.,Organization,1163,Ministry of Railways,Ministry
+659.0,1920,RAILTEL CORPORATION INDIA LTD.,Organization,1163,Ministry of Railways,Ministry
+660.0,1921,RAILTEL ENTERPRISES LTD.,Organization,1163,Ministry of Railways,Ministry
+661.0,1919,RAIL VIKAS NIGAM LTD.,Organization,1163,Ministry of Railways,Ministry
+662.0,1922,RAILWAY ENERGY MANAGEMENT COMPANY LTD.,Organization,1163,Ministry of Railways,Ministry
+663.0,1981,RANCHI ASHOK BIHAR HOTEL CORPN. LTD.,Organization,1582,Ministry Of Tourism,Ministry
+664.0,1663,Rashtriya Ayurveda Vidyapeeth,Organization,1561,Ministry Of Ayush,Ministry
+665.0,1963,RASHTRIYA ISPAT NIGAM LTD.,Organization,1581,Ministry Of Steel,Ministry
+666.0,1886,REC LTD.,Organization,492,Ministry of Power,Ministry
+667.0,1887,REC POWER DISTRIBUTION CO. LTD.,Organization,492,Ministry of Power,Ministry
+668.0,1888,REC TRANSMISSION PROJECTS CO. LTD.,Organization,492,Ministry of Power,Ministry
+669.0,1923,RITES INFRASTRUCTURE SERVICES LTD.,Organization,1163,Ministry of Railways,Ministry
+670.0,1924,RITES LTD.,Organization,1163,Ministry of Railways,Ministry
+671.0,1938,SAGARMALA DEVELOPMENT COMPANY LTD.,Organization,1580,Ministry Of Shipping,Ministry
+672.0,1964,SAIL REFRACTORY COMPANY LTD.,Organization,1581,Ministry Of Steel,Ministry
+673.0,1889,SAKHIGOPAL INTEGRATED POWER COMPANY LTD.,Organization,492,Ministry of Power,Ministry
+674.0,1939,SETHUSAMUDRAM CORPN. LTD.,Organization,1580,Ministry Of Shipping,Ministry
+675.0,1940,SHIPPING CORPORATION OF INDIA LTD.,Organization,1580,Ministry Of Shipping,Ministry
+676.0,2104,SHONGTONG KARCHAM WANGTOO  TRANSMISSION LTD,Organization,492,Ministry of Power,Ministry
+677.0,1890,SHONGTONG KARCHAM WANGTOO TRANSMISSION LTD,Organization,492,Ministry of Power,Ministry
+678.0,1925,SIDCUL CONCOR INFRA COMPANY LTD.,Organization,1163,Ministry of Railways,Ministry
+679.0,2145,Singareni Collieries Company ltd,Organization,1564,Ministry Of Coal,Ministry
+680.0,1891,SJVN LTD.,Organization,492,Ministry of Power,Ministry
+681.0,1892,SJVN THERMAL PVT. LTD.,Organization,492,Ministry of Power,Ministry
+682.0,2013,SOLAR ENERGY CORPORATION OF INDIA,Organization,502,MINISTRY OF NEW AND RENEWABLE ENERGY,Ministry
+683.0,1893,SOUTH-CENTRAL EAST DELHI POWER TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+684.0,1718,SOUTH EASTERN COALFIELDS LTD.,Organization,1564,Ministry Of Coal,Ministry
+685.0,1965,STEEL AUTHORITY OF INDIA LTD.,Organization,1581,Ministry Of Steel,Ministry
+686.0,1894,TANDA TRANSMISSION COMPANY LTD.,Organization,492,Ministry of Power,Ministry
+687.0,1895,TATIYA ANDHRA MEGA POWER LTD.,Organization,492,Ministry of Power,Ministry
+688.0,1896,THDC INDIA LTD.,Organization,492,Ministry of Power,Ministry
+689.0,1966,THE BISRA STONE LIME COMPANY LTD.,Organization,1581,Ministry Of Steel,Ministry
+690.0,1974,THE COTTON CORPN. OF INDIA LTD.,Organization,504,Ministry of Textiles,Ministry
+691.0,1975,THE JUTE CORPN. OF INDIA LTD.,Organization,504,Ministry of Textiles,Ministry
+692.0,1897,UDUPI KASARGODE TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+693.0,1982,UTKAL ASHOK HOTEL CORPN. LTD.,Organization,1582,Ministry Of Tourism,Ministry
+694.0,2105,VAPI-II NORTH LAKHIMPUR TRANSMISSION LTD.,Organization,492,Ministry of Power,Ministry
+695.0,1828,VISAKHAPATANAM PORT LOGISTICS PARK LTD.,Organization,1254,Ministry of Petroleum and Natural Gas,Ministry
+696.0,2015,WAPCOS LTD.,Organization,491,"MINISTRY OF WATER RESOURCES, RIVER DEVELOPMENT & GANGA REJUVENATION",Ministry
+697.0,1719,WESTERN COALFIELDS LTD.,Organization,1564,Ministry Of Coal,Ministry
+698.0,1642,WILDLIFE INSTITUTE OF INDIA,Organization,493,"Ministry of Environment,forests and climate change",Ministry
+699.0,1898,WRSS XXI(A) TRANSCO LIMITED,Organization,492,Ministry of Power,Ministry
