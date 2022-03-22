@@ -1,0 +1,1597 @@
+S.No.,Organization Code,Organization Name,Organization Type,Parent Organization Code,Parent Organization Name,Parent Organization Type,State Code,State Name
+1.0,2215,Agriculture Department,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+2.0,2216,Department of Animal Husbandry and Veterinary Services,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+3.0,2337,Department of Environment and Forests,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+4.0,2188,Department of Finance,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+5.0,2212,"Department of Labour, Employment and Training",Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+6.0,485,Department of Panchayati Raj and RD,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+7.0,1031,Department of Social Welfare,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+8.0,2181,Directorate of Education,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+9.0,2183,Directorate of Fisheries,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+10.0,2218,Directorate of Health Services,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+11.0,2217,Directorate of Industries,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+12.0,929,Election Commission,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+13.0,928,Revenue Department,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+14.0,37,Test Department,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+15.0,927,Urban Development Department,Department,,,,35,ANDAMAN AND NICOBAR ISLANDS
+16.0,2533,Canara Bank,Organization,2218,Directorate of Health Services,Department,35,ANDAMAN AND NICOBAR ISLANDS
+17.0,160,SIRD,Organization,485,Department of Panchayati Raj and RD,Department,35,ANDAMAN AND NICOBAR ISLANDS
+18.0,2219,State Health Agency,Organization,2218,Directorate of Health Services,Department,35,ANDAMAN AND NICOBAR ISLANDS
+1.0,331,Agriculture,Department,,,,28,ANDHRA PRADESH
+2.0,1556,"AYUSH - Department Health, Medical & Family Welfare",Department,,,,28,ANDHRA PRADESH
+3.0,1275,Consumer Affairs Food Civil Supplies,Department,,,,28,ANDHRA PRADESH
+4.0,1096,"Department Health, Medical & Family Welfare",Department,,,,28,ANDHRA PRADESH
+5.0,1094,Department of Animal Husbandry,Department,,,,28,ANDHRA PRADESH
+6.0,1093,Department of Energy,Department,,,,28,ANDHRA PRADESH
+7.0,1092,Department of Higher Education,Department,,,,28,ANDHRA PRADESH
+8.0,1097,Department of Horticulture,Department,,,,28,ANDHRA PRADESH
+9.0,1102,Department of Industries & Commerce,Department,,,,28,ANDHRA PRADESH
+10.0,1091,Department of School Education,Department,,,,28,ANDHRA PRADESH
+11.0,1033,"Dept of Social Welfare, WCD",Department,,,,28,ANDHRA PRADESH
+12.0,1032,"Dept of Women Development, Child Welfare and Disabled Welfare",Department,,,,28,ANDHRA PRADESH
+13.0,933,Election Commission,Department,,,,28,ANDHRA PRADESH
+14.0,1625,ELECTRONIC SERVICE DELIVERY - ITE&C,Department,,,,28,ANDHRA PRADESH
+15.0,1465,Energy - Electrical Safety,Department,,,,28,ANDHRA PRADESH
+16.0,1274,"Energy, Infrastructure and Investment",Department,,,,28,ANDHRA PRADESH
+17.0,334,Engineering Department,Department,,,,28,ANDHRA PRADESH
+18.0,333,Finance and Planning,Department,,,,28,ANDHRA PRADESH
+19.0,1095,Forest Department,Department,,,,28,ANDHRA PRADESH
+20.0,1466,Home - DGP,Department,,,,28,ANDHRA PRADESH
+21.0,1471,Home - Fire Services,Department,,,,28,ANDHRA PRADESH
+22.0,1624,"Information Technology, Electronics and Communications",Department,,,,28,ANDHRA PRADESH
+23.0,1639,Labour,Department,,,,28,ANDHRA PRADESH
+24.0,1637,Labour Department,Department,,,,28,ANDHRA PRADESH
+25.0,1470,Municipal Administration,Department,,,,28,ANDHRA PRADESH
+26.0,72,Panchayat Raj Rural Employment,Department,,,,28,ANDHRA PRADESH
+27.0,332,Planning Department,Department,,,,28,ANDHRA PRADESH
+28.0,931,Revenue Department,Department,,,,28,ANDHRA PRADESH
+29.0,1468,Roads and Buildings,Department,,,,28,ANDHRA PRADESH
+30.0,733,State Audit Department,Department,,,,28,ANDHRA PRADESH
+31.0,1098,Town & Country Planning Department,Department,,,,28,ANDHRA PRADESH
+32.0,1101,Tribal Welfare Department,Department,,,,28,ANDHRA PRADESH
+33.0,932,Urban Development Department,Department,,,,28,ANDHRA PRADESH
+34.0,1099,Water Resource Department,Department,,,,28,ANDHRA PRADESH
+35.0,133,APSIRD,Organization,72,Panchayat Raj Rural Employment,Department,28,ANDHRA PRADESH
+36.0,1554,Dr. N.T.R. University of Health Sciences,Organization,1096,"Department Health, Medical & Family Welfare",Department,28,ANDHRA PRADESH
+37.0,1531,DR. YSR Horticultural University,Organization,1097,Department of Horticulture,Department,28,ANDHRA PRADESH
+1.0,2496,Administrative Reforms,Department,,,,12,ARUNACHAL PRADESH
+2.0,2190,Cooperative Societies,Department,,,,12,ARUNACHAL PRADESH
+3.0,1979,Department of Education,Department,,,,12,ARUNACHAL PRADESH
+4.0,1647,Department of Environment and Forest,Department,,,,12,ARUNACHAL PRADESH
+5.0,1645,"Department of Finance, Planning and Investment",Department,,,,12,ARUNACHAL PRADESH
+6.0,2214,Department of Fire & Emergency Services,Department,,,,12,ARUNACHAL PRADESH
+7.0,2164,Department of Food and Civil Supply,Department,,,,12,ARUNACHAL PRADESH
+8.0,1635,Department of Home,Department,,,,12,ARUNACHAL PRADESH
+9.0,2142,Department of Industries,Department,,,,12,ARUNACHAL PRADESH
+10.0,1665,Department of Labour and Employment,Department,,,,12,ARUNACHAL PRADESH
+11.0,2205,Department of Land Management,Department,,,,12,ARUNACHAL PRADESH
+12.0,2204,Department of Legal Metrology and Consumer Affairs,Department,,,,12,ARUNACHAL PRADESH
+13.0,468,Department of Panchayati Raj and RD,Department,,,,12,ARUNACHAL PRADESH
+14.0,2320,Department of Town Planning & ULB,Department,,,,12,ARUNACHAL PRADESH
+15.0,2195,Department of Trade & Commerce,Department,,,,12,ARUNACHAL PRADESH
+16.0,1034,Dept of Women and Child Development & Social Justice,Department,,,,12,ARUNACHAL PRADESH
+17.0,2158,Director of Audit and Pension,Department,,,,12,ARUNACHAL PRADESH
+18.0,597,DISTRICT ADMINISTRATION,Department,,,,12,ARUNACHAL PRADESH
+19.0,809,Election Commission,Department,,,,12,ARUNACHAL PRADESH
+20.0,2198,Health & Family Welfare,Department,,,,12,ARUNACHAL PRADESH
+21.0,2162,Office of the Directorate of Audit & Pension,Department,,,,12,ARUNACHAL PRADESH
+22.0,2194,Public Health Engineering and Water Resource Department,Department,,,,12,ARUNACHAL PRADESH
+23.0,2159,Public Works Department,Department,,,,12,ARUNACHAL PRADESH
+24.0,807,Revenue Department,Department,,,,12,ARUNACHAL PRADESH
+25.0,14,Test Department,Department,,,,12,ARUNACHAL PRADESH
+26.0,1634,Test Deptt,Department,,,,12,ARUNACHAL PRADESH
+27.0,145,SIRD,Organization,468,Department of Panchayati Raj and RD,Department,12,ARUNACHAL PRADESH
+28.0,1648,Test Board,Organization,1647,Department of Environment and Forest,Department,12,ARUNACHAL PRADESH
+29.0,1646,Test Division,Organization,1645,"Department of Finance, Planning and Investment",Department,12,ARUNACHAL PRADESH
+30.0,1649,Test Organization,Organization,,,Department,12,ARUNACHAL PRADESH
+1.0,1413,"Accountant General, Assam",Department,,,,18,ASSAM
+2.0,1393,Administrative Reforms and Training,Department,,,,18,ASSAM
+3.0,718,Agriculture Department,Department,,,,18,ASSAM
+4.0,2252,Animal Husbandry and Veterinary Department,Department,,,,18,ASSAM
+5.0,709,Chief Inspectorate of Factories,Department,,,,18,ASSAM
+6.0,739,Commissionerate of Labour,Department,,,,18,ASSAM
+7.0,1415,CO-OPERATION DEPARTMENT,Department,,,,18,ASSAM
+8.0,1417,Department of Agriculture and Horticulture,Department,,,,18,ASSAM
+9.0,1661,Department of Excise,Department,,,,18,ASSAM
+10.0,1418,"DEPARTMENT OF FOOD, CIVIL SUPPLIES & CONSUMER AFFAIRS",Department,,,,18,ASSAM
+11.0,1421,Department of Health and Family Welfare,Department,,,,18,ASSAM
+12.0,1329,Department of Industries & Commerce,Department,,,,18,ASSAM
+13.0,1626,Department of Judicial,Department,,,,18,ASSAM
+14.0,1282,Department of Labour and Welfare,Department,,,,18,ASSAM
+15.0,1520,Department of Mines and Minerals,Department,,,,18,ASSAM
+16.0,473,Department of Panchayati Raj and RD,Department,,,,18,ASSAM
+17.0,1256,Department of Power,Department,,,,18,ASSAM
+18.0,2189,Department of Secondary Education,Department,,,,18,ASSAM
+19.0,2193,"Department of Skill, Employment and Entrepreneurship",Department,,,,18,ASSAM
+20.0,1396,Department of Tourism,Department,,,,18,ASSAM
+21.0,1522,Department of Transport,Department,,,,18,ASSAM
+22.0,1552,DEPARTMENT OF WELFARE OF PLAIN TRIBES AND BACKWARD CLASSES,Department,,,,18,ASSAM
+23.0,1035,"Dept of Social Welfare, WCD",Department,,,,18,ASSAM
+24.0,2197,Directorate Of Social Welfare (Social Justice and Empowerment Sector),Department,,,,18,ASSAM
+25.0,2128,Director of Audit (Local Fund),Department,,,,18,ASSAM
+26.0,811,Election Commission,Department,,,,18,ASSAM
+27.0,1524,Elementary Education Department,Department,,,,18,ASSAM
+28.0,1051,Environment and Forest,Department,,,,18,ASSAM
+29.0,1412,Finance Department,Department,,,,18,ASSAM
+30.0,1469,General Administration Department,Department,,,,18,ASSAM
+31.0,1477,Guwahati Development Department,Department,,,,18,ASSAM
+32.0,1527,Higher Education Department,Department,,,,18,ASSAM
+33.0,991,Home & Political,Department,,,,18,ASSAM
+34.0,696,IT Department,Department,,,,18,ASSAM
+35.0,2100,Karbi Anglong (AC),Department,,,,18,ASSAM
+36.0,1621,North Cachar Hills Autonomous Council,Department,,,,18,ASSAM
+37.0,687,Office of the Chief Minister,Department,,,,18,ASSAM
+38.0,2349,Public Health Engineering Department,Department,,,,18,ASSAM
+39.0,1651,Public Works Department,Department,,,,18,ASSAM
+40.0,689,Revenue Department,Department,,,,18,ASSAM
+41.0,1234,Revenue & Disaster Management Department,Department,,,,18,ASSAM
+42.0,1526,Secondary Education Department,Department,,,,18,ASSAM
+43.0,1397,Sports and Youth Welfare,Department,,,,18,ASSAM
+44.0,20,Test Department,Department,,,,18,ASSAM
+45.0,810,Urban Development Department,Department,,,,18,ASSAM
+46.0,1486,Urban Development Department - Assam,Department,,,,18,ASSAM
+47.0,1414,"AG OFFICE, ASSAM",Organization,1413,"Accountant General, Assam",Department,18,ASSAM
+48.0,1026,"Commissionerate , Panchayati Raj and Rural Development",Organization,473,Department of Panchayati Raj and RD,Department,18,ASSAM
+49.0,1028,Directorate of Municipal Administration,Organization,810,Urban Development Department,Department,18,ASSAM
+50.0,1273,Director of Land Records,Organization,1234,Revenue & Disaster Management Department,Department,18,ASSAM
+51.0,1235,Inspector General of Registration,Organization,1234,Revenue & Disaster Management Department,Department,18,ASSAM
+52.0,1253,Pollution Control Board Assam,Organization,1051,Environment and Forest,Department,18,ASSAM
+53.0,130,SIRD,Organization,473,Department of Panchayati Raj and RD,Department,18,ASSAM
+54.0,1398,Sports Authority of Assam,Organization,1397,Sports and Youth Welfare,Department,18,ASSAM
+1.0,1490,"Department of Industries, Government of Bihar",Department,,,,10,BIHAR
+2.0,467,Department of Panchayati Raj and RD,Department,,,,10,BIHAR
+3.0,685,Department of Social Welfare,Department,,,,10,BIHAR
+4.0,2161,Directorate of Local Fund Audit,Department,,,,10,BIHAR
+5.0,813,Election Commission,Department,,,,10,BIHAR
+6.0,2232,"Environment, Forest & Climate Change Department",Department,,,,10,BIHAR
+7.0,1252,Food & Consumer Protection,Department,,,,10,BIHAR
+8.0,624,General Administration Department,Department,,,,10,BIHAR
+9.0,796,Health Department,Department,,,,10,BIHAR
+10.0,1246,Home Department,Department,,,,10,BIHAR
+11.0,690,Labour Resource Department,Department,,,,10,BIHAR
+12.0,326,Panchayati Raj Department,Department,,,,10,BIHAR
+13.0,734,Revenue and Land Reforms Department,Department,,,,10,BIHAR
+14.0,1245,Rural Development Department,Department,,,,10,BIHAR
+15.0,52,State Line Delpt Test 1,Department,,,,10,BIHAR
+16.0,12,Test Department,Department,,,,10,BIHAR
+17.0,2285,Tourism Department,Department,,,,10,BIHAR
+18.0,812,Urban Development Department,Department,,,,10,BIHAR
+19.0,1069,Integrated Child Development Services,Organization,685,Department of Social Welfare,Department,10,BIHAR
+20.0,705,State Institute of Rural Development,Organization,467,Department of Panchayati Raj and RD,Department,10,BIHAR
+1.0,2547,Agriculture,Department,,,,4,CHANDIGARH
+2.0,800,Animal Husbandry Department,Department,,,,4,CHANDIGARH
+3.0,803,Architect College,Department,,,,4,CHANDIGARH
+4.0,838,Arts College,Department,,,,4,CHANDIGARH
+5.0,854,AYUSH,Department,,,,4,CHANDIGARH
+6.0,874,CCET (Degree Wing),Department,,,,4,CHANDIGARH
+7.0,840,Central Treasury,Department,,,,4,CHANDIGARH
+8.0,958,Chandigarh Administration,Department,,,,4,CHANDIGARH
+9.0,2328,Chandigarh Housing Board,Department,,,,4,CHANDIGARH
+10.0,872,Chandigarh Transport Undertaking,Department,,,,4,CHANDIGARH
+11.0,875,Chief Architect,Department,,,,4,CHANDIGARH
+12.0,841,Co-Operative Societies,Department,,,,4,CHANDIGARH
+13.0,868,CREST,Department,,,,4,CHANDIGARH
+14.0,1054,Department of Information Technology,Department,,,,4,CHANDIGARH
+15.0,463,Department of Panchayati Raj and RD,Department,,,,4,CHANDIGARH
+16.0,869,"Department of Social Welfare, Women and Child Development, Chandigarh Administration",Department,,,,4,CHANDIGARH
+17.0,839,Deputy Commissioner office,Department,,,,4,CHANDIGARH
+18.0,924,Directorate of Higher Education,Department,,,,4,CHANDIGARH
+19.0,801,Directorate of School Education,Department,,,,4,CHANDIGARH
+20.0,855,Directorate of Technical Education,Department,,,,4,CHANDIGARH
+21.0,876,District Court,Department,,,,4,CHANDIGARH
+22.0,852,District Family Welfare,Department,,,,4,CHANDIGARH
+23.0,816,Election Commission,Department,,,,4,CHANDIGARH
+24.0,925,Engineering Department,Department,,,,4,CHANDIGARH
+25.0,843,Environment,Department,,,,4,CHANDIGARH
+26.0,844,Estate Office,Department,,,,4,CHANDIGARH
+27.0,845,Excise & Taxation,Department,,,,4,CHANDIGARH
+28.0,849,Food & Supplies & Consumer Affairs,Department,,,,4,CHANDIGARH
+29.0,848,Forests & Wildlife,Department,,,,4,CHANDIGARH
+30.0,860,Government Medical College & Hospital,Department,,,,4,CHANDIGARH
+31.0,851,Health Department (GMSH),Department,,,,4,CHANDIGARH
+32.0,877,High Court,Department,,,,4,CHANDIGARH
+33.0,878,Home Guards,Department,,,,4,CHANDIGARH
+34.0,856,Industries Department,Department,,,,4,CHANDIGARH
+35.0,858,Labour,Department,,,,4,CHANDIGARH
+36.0,859,Legal Remembrancer & Prosecution,Department,,,,4,CHANDIGARH
+37.0,879,Local Audit Department,Department,,,,4,CHANDIGARH
+38.0,853,Malaria Wing,Department,,,,4,CHANDIGARH
+39.0,926,Municipal Corporation Chandigarh,Department,,,,4,CHANDIGARH
+40.0,850,Museum & Art Gallery,Department,,,,4,CHANDIGARH
+41.0,880,NCC Organisation U.T.,Department,,,,4,CHANDIGARH
+42.0,846,Planning & Evaluation Organization,Department,,,,4,CHANDIGARH
+43.0,862,Police Department,Department,,,,4,CHANDIGARH
+44.0,864,Printing & Stationery,Department,,,,4,CHANDIGARH
+45.0,863,Prisons (Model Jail),Department,,,,4,CHANDIGARH
+46.0,865,Public Relation,Department,,,,4,CHANDIGARH
+47.0,881,Punjab Engineering College,Department,,,,4,CHANDIGARH
+48.0,842,Regional Employment Exchange,Department,,,,4,CHANDIGARH
+49.0,814,Revenue Department,Department,,,,4,CHANDIGARH
+50.0,990,Rural Development and Panchayats,Department,,,,4,CHANDIGARH
+51.0,867,Science & Technology,Department,,,,4,CHANDIGARH
+52.0,882,Senior Town Planner,Department,,,,4,CHANDIGARH
+53.0,883,Sports Department,Department,,,,4,CHANDIGARH
+54.0,2480,STATE AGRICULTURAL MARKETING BOARD,Department,,,,4,CHANDIGARH
+55.0,861,State Consumer Disputes Redressal Commission,Department,,,,4,CHANDIGARH
+56.0,1423,State Legal Services Authority,Department,,,,4,CHANDIGARH
+57.0,870,State Transport Authority,Department,,,,4,CHANDIGARH
+58.0,884,Statistical Cell,Department,,,,4,CHANDIGARH
+59.0,6,Test Department,Department,,,,4,CHANDIGARH
+60.0,871,Tourism,Department,,,,4,CHANDIGARH
+61.0,517,Tourism Department,Department,,,,4,CHANDIGARH
+62.0,815,Urban Development Department,Department,,,,4,CHANDIGARH
+63.0,857,U.T. Guest House,Department,,,,4,CHANDIGARH
+64.0,847,U.T. Secretariat,Department,,,,4,CHANDIGARH
+65.0,873,Weights & Measures,Department,,,,4,CHANDIGARH
+66.0,866,Zila Sainik Board,Department,,,,4,CHANDIGARH
+67.0,2135,Chandigarh State AIDS Control Society,Organization,851,Health Department (GMSH),Department,4,CHANDIGARH
+68.0,1644,National Health Mission,Organization,851,Health Department (GMSH),Department,4,CHANDIGARH
+69.0,104,SIRD,Organization,463,Department of Panchayati Raj and RD,Department,4,CHANDIGARH
+1.0,221,Agriculture Department,Department,,,,22,CHHATTISGARH
+2.0,1386,Animal Husbandry Department,Department,,,,22,CHHATTISGARH
+3.0,278,Chattisgarh Rajya Bhandar Grih Nigam,Department,,,,22,CHHATTISGARH
+4.0,249,Chattisgarh Rajya Sahkari Vipadan Sangh Maryadit,Department,,,,22,CHHATTISGARH
+5.0,1510,Chhattisgarh Environment Conservation Board,Department,,,,22,CHHATTISGARH
+6.0,279,Chhattisgarh State Electricity Board,Department,,,,22,CHHATTISGARH
+7.0,1591,CHIEF MINISTER SECRETARIAT,Department,,,,22,CHHATTISGARH
+8.0,1233,Commerce and Industries,Department,,,,22,CHHATTISGARH
+9.0,248,Co-operative,Department,,,,22,CHHATTISGARH
+10.0,293,CREDA,Department,,,,22,CHHATTISGARH
+11.0,1110,"Department of Food, Supplies & Consumer Affairs",Department,,,,22,CHHATTISGARH
+12.0,291,"Directorate, Panchayat Evam Samaj Sewa",Department,,,,22,CHHATTISGARH
+13.0,819,Election Commission,Department,,,,22,CHHATTISGARH
+14.0,1231,Electronics & Information Technology,Department,,,,22,CHHATTISGARH
+15.0,1387,Energy Department,Department,,,,22,CHHATTISGARH
+16.0,1109,"Finance, Banking & insurace",Department,,,,22,CHHATTISGARH
+17.0,244,Fisheries Department,Department,,,,22,CHHATTISGARH
+18.0,290,Forest Department,Department,,,,22,CHHATTISGARH
+19.0,295,Haath Kargha,Department,,,,22,CHHATTISGARH
+20.0,296,Hast Shilp,Department,,,,22,CHHATTISGARH
+21.0,1519,Home Department,Department,,,,22,CHHATTISGARH
+22.0,225,Horticulture Department,Department,,,,22,CHHATTISGARH
+23.0,1475,Housing and Environment Department Chhattisgarh,Department,,,,22,CHHATTISGARH
+24.0,292,Irrigation,Department,,,,22,CHHATTISGARH
+25.0,294,Khadi Gramoddyog,Department,,,,22,CHHATTISGARH
+26.0,247,Khadya Nagrik Aapurti Evam Upbhokta Sanrakshan,Department,,,,22,CHHATTISGARH
+27.0,50,Khanij Vibhag,Department,,,,22,CHHATTISGARH
+28.0,1409,"Labour Department, Chhatisgarh",Department,,,,22,CHHATTISGARH
+29.0,286,Labour Welfare,Department,,,,22,CHHATTISGARH
+30.0,1232,Manpower Department,Department,,,,22,CHHATTISGARH
+31.0,1111,Mineral Resources department,Department,,,,22,CHHATTISGARH
+32.0,289,Nagar Pradhikaran,Department,,,,22,CHHATTISGARH
+33.0,1509,National Highways Authority of India,Department,,,,22,CHHATTISGARH
+34.0,288,Other Backward Class,Department,,,,22,CHHATTISGARH
+35.0,474,Panchayat and Rural Development Department - STATE,Department,,,,22,CHHATTISGARH
+36.0,246,Planning and Statistical,Department,,,,22,CHHATTISGARH
+37.0,282,Police Department,Department,,,,22,CHHATTISGARH
+38.0,1113,PRADHAN MANTRI GRAM SADAK YOJANA,Department,,,,22,CHHATTISGARH
+39.0,243,Public Health and Family Welfare,Department,,,,22,CHHATTISGARH
+40.0,59,Public Health Engineering (PHE),Department,,,,22,CHHATTISGARH
+41.0,1388,Public Relation Department,Department,,,,22,CHHATTISGARH
+42.0,223,Public Works Department,Department,,,,22,CHHATTISGARH
+43.0,297,Resham Vibhag,Department,,,,22,CHHATTISGARH
+44.0,817,Revenue and Disaster Management Department,Department,,,,22,CHHATTISGARH
+45.0,285,Rojgar Karyalaya,Department,,,,22,CHHATTISGARH
+46.0,1483,Rural Engineering Services,Department,,,,22,CHHATTISGARH
+47.0,220,School Education,Department,,,,22,CHHATTISGARH
+48.0,245,Social Forestry,Department,,,,22,CHHATTISGARH
+49.0,284,Social Welfare,Department,,,,22,CHHATTISGARH
+50.0,281,Sports and Youth Welfare,Department,,,,22,CHHATTISGARH
+51.0,2114,State Audit Directorate CG,Department,,,,22,CHHATTISGARH
+52.0,280,Technical Education,Department,,,,22,CHHATTISGARH
+53.0,2506,teetwetewtewtwetewtew,Department,,,,22,CHHATTISGARH
+54.0,24,Test Department,Department,,,,22,CHHATTISGARH
+55.0,1476,Town and Country Planning Department Chhattisgarh,Department,,,,22,CHHATTISGARH
+56.0,1112,Transport Deparment,Department,,,,22,CHHATTISGARH
+57.0,298,Uddyog,Department,,,,22,CHHATTISGARH
+58.0,818,Urban Administration and Development Department,Department,,,,22,CHHATTISGARH
+59.0,222,Veterinary Department,Department,,,,22,CHHATTISGARH
+60.0,224,Water Resources Department,Department,,,,22,CHHATTISGARH
+61.0,287,Welfare of SC-ST,Department,,,,22,CHHATTISGARH
+62.0,283,Women and Child Devalopment,Department,,,,22,CHHATTISGARH
+63.0,146,SIRD,Organization,474,Panchayat and Rural Development Department - STATE,Department,22,CHHATTISGARH
+1.0,994,Chief Electoral Office Delhi,Department,,,,7,DELHI
+2.0,1640,Department of Environment,Department,,,,7,DELHI
+3.0,1038,Department of Women and Child Development,Department,,,,7,DELHI
+4.0,587,General Administration Department,Department,,,,7,DELHI
+5.0,2201,Irrigation and Flood Control Department,Department,,,,7,DELHI
+6.0,1399,Municipal Corporation of Delhi,Department,,,,7,DELHI
+7.0,993,Revenue Department,Department,,,,7,DELHI
+8.0,996,Rural Development Department,Department,,,,7,DELHI
+9.0,9,Test Department,Department,,,,7,DELHI
+10.0,995,Urban Development Department,Department,,,,7,DELHI
+1.0,1631,DEPARTMENT OF MUNICIPAL ADMINISTRATION,Department,,,,30,GOA
+2.0,480,Department of Panchayati Raj and RD,Department,,,,30,GOA
+3.0,1039,Department Women and Child Development,Department,,,,30,GOA
+4.0,828,Election Commission,Department,,,,30,GOA
+5.0,2153,Office of State Local Fund Auditor,Department,,,,30,GOA
+6.0,827,Revenue Department,Department,,,,30,GOA
+7.0,32,Test Department,Department,,,,30,GOA
+8.0,826,Urban Development Department,Department,,,,30,GOA
+9.0,155,SIRD,Organization,480,Department of Panchayati Raj and RD,Department,30,GOA
+1.0,110,Agriculture Co-Operation Deptt,Department,,,,24,GUJARAT
+2.0,167,BSVS,Department,,,,24,GUJARAT
+3.0,1215,Department of Economics Affair,Department,,,,24,GUJARAT
+4.0,476,Department of Panchayati Raj and RD,Department,,,,24,GUJARAT
+5.0,164,DIC,Department,,,,24,GUJARAT
+6.0,172,District Industries Centre,Department,,,,24,GUJARAT
+7.0,161,Education,Department,,,,24,GUJARAT
+8.0,830,Election Commission,Department,,,,24,GUJARAT
+9.0,1236,Electronics & Information Technology,Department,,,,24,GUJARAT
+10.0,122,Energy and Petrochemical,Department,,,,24,GUJARAT
+11.0,2109,Examiner Local Fund Audit Office,Department,,,,24,GUJARAT
+12.0,114,"Food, Civil Supply N Consumer affairs Deptt",Department,,,,24,GUJARAT
+13.0,1114,"Food, Supplies & Consumer Affairs",Department,,,,24,GUJARAT
+14.0,113,Forest Environment Deptt,Department,,,,24,GUJARAT
+15.0,171,General Administration,Department,,,,24,GUJARAT
+16.0,163,GSRDC,Department,,,,24,GUJARAT
+17.0,169,GSRTC,Department,,,,24,GUJARAT
+18.0,2108,Gujarat Local Fund Audit Office,Department,,,,24,GUJARAT
+19.0,165,Gujarat Rajya Samaj Kalyan Board,Department,,,,24,GUJARAT
+20.0,455,Gujarat State Land Development Co-Operation,Department,,,,24,GUJARAT
+21.0,170,Gujarat State Water Supply Severage Board,Department,,,,24,GUJARAT
+22.0,111,Health Family Welfare Deptt,Department,,,,24,GUJARAT
+23.0,123,Home Department,Department,,,,24,GUJARAT
+24.0,120,Industries and Mines Deptt,Department,,,,24,GUJARAT
+25.0,124,Information and Broadcasting Department,Department,,,,24,GUJARAT
+26.0,119,Irrigation Deptt,Department,,,,24,GUJARAT
+27.0,117,Labour and Employment Deptt,Department,,,,24,GUJARAT
+28.0,2107,Local Fund Audit,Department,,,,24,GUJARAT
+29.0,1167,"Narmada, Water Resources, Water Supply & Kalpsar Department",Department,,,,24,GUJARAT
+30.0,168,Others,Department,,,,24,GUJARAT
+31.0,116,Panchyat Rural Housing Rural Devlopment Deptt,Department,,,,24,GUJARAT
+32.0,121,Port and Fishries,Department,,,,24,GUJARAT
+33.0,125,Post and Telegraph,Department,,,,24,GUJARAT
+34.0,515,Revenue Department,Department,,,,24,GUJARAT
+35.0,118,Road and Building Deptt,Department,,,,24,GUJARAT
+36.0,173,Sardar Sarovar Punah Vsvat Agency,Department,,,,24,GUJARAT
+37.0,162,Sardar Sarovar Yojana,Department,,,,24,GUJARAT
+38.0,115,Social Justice Empowerement Tribal Development Deptt,Department,,,,24,GUJARAT
+39.0,166,Talim Rozgar,Department,,,,24,GUJARAT
+40.0,26,Test Department,Department,,,,24,GUJARAT
+41.0,829,Urban Development Department,Department,,,,24,GUJARAT
+42.0,112,Women Child Development Deptt,Department,,,,24,GUJARAT
+43.0,2352,Commissioner of Cottage and Rural Industries,Organization,120,Industries and Mines Deptt,Department,24,GUJARAT
+44.0,2353,Commissioner of Tourism,Organization,120,Industries and Mines Deptt,Department,24,GUJARAT
+45.0,2110,Director Sainik Welfare and Resettlement Gujarat state,Organization,123,Home Department,Department,24,GUJARAT
+46.0,2099,Gujarat Police,Organization,123,Home Department,Department,24,GUJARAT
+47.0,2319,INSPECTOR GENERAL OF REGISTRATION,Organization,515,Revenue Department,Department,24,GUJARAT
+48.0,2317,Office of Chief Engineer Capital Project and Arbitration,Organization,118,Road and Building Deptt,Department,24,GUJARAT
+49.0,109,SIRD,Organization,476,Department of Panchayati Raj and RD,Department,24,GUJARAT
+50.0,2202,Tourism Corporation of Gujarat Limited,Organization,455,Gujarat State Land Development Co-Operation,Department,24,GUJARAT
+1.0,667,Accountant General,Department,,,,6,HARYANA
+2.0,1293,Accountant General (Accounting and Entitlement),Department,,,,6,HARYANA
+3.0,945,Administration General & Official Trustee & Treasurer Charitable Endowments Department,Department,,,,6,HARYANA
+4.0,628,Agriculture Department,Department,,,,6,HARYANA
+5.0,629,Animal Husbandry & Dairying Department,Department,,,,6,HARYANA
+6.0,632,Archaeology & Museums Department,Department,,,,6,HARYANA
+7.0,630,Architecture Department,Department,,,,6,HARYANA
+8.0,668,Archives,Department,,,,6,HARYANA
+9.0,631,Ayurveda Department,Department,,,,6,HARYANA
+10.0,683,Chief Electrical Inspector Department,Department,,,,6,HARYANA
+11.0,2471,Chief Minister Office,Department,,,,6,HARYANA
+12.0,1460,Chief Minister Secretariat,Department,,,,6,HARYANA
+13.0,799,Chief Secretary Office,Department,,,,6,HARYANA
+14.0,1638,Citizen Resource Information Department,Department,,,,6,HARYANA
+15.0,670,Civil Aviation,Department,,,,6,HARYANA
+16.0,671,Consolidation and Land Records,Department,,,,6,HARYANA
+17.0,2482,Co-Operation Department,Department,,,,6,HARYANA
+18.0,732,Dakshin Haryana Bijli Vitran Nigam,Department,,,,6,HARYANA
+19.0,1086,Department of Economics & statistical Analysis,Department,,,,6,HARYANA
+20.0,729,Department of Home,Department,,,,6,HARYANA
+21.0,1287,Department of Medical Education And Research,Department,,,,6,HARYANA
+22.0,1025,Department of Mines & Geology,Department,,,,6,HARYANA
+23.0,728,Department of Power,Department,,,,6,HARYANA
+24.0,730,Department of Science and Technology,Department,,,,6,HARYANA
+25.0,726,Department of Urban Local Bodies,Department,,,,6,HARYANA
+26.0,465,Development and Panchayats Department,Department,,,,6,HARYANA
+27.0,641,Economic & Statistical Organisation,Department,,,,6,HARYANA
+28.0,635,Elections Department,Department,,,,6,HARYANA
+29.0,636,Electronics & Information Technology Department,Department,,,,6,HARYANA
+30.0,634,Elementary Education Department,Department,,,,6,HARYANA
+31.0,637,Employment Department,Department,,,,6,HARYANA
+32.0,638,Environment Department,Department,,,,6,HARYANA
+33.0,682,ESI Healthcare,Department,,,,6,HARYANA
+34.0,639,Excise & Taxation Department,Department,,,,6,HARYANA
+35.0,640,Finance Department,Department,,,,6,HARYANA
+36.0,643,Fisheries Department,Department,,,,6,HARYANA
+37.0,681,Food & Drug Administration,Department,,,,6,HARYANA
+38.0,644,Food & Supplies Department,Department,,,,6,HARYANA
+39.0,645,Forests Department,Department,,,,6,HARYANA
+40.0,2269,General Administration Department,Department,,,,6,HARYANA
+41.0,1255,Haryana Right to Service Commission,Department,,,,6,HARYANA
+42.0,727,Haryana Shahari Vikas Pradhikaran,Department,,,,6,HARYANA
+43.0,674,Haryana State Legal Services Authority,Department,,,,6,HARYANA
+44.0,646,Health Services Department,Department,,,,6,HARYANA
+45.0,633,Higher Education Department,Department,,,,6,HARYANA
+46.0,673,Home Guards & Civil Defence,Department,,,,6,HARYANA
+47.0,647,Horticulture Department,Department,,,,6,HARYANA
+48.0,781,Housing Department,Department,,,,6,HARYANA
+49.0,649,Indl. Trg. & Vocational Education Department,Department,,,,6,HARYANA
+50.0,648,Industries & Commerce Department,Department,,,,6,HARYANA
+51.0,656,"Information, Public Relations and Languages Department",Department,,,,6,HARYANA
+52.0,650,Irrigation Department,Department,,,,6,HARYANA
+53.0,651,Labour Department,Department,,,,6,HARYANA
+54.0,2018,Local Audit Department Haryana,Department,,,,6,HARYANA
+55.0,652,Police Department,Department,,,,6,HARYANA
+56.0,754,Printing and Stationery Department,Department,,,,6,HARYANA
+57.0,653,Prisons Department,Department,,,,6,HARYANA
+58.0,654,Prosecution,Department,,,,6,HARYANA
+59.0,666,Public Health Engineering Department,Department,,,,6,HARYANA
+60.0,657,Public Works Department,Department,,,,6,HARYANA
+61.0,655,PW ( B & R),Department,,,,6,HARYANA
+62.0,675,Renewable Energy,Department,,,,6,HARYANA
+63.0,658,Revenue and Disaster Management Department,Department,,,,6,HARYANA
+64.0,659,Rural Development Department,Department,,,,6,HARYANA
+65.0,946,Sainik & Ardh Sainik Welfare Department,Department,,,,6,HARYANA
+66.0,642,Secondary Education Department,Department,,,,6,HARYANA
+67.0,676,Social Justice & Empowerment,Department,,,,6,HARYANA
+68.0,678,Sports & Youth Affairs,Department,,,,6,HARYANA
+69.0,679,Supplies & Disposals,Department,,,,6,HARYANA
+70.0,680,Tech. Education,Department,,,,6,HARYANA
+71.0,8,Test Department,Department,,,,6,HARYANA
+72.0,660,Tourism Department,Department,,,,6,HARYANA
+73.0,661,Town & Country Plg. Department,Department,,,,6,HARYANA
+74.0,662,Transport Department,Department,,,,6,HARYANA
+75.0,669,Transport( Regulatory Wing),Department,,,,6,HARYANA
+76.0,663,Treasuries & Accounts Department,Department,,,,6,HARYANA
+77.0,731,Uttar Haryana Bijli Vitran Nigam,Department,,,,6,HARYANA
+78.0,664,Vigilance Department,Department,,,,6,HARYANA
+79.0,677,Welfare of SCs & BCs,Department,,,,6,HARYANA
+80.0,665,Women and Child Development Department,Department,,,,6,HARYANA
+81.0,784,Board of School Education Haryana,Organization,642,Secondary Education Department,Department,6,HARYANA
+82.0,1461,Chief Minister Relief Fund,Organization,1460,Chief Minister Secretariat,Department,6,HARYANA
+83.0,787,Extension Training Center,Organization,465,Development and Panchayats Department,Department,6,HARYANA
+84.0,786,Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam,Organization,677,Welfare of SCs & BCs,Department,6,HARYANA
+85.0,2489,Haryana Gau Seva Aayog,Organization,629,Animal Husbandry & Dairying Department,Department,6,HARYANA
+86.0,623,Haryana Institute of Public Administration,Organization,465,Development and Panchayats Department,Department,6,HARYANA
+87.0,106,Haryana Institute of Rural Development,Organization,465,Development and Panchayats Department,Department,6,HARYANA
+88.0,783,Haryana Scheduled Castes Finance and Development Corporation,Organization,677,Welfare of SCs & BCs,Department,6,HARYANA
+89.0,756,Haryana State Agricultural Marketing Board,Organization,628,Agriculture Department,Department,6,HARYANA
+90.0,2129,Haryana State Seed Certification Agency,Organization,628,Agriculture Department,Department,6,HARYANA
+91.0,948,Haryana Swatantrata Sainani Samman Samiti,Organization,799,Chief Secretary Office,Department,6,HARYANA
+92.0,2287,Haryana Veterinary Council,Organization,629,Animal Husbandry & Dairying Department,Department,6,HARYANA
+93.0,802,Haryana Women Development Corporation,Organization,665,Women and Child Development Department,Department,6,HARYANA
+94.0,782,Housing Board Haryana,Organization,781,Housing Department,Department,6,HARYANA
+95.0,549,Rajiv Gandhi State Institue of Community Development & Panchayati Raj,Organization,465,Development and Panchayats Department,Department,6,HARYANA
+96.0,837,SAMVAD,Organization,656,"Information, Public Relations and Languages Department",Department,6,HARYANA
+1.0,1362,Department of Administrative Reforms,Department,,,,2,HIMACHAL PRADESH
+2.0,264,Department of Agriculture,Department,,,,2,HIMACHAL PRADESH
+3.0,232,Department of Agriculture,Department,,,,2,HIMACHAL PRADESH
+4.0,273,Department of Animal Husbandry,Department,,,,2,HIMACHAL PRADESH
+5.0,708,Department of Ayurveda,Department,,,,2,HIMACHAL PRADESH
+6.0,1356,Department of Cooperation,Department,,,,2,HIMACHAL PRADESH
+7.0,397,Department of Elementary Education,Department,,,,2,HIMACHAL PRADESH
+8.0,1363,Department of Energy,Department,,,,2,HIMACHAL PRADESH
+9.0,1364,"Department of Environment, Science and Technology",Department,,,,2,HIMACHAL PRADESH
+10.0,1365,Department of Excise and Taxation,Department,,,,2,HIMACHAL PRADESH
+11.0,1357,Department of finance,Department,,,,2,HIMACHAL PRADESH
+12.0,692,DEPARTMENT OF FIRE SERVICES,Department,,,,2,HIMACHAL PRADESH
+13.0,1366,Department of Fisheries,Department,,,,2,HIMACHAL PRADESH
+14.0,1367,Department of General Administration,Department,,,,2,HIMACHAL PRADESH
+15.0,269,Department of Health and Family Welfare,Department,,,,2,HIMACHAL PRADESH
+16.0,230,Department of Health And Family Welfare,Department,,,,2,HIMACHAL PRADESH
+17.0,396,Department of Higher Education,Department,,,,2,HIMACHAL PRADESH
+18.0,1368,Department of Home,Department,,,,2,HIMACHAL PRADESH
+19.0,267,Department of Horticulture,Department,,,,2,HIMACHAL PRADESH
+20.0,272,Department of Industries,Department,,,,2,HIMACHAL PRADESH
+21.0,1369,Department of Information and Public Relations,Department,,,,2,HIMACHAL PRADESH
+22.0,1370,Department of Information Technology,Department,,,,2,HIMACHAL PRADESH
+23.0,270,Department of Irrigation Public Health (IPH),Department,,,,2,HIMACHAL PRADESH
+24.0,1371,Department of Labour and Employment,Department,,,,2,HIMACHAL PRADESH
+25.0,1650,"Department of Language, Art and Culture",Department,,,,2,HIMACHAL PRADESH
+26.0,1372,Department of Law,Department,,,,2,HIMACHAL PRADESH
+27.0,1373,Department of Personnel,Department,,,,2,HIMACHAL PRADESH
+28.0,1374,Department of Planning,Department,,,,2,HIMACHAL PRADESH
+29.0,1375,Department of Printing and Stationery,Department,,,,2,HIMACHAL PRADESH
+30.0,1376,Department of Public Works,Department,,,,2,HIMACHAL PRADESH
+31.0,1358,Department of Redressal of Public Grievances,Department,,,,2,HIMACHAL PRADESH
+32.0,1152,Department of Revenue,Department,,,,2,HIMACHAL PRADESH
+33.0,263,Department of Rural Development,Department,,,,2,HIMACHAL PRADESH
+34.0,265,Department of Rural Development (TSC Wing),Department,,,,2,HIMACHAL PRADESH
+35.0,1377,Department of Secretariat Administration,Department,,,,2,HIMACHAL PRADESH
+36.0,398,Department of Social Justice and Empowerment,Department,,,,2,HIMACHAL PRADESH
+37.0,1378,Department of Technical Education,Department,,,,2,HIMACHAL PRADESH
+38.0,1379,Department of Tourism,Department,,,,2,HIMACHAL PRADESH
+39.0,1294,Department of Tourism & Civil Aviation,Department,,,,2,HIMACHAL PRADESH
+40.0,1380,Department of Town and Country planning,Department,,,,2,HIMACHAL PRADESH
+41.0,1359,Department of Transport,Department,,,,2,HIMACHAL PRADESH
+42.0,1360,Department of Tribal Development,Department,,,,2,HIMACHAL PRADESH
+43.0,1361,Department of Youth Services and Sports,Department,,,,2,HIMACHAL PRADESH
+44.0,276,Dept. of Social Justice Empowerment,Department,,,,2,HIMACHAL PRADESH
+45.0,1666,Directorate of Panchayati Raj,Department,,,,2,HIMACHAL PRADESH
+46.0,271,District Rural Development Agency (Watershed),Department,,,,2,HIMACHAL PRADESH
+47.0,266,DRDA (IAY Wing),Department,,,,2,HIMACHAL PRADESH
+48.0,1154,Economics & Statistics,Department,,,,2,HIMACHAL PRADESH
+49.0,832,Election Commission,Department,,,,2,HIMACHAL PRADESH
+50.0,1151,"Food, Civil Supplies & Consumer Affairs",Department,,,,2,HIMACHAL PRADESH
+51.0,395,"Forest Department,",Department,,,,2,HIMACHAL PRADESH
+52.0,274,Himachal Pradesh Public Works Department,Department,,,,2,HIMACHAL PRADESH
+53.0,697,Himachal Pradesh State Department of Revenue,Department,,,,2,HIMACHAL PRADESH
+54.0,275,H.P State Electricity Board,Department,,,,2,HIMACHAL PRADESH
+55.0,268,Integrated Child Development Scheme (ICDS),Department,,,,2,HIMACHAL PRADESH
+56.0,229,Panchayati Raj,Department,,,,2,HIMACHAL PRADESH
+57.0,231,Rural Development Department,Department,,,,2,HIMACHAL PRADESH
+58.0,2528,Sainik Welfare Department,Department,,,,2,HIMACHAL PRADESH
+59.0,233,State Department of Horticulture,Department,,,,2,HIMACHAL PRADESH
+60.0,2332,State Water & Sanitation Mission Shimla,Department,,,,2,HIMACHAL PRADESH
+61.0,4,Test Department,Department,,,,2,HIMACHAL PRADESH
+62.0,831,Urban Development Department,Department,,,,2,HIMACHAL PRADESH
+63.0,1153,Women & Child Development,Department,,,,2,HIMACHAL PRADESH
+64.0,2538,Panchayati Raj Training Institute Baijnath Kangra,Organization,1666,Directorate of Panchayati Raj,Department,2,HIMACHAL PRADESH
+65.0,2539,Panchayati Raj Training Institute Thunag Mandi,Organization,1666,Directorate of Panchayati Raj,Department,2,HIMACHAL PRADESH
+66.0,2491,Panchayat Raj Training Institute  Mashobra(Craigneno) Shimla,Organization,1666,Directorate of Panchayati Raj,Department,2,HIMACHAL PRADESH
+67.0,102,SIRD,Organization,229,Panchayati Raj,Department,2,HIMACHAL PRADESH
+1.0,258,Departemnt of Youth Services Sports,Department,,,,1,JAMMU AND KASHMIR
+2.0,262,Department of Agriculture,Department,,,,1,JAMMU AND KASHMIR
+3.0,251,Department of Animal Husbandry,Department,,,,1,JAMMU AND KASHMIR
+4.0,1072,Department of Defence,Department,,,,1,JAMMU AND KASHMIR
+5.0,256,"Department of Divisional Forest Office, Langate",Department,,,,1,JAMMU AND KASHMIR
+6.0,255,Department of Divisional Forest Officer,Department,,,,1,JAMMU AND KASHMIR
+7.0,394,Department of Education,Department,,,,1,JAMMU AND KASHMIR
+8.0,393,Department of Education,Department,,,,1,JAMMU AND KASHMIR
+9.0,1074,Department of Finance,Department,,,,1,JAMMU AND KASHMIR
+10.0,228,Department of Fisheries,Department,,,,1,JAMMU AND KASHMIR
+11.0,1071,"Department of Food, Civil Supplies & Consumer Affairs",Department,,,,1,JAMMU AND KASHMIR
+12.0,257,Department of Forest,Department,,,,1,JAMMU AND KASHMIR
+13.0,1076,Department of Handicraft,Department,,,,1,JAMMU AND KASHMIR
+14.0,1077,Department of Handlooms,Department,,,,1,JAMMU AND KASHMIR
+15.0,260,Department of Health,Department,,,,1,JAMMU AND KASHMIR
+16.0,704,Department of Home Affairs (Police),Department,,,,1,JAMMU AND KASHMIR
+17.0,533,Department of Industries and Commerce,Department,,,,1,JAMMU AND KASHMIR
+18.0,1078,Department of Information and Public Relation,Department,,,,1,JAMMU AND KASHMIR
+19.0,534,Department of Irrigation and Flood Control,Department,,,,1,JAMMU AND KASHMIR
+20.0,1079,Department of ISM,Department,,,,1,JAMMU AND KASHMIR
+21.0,1081,Department of Khadi and village industries board,Department,,,,1,JAMMU AND KASHMIR
+22.0,1073,Department of Labour and Employment,Department,,,,1,JAMMU AND KASHMIR
+23.0,937,Department of Panchayati Raj,Department,,,,1,JAMMU AND KASHMIR
+24.0,252,Department of Power Development,Department,,,,1,JAMMU AND KASHMIR
+25.0,250,Department of Public Health Engineering,Department,,,,1,JAMMU AND KASHMIR
+26.0,1558,Department of Revenue,Department,,,,1,JAMMU AND KASHMIR
+27.0,703,Department of Revenue and General Administration,Department,,,,1,JAMMU AND KASHMIR
+28.0,261,Department of Sericulture Development,Department,,,,1,JAMMU AND KASHMIR
+29.0,253,Department of Sheep Husbandry,Department,,,,1,JAMMU AND KASHMIR
+30.0,532,Department of Social Welfare,Department,,,,1,JAMMU AND KASHMIR
+31.0,2336,Department of Social Welfare J and K,Department,,,,1,JAMMU AND KASHMIR
+32.0,254,Department of Statistics Evaluation,Department,,,,1,JAMMU AND KASHMIR
+33.0,1083,Department of technical Education,Department,,,,1,JAMMU AND KASHMIR
+34.0,259,Department of Youth Services Sports,Department,,,,1,JAMMU AND KASHMIR
+35.0,2335,Directorate of Audit and Inspection,Department,,,,1,JAMMU AND KASHMIR
+36.0,2256,Directorate of Audit and Inspections,Department,,,,1,JAMMU AND KASHMIR
+37.0,2334,Directorate of Audit & Inspections J&K,Department,,,,1,JAMMU AND KASHMIR
+38.0,2116,Directorate of Local Fund Audit and Pension (Finance Department),Department,,,,1,JAMMU AND KASHMIR
+39.0,1557,"Disaster Management Relief, Rehabilitation and Reconstruction Department",Department,,,,1,JAMMU AND KASHMIR
+40.0,834,Election Commission,Department,,,,1,JAMMU AND KASHMIR
+41.0,1075,"Flouriculture, Garden & Park Department",Department,,,,1,JAMMU AND KASHMIR
+42.0,1620,General Administration Department,Department,,,,1,JAMMU AND KASHMIR
+43.0,1070,J&K Cooperatives Department,Department,,,,1,JAMMU AND KASHMIR
+44.0,2279,JK Integrated Child Development Service,Department,,,,1,JAMMU AND KASHMIR
+45.0,1084,J&K Tourism,Department,,,,1,JAMMU AND KASHMIR
+46.0,1080,Khadi and Village Industries Board,Department,,,,1,JAMMU AND KASHMIR
+47.0,1082,Planning development & Monitoring Department,Department,,,,1,JAMMU AND KASHMIR
+48.0,391,Public Works Department (PWD),Department,,,,1,JAMMU AND KASHMIR
+49.0,392,Rural Development Department,Department,,,,1,JAMMU AND KASHMIR
+50.0,3,Test Department,Department,,,,1,JAMMU AND KASHMIR
+51.0,1085,Transport Department,Department,,,,1,JAMMU AND KASHMIR
+52.0,833,Urban Development Department,Department,,,,1,JAMMU AND KASHMIR
+53.0,2178,Architect’s Organization J&K,Organization,833,Urban Development Department,Department,1,JAMMU AND KASHMIR
+54.0,101,IMPARD SRINAGAR,Organization,392,Rural Development Department,Department,1,JAMMU AND KASHMIR
+55.0,2171,Jammu Development Authority,Organization,833,Urban Development Department,Department,1,JAMMU AND KASHMIR
+56.0,2180,J&K Housing Board,Organization,833,Urban Development Department,Department,1,JAMMU AND KASHMIR
+57.0,2172,Lakes and Waterways Development Authority,Organization,833,Urban Development Department,Department,1,JAMMU AND KASHMIR
+58.0,2174,Sringar Development Authority,Organization,833,Urban Development Department,Department,1,JAMMU AND KASHMIR
+59.0,2179,State Urban Development Agency,Organization,833,Urban Development Department,Department,1,JAMMU AND KASHMIR
+60.0,2176,Town Planning Organization Jammu,Organization,833,Urban Development Department,Department,1,JAMMU AND KASHMIR
+61.0,2177,Town Planning Organization Kashmir,Organization,833,Urban Development Department,Department,1,JAMMU AND KASHMIR
+62.0,2175,Urban Environmental Engineering Department,Organization,833,Urban Development Department,Department,1,JAMMU AND KASHMIR
+1.0,310,Building Cnstruction Department,Department,,,,20,JHARKHAND
+2.0,299,Department of Agriculture,Department,,,,20,JHARKHAND
+3.0,300,Department of Animal Husbandry,Department,,,,20,JHARKHAND
+4.0,308,Department of Forest and Environment,Department,,,,20,JHARKHAND
+5.0,1505,"Department of Home , Jail and Disaster management",Department,,,,20,JHARKHAND
+6.0,590,Department of Labour and Employment,Department,,,,20,JHARKHAND
+7.0,938,Department of Panchayati Raj,Department,,,,20,JHARKHAND
+8.0,593,"Department of Personnel, Administrative Reforms and Raj Bhasa",Department,,,,20,JHARKHAND
+9.0,554,DEPARTMENT OF REVENUE,Department,,,,20,JHARKHAND
+10.0,547,Department of Revenue and Land Reforms,Department,,,,20,JHARKHAND
+11.0,2500,Department of  Tourism Arts  Culture Sports and Youth Affairs,Department,,,,20,JHARKHAND
+12.0,2501,Department of Women Child Development and  Social Security,Department,,,,20,JHARKHAND
+13.0,1040,"Dept of Social Welfare, WCD",Department,,,,20,JHARKHAND
+14.0,2510,Directorate of Agriculture,Department,,,,20,JHARKHAND
+15.0,2503,Directorate of Fishery,Department,,,,20,JHARKHAND
+16.0,1667,DIRECTORATE OF LOCAL FUND AUDIT,Department,,,,20,JHARKHAND
+17.0,2207,DISTRICT ADMINISTRATION JHARKHAND,Department,,,,20,JHARKHAND
+18.0,301,District Planning Department,Department,,,,20,JHARKHAND
+19.0,303,Drinking Water Sanitation Department,Department,,,,20,JHARKHAND
+20.0,306,Education Department,Department,,,,20,JHARKHAND
+21.0,836,Election Commission,Department,,,,20,JHARKHAND
+22.0,313,Gramin Karya Vibhag Karya Parmandal,Department,,,,20,JHARKHAND
+23.0,312,Gramin Vikas Special Division,Department,,,,20,JHARKHAND
+24.0,307,Health and Family Welfare,Department,,,,20,JHARKHAND
+25.0,302,Jharkhand State Electricity Board,Department,,,,20,JHARKHAND
+26.0,314,MESO,Department,,,,20,JHARKHAND
+27.0,311,MINOR IRRIGATION,Department,,,,20,JHARKHAND
+28.0,309,Rural Development,Department,,,,20,JHARKHAND
+29.0,304,Rural Engg. Department,Department,,,,20,JHARKHAND
+30.0,22,Test Department,Department,,,,20,JHARKHAND
+31.0,835,Urban Development Department,Department,,,,20,JHARKHAND
+32.0,305,Water Resources,Department,,,,20,JHARKHAND
+33.0,594,Shri Krishna Institute of Public Administration,Organization,593,"Department of Personnel, Administrative Reforms and Raj Bhasa",Department,20,JHARKHAND
+34.0,315,SIRD,Organization,309,Rural Development,Department,20,JHARKHAND
+1.0,1299,Agriculture Department,Department,,,,29,KARNATAKA
+2.0,358,ART AND CULTURE LIBRARY,Department,,,,29,KARNATAKA
+3.0,1317,Backward Classes Department,Department,,,,29,KARNATAKA
+4.0,1062,Bangalore Development Authority,Department,,,,29,KARNATAKA
+5.0,1521,Bangalore Water Supply and Sewerage Board,Department,,,,29,KARNATAKA
+6.0,2098,BMTC,Department,,,,29,KARNATAKA
+7.0,2344,Bruhat Bengaluru Mahanagara Palike(BBMP),Department,,,,29,KARNATAKA
+8.0,2545,Centre for e-Governance(CeG),Department,,,,29,KARNATAKA
+9.0,1328,Chief Minister Relief Fund (CMRF),Department,,,,29,KARNATAKA
+10.0,1302,C&I,Department,,,,29,KARNATAKA
+11.0,1410,Commerce and Industries,Department,,,,29,KARNATAKA
+12.0,355,CO-OPERATION DEPARTMENT,Department,,,,29,KARNATAKA
+13.0,2119,Department of Agricultural Marketing,Department,,,,29,KARNATAKA
+14.0,1277,Department of Animal Husbandry and Veterinary Services,Department,,,,29,KARNATAKA
+15.0,2168,Department of Archives,Department,,,,29,KARNATAKA
+16.0,1024,"Department of Ayurveda, Yoga, Naturopathy, Unani, Siddha and Homeopathy",Department,,,,29,KARNATAKA
+17.0,1280,Department of Electrical Inspectorate,Department,,,,29,KARNATAKA
+18.0,1297,Department of Factories Boilers Industrial Safety & Health,Department,,,,29,KARNATAKA
+19.0,1172,Department of Higher Education,Department,,,,29,KARNATAKA
+20.0,2536,Department of Home Affairs,Department,,,,29,KARNATAKA
+21.0,1281,Department of Horticulture,Department,,,,29,KARNATAKA
+22.0,1550,Department of Industrial Training and Employment,Department,,,,29,KARNATAKA
+23.0,1000,Department of Information and Public Relations,Department,,,,29,KARNATAKA
+24.0,1247,Department of Information Technology,Department,,,,29,KARNATAKA
+25.0,947,Department of Kannada & Culture,Department,,,,29,KARNATAKA
+26.0,2544,Department of Karnataka Bhavan,Department,,,,29,KARNATAKA
+27.0,1061,Department of Labour,Department,,,,29,KARNATAKA
+28.0,1106,Department of Medical Education,Department,,,,29,KARNATAKA
+29.0,1230,Department of Mines and Geology,Department,,,,29,KARNATAKA
+30.0,989,Department of Personnel & Administrative Reforms,Department,,,,29,KARNATAKA
+31.0,1658,Department of Pre University Education,Department,,,,29,KARNATAKA
+32.0,1272,Department of Public Instruction,Department,,,,29,KARNATAKA
+33.0,1296,Department of Public Library,Department,,,,29,KARNATAKA
+34.0,1757,Department of Sainik Welfare and Resettlement,Department,,,,29,KARNATAKA
+35.0,2017,Department of Tribal Welfare,Department,,,,29,KARNATAKA
+36.0,1107,Department of Water Resources,Department,,,,29,KARNATAKA
+37.0,1023,Department of Youth Empowerment and Sports,Department,,,,29,KARNATAKA
+38.0,2131,Directorate of Economics and Statistics,Department,,,,29,KARNATAKA
+39.0,2170,Directorate of Electronic Delivery of Citizen Services(EDCS),Department,,,,29,KARNATAKA
+40.0,2016,Directorate of Municipal Administration,Department,,,,29,KARNATAKA
+41.0,1304,DPAR,Department,,,,29,KARNATAKA
+42.0,2275,Dr Babu Jagjivan Ram Leather Industries Development Corporation Ltd,Department,,,,29,KARNATAKA
+43.0,1657,Dr B R Ambedkar Development Corporation Ltd,Department,,,,29,KARNATAKA
+44.0,1330,Drugs Control Department,Department,,,,29,KARNATAKA
+45.0,90,Education,Department,,,,29,KARNATAKA
+46.0,887,Election Commission,Department,,,,29,KARNATAKA
+47.0,1104,Energy Department,Department,,,,29,KARNATAKA
+48.0,2118,Excise Department,Department,,,,29,KARNATAKA
+49.0,354,FISHERIES DEPARTMENT,Department,,,,29,KARNATAKA
+50.0,1309,Food & Civil Supplies,Department,,,,29,KARNATAKA
+51.0,1416,Forest Department,Department,,,,29,KARNATAKA
+52.0,2169,Government Tool Room and Training Centre,Department,,,,29,KARNATAKA
+53.0,347,HANDLOOMS AND TEXTILES,Department,,,,29,KARNATAKA
+54.0,177,HEALTH AND FAMILY WELFARE,Department,,,,29,KARNATAKA
+55.0,2233,High Court of Karnataka,Department,,,,29,KARNATAKA
+56.0,2270,Home Guards and Civil Defence Department,Department,,,,29,KARNATAKA
+57.0,1311,Housing Department,Department,,,,29,KARNATAKA
+58.0,348,INDIAN SYSTEM OF MEDICINE,Department,,,,29,KARNATAKA
+59.0,1327,Information Technology BT & ST,Department,,,,29,KARNATAKA
+60.0,1278,Karnataka Evaluation Authority,Department,,,,29,KARNATAKA
+61.0,1541,Karnataka Housing Board,Department,,,,29,KARNATAKA
+62.0,2130,Karnataka Industrial Areas Development Board,Department,,,,29,KARNATAKA
+63.0,2481,Karnataka Legislative Assembly,Department,,,,29,KARNATAKA
+64.0,930,Karnataka Legislative Council,Department,,,,29,KARNATAKA
+65.0,2120,Karnataka Neeravari Nigam Ltd,Department,,,,29,KARNATAKA
+66.0,2136,Karnataka Power Transmission Corporation,Department,,,,29,KARNATAKA
+67.0,1472,Karnataka Public Service Commission,Department,,,,29,KARNATAKA
+68.0,1479,Karnataka Residential Educational Institutions Society,Department,,,,29,KARNATAKA
+69.0,87,Karnataka Rural Engineering Services,Department,,,,29,KARNATAKA
+70.0,2490,Karnataka State Administrative Tribunal,Department,,,,29,KARNATAKA
+71.0,88,Karnataka State Agency Modified,Department,,,,29,KARNATAKA
+72.0,2115,Karnataka state audit and accounts department,Department,,,,29,KARNATAKA
+73.0,1508,KARNATAKA STATE DIPLOMA IN NURSING EXAMINATION BOA,Department,,,,29,KARNATAKA
+74.0,1507,KARNATAKA STATE NURSING COUNCIL,Department,,,,29,KARNATAKA
+75.0,1473,Karnataka State Open Univerity Mysore,Department,,,,29,KARNATAKA
+76.0,1506,KARNATAKA STATE PARA MEDICAL BOARD,Department,,,,29,KARNATAKA
+77.0,1108,Karnataka State Police,Department,,,,29,KARNATAKA
+78.0,83,Karnataka State PR Department,Department,,,,29,KARNATAKA
+79.0,1408,Karnataka State Road Transport Corporation,Department,,,,29,KARNATAKA
+80.0,85,Karnataka State urban Development Department,Department,,,,29,KARNATAKA
+81.0,949,Karnataka State Warehousing Corporation,Department,,,,29,KARNATAKA
+82.0,1474,KSGH Music and Performing Arts University,Department,,,,29,KARNATAKA
+83.0,1482,Law Department,Department,,,,29,KARNATAKA
+84.0,1319,Mines Tex & SSI,Department,,,,29,KARNATAKA
+85.0,91,MINOR IRRIGATION,Department,,,,29,KARNATAKA
+86.0,1318,Minority Welfare Department,Department,,,,29,KARNATAKA
+87.0,1326,Munisipalities & UDA Department,Department,,,,29,KARNATAKA
+88.0,2238,NCC Directorate,Department,,,,29,KARNATAKA
+89.0,1462,NEKRTC,Department,,,,29,KARNATAKA
+90.0,1463,NWKRTC,Department,,,,29,KARNATAKA
+91.0,1314,Parliamentary Affairs Department,Department,,,,29,KARNATAKA
+92.0,1320,Public Enterprises Department,Department,,,,29,KARNATAKA
+93.0,1284,"Public Works, Ports and Inland Water Transport Department",Department,,,,29,KARNATAKA
+94.0,886,Revenue Department,Department,,,,29,KARNATAKA
+95.0,1325,Rural Development & Panchayat Raj,Department,,,,29,KARNATAKA
+96.0,1652,Rural Water Supply,Department,,,,29,KARNATAKA
+97.0,1310,Secretary  Home (PCAS) Department,Department,,,,29,KARNATAKA
+98.0,349,SERICULTURE,Department,,,,29,KARNATAKA
+99.0,350,SOCIAL WELFARE,Department,,,,29,KARNATAKA
+100.0,31,Test Department,Department,,,,29,KARNATAKA
+101.0,1223,Tourism Department,Department,,,,29,KARNATAKA
+102.0,1225,Transport Department,Department,,,,29,KARNATAKA
+103.0,2163,Treasury Department,Department,,,,29,KARNATAKA
+104.0,1322,Water Resources Department,Department,,,,29,KARNATAKA
+105.0,352,WOMEN AND CHILD DEVELOPMENT,Department,,,,29,KARNATAKA
+106.0,1489,Akkamahadevi University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+107.0,2323,Alemari and Are Alemari Development Corporation,Organization,1317,Backward Classes Department,Department,29,KARNATAKA
+108.0,2341,Arya Vysya Development Corporation,Organization,1317,Backward Classes Department,Department,29,KARNATAKA
+109.0,1500,Bangalore Central University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+110.0,1494,Bangalore North University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+111.0,1501,Bangalore University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+112.0,1403,BESCOM,Organization,1104,Energy Department,Department,29,KARNATAKA
+113.0,2139,Cauvery Neeravari Nigama Limited,Organization,1322,Water Resources Department,Department,29,KARNATAKA
+114.0,1404,CESCOM,Organization,1104,Energy Department,Department,29,KARNATAKA
+115.0,2141,Command Area Development Authorities (CADA),Organization,1322,Water Resources Department,Department,29,KARNATAKA
+116.0,1496,Davangere University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+117.0,2138,D Devaraja Urs Backward Classes Development Corporation Limited,Organization,1317,Backward Classes Department,Department,29,KARNATAKA
+118.0,804,Department for Empowerment of Differently Abled and Senior Citizen,Organization,352,WOMEN AND CHILD DEVELOPMENT,Department,29,KARNATAKA
+119.0,1209,Department of Collegiate Education,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+120.0,1528,Department of Legal Metrology,Organization,,,Department,29,KARNATAKA
+121.0,2140,Directorate of ESIS Medical Services,Organization,,,Department,29,KARNATAKA
+122.0,1392,Directorate of Social Security and Pensions,Organization,886,Revenue Department,Department,29,KARNATAKA
+123.0,1173,Directorate of Technical Education,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+124.0,2326,Directorate of Urban Land Transport - DULT,Organization,85,Karnataka State urban Development Department,Department,29,KARNATAKA
+125.0,2546,Farmer Registration and Unified beneficiary InformaTion System(FRUITS),Organization,2545,Centre for e-Governance(CeG),Department,29,KARNATAKA
+126.0,2537,Fire and Emergency Service,Organization,2536,Department of Home Affairs,Department,29,KARNATAKA
+127.0,1405,GESCOM,Organization,1104,Energy Department,Department,29,KARNATAKA
+128.0,1498,Gulbarga University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+129.0,1406,HESCOM,Organization,1104,Energy Department,Department,29,KARNATAKA
+130.0,1491,Kannada University -Hampi,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+131.0,1248,Karnataka Innovation and Technology Society,Organization,1247,Department of Information Technology,Department,29,KARNATAKA
+132.0,1492,Karnataka Janapada Vishwavidyalaya,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+133.0,1288,Karnataka Public Works Department,Organization,1284,"Public Works, Ports and Inland Water Transport Department",Department,29,KARNATAKA
+134.0,2151,Karnataka Secondary Education Examination Board,Organization,1272,Department of Public Instruction,Department,29,KARNATAKA
+135.0,2150,Karnataka Slum Development Board,Organization,1311,Housing Department,Department,29,KARNATAKA
+136.0,2552,Karnataka State Khadi and Village Industries Board,Organization,1410,Commerce and Industries,Department,29,KARNATAKA
+137.0,1478,Karnataka State Law University,Organization,,,Department,29,KARNATAKA
+138.0,2276,Karnataka State Unorganised Workers Social Security Board,Organization,1061,Department of Labour,Department,29,KARNATAKA
+139.0,1499,Karnataka University Dharwad,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+140.0,2117,Krishna Bhagya Jala Nigam Ltd,Organization,1322,Water Resources Department,Department,29,KARNATAKA
+141.0,1503,Kuvempu University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+142.0,2339,Madiwala Machideva Development Corporation,Organization,1317,Backward Classes Department,Department,29,KARNATAKA
+143.0,1502,Manasagangotri university mysore,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+144.0,1485,Mangalore University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+145.0,1407,MESCOM,Organization,1104,Energy Department,Department,29,KARNATAKA
+146.0,1411,Mines and Geology Department,Organization,1410,Commerce and Industries,Department,29,KARNATAKA
+147.0,2342,Nijasharana Ambigara Chowdaiah Development Corporation,Organization,1317,Backward Classes Department,Department,29,KARNATAKA
+148.0,1285,Ports and Inland Water Transport Department,Organization,1284,"Public Works, Ports and Inland Water Transport Department",Department,29,KARNATAKA
+149.0,2167,Rajiv Gandhi University of Health Services,Organization,1106,Department of Medical Education,Department,29,KARNATAKA
+150.0,1487,Rani channamma University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+151.0,1283,Registrar of Cooperative Societies,Organization,355,CO-OPERATION DEPARTMENT,Department,29,KARNATAKA
+152.0,1480,Sanskrit University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+153.0,2338,Savitha samaja Development Corporation,Organization,1317,Backward Classes Department,Department,29,KARNATAKA
+154.0,137,SIRD,Organization,83,Karnataka State PR Department,Department,29,KARNATAKA
+155.0,2165,"Survey, Settlement and Land Records (SSLR)",Organization,886,Revenue Department,Department,29,KARNATAKA
+156.0,1228,Tumkur University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+157.0,1517,University of Mysore,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+158.0,2340,Uppara Samaja Development Corporation,Organization,1317,Backward Classes Department,Department,29,KARNATAKA
+159.0,1495,Vijayanagar Sri Krishnadevaraya University Bellary,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+160.0,2343,Vishwakarma Development Corporation,Organization,1317,Backward Classes Department,Department,29,KARNATAKA
+161.0,1551,Visvesvaraya Jala Nigam Ltd,Organization,1107,Department of Water Resources,Department,29,KARNATAKA
+162.0,1504,Visvesvaraya Technological University Belagavi,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+163.0,1497,VSK University,Organization,1172,Department of Higher Education,Department,29,KARNATAKA
+1.0,1168,Agriculture Development and Farmers Welfare,Department,,,,32,KERALA
+2.0,1226,Animal Husbandry Department,Department,,,,32,KERALA
+3.0,592,Commercial Tax Department,Department,,,,32,KERALA
+4.0,722,Commercial Tax Department New,Department,,,,32,KERALA
+5.0,1210,Consumer Affairs Department of Kerala,Department,,,,32,KERALA
+6.0,2255,Corporation Audit Office Kerala,Department,,,,32,KERALA
+7.0,743,Department of Electronics and Information Technology,Department,,,,32,KERALA
+8.0,2186,Department of LAW,Department,,,,32,KERALA
+9.0,482,Department of Panchayati Raj and RD,Department,,,,32,KERALA
+10.0,1041,Department of Woman & Child Development,Department,,,,32,KERALA
+11.0,748,Devaswom Department,Department,,,,32,KERALA
+12.0,1165,Directorate of Sainik Welfare,Department,,,,32,KERALA
+13.0,890,Election Commission,Department,,,,32,KERALA
+14.0,544,Excise Department of Kerala,Department,,,,32,KERALA
+15.0,1514,Finance Department,Department,,,,32,KERALA
+16.0,1227,Fisheries Department,Department,,,,32,KERALA
+17.0,1169,Food and Civil Supplies,Department,,,,32,KERALA
+18.0,2228,General Education Department Secretariat,Department,,,,32,KERALA
+19.0,1116,Health & Family Welfare,Department,,,,32,KERALA
+20.0,1211,Health & Family Welfare Department,Department,,,,32,KERALA
+21.0,1219,Industries & Commerce Department,Department,,,,32,KERALA
+22.0,2274,Irrigation Department Kerala,Department,,,,32,KERALA
+23.0,546,Kerala Education Department,Department,,,,32,KERALA
+24.0,545,Kerala Forest Department,Department,,,,32,KERALA
+25.0,2351,Kerala Ground Water Department,Department,,,,32,KERALA
+26.0,1518,Kerala Police Department,Department,,,,32,KERALA
+27.0,2473,Kerala Soil Survey & Soil Conservation,Department,,,,32,KERALA
+28.0,738,Kerala State IT Mission,Department,,,,32,KERALA
+29.0,753,Kerala State Transport Project,Department,,,,32,KERALA
+30.0,2350,Kerala State Water Transport Department,Department,,,,32,KERALA
+31.0,242,KILA,Department,,,,32,KERALA
+32.0,2227,Minority Welfare Directorate,Department,,,,32,KERALA
+33.0,586,Office of the Inspector General of Registration,Department,,,,32,KERALA
+34.0,1170,Planning and Economic Affairs,Department,,,,32,KERALA
+35.0,1218,Planning & Economic Affairs Department,Department,,,,32,KERALA
+36.0,1118,Power,Department,,,,32,KERALA
+37.0,746,Public Works Department,Department,,,,32,KERALA
+38.0,745,Public Works Department (National Highway),Department,,,,32,KERALA
+39.0,744,Public Works Department (Roads & Bridges),Department,,,,32,KERALA
+40.0,889,Revenue Department,Department,,,,32,KERALA
+41.0,1171,Rural Development Department,Department,,,,32,KERALA
+42.0,1513,Scheduled Castes Development Department,Department,,,,32,KERALA
+43.0,1464,Scheduled Tribe Development Department,Department,,,,32,KERALA
+44.0,1115,Social Justice,Department,,,,32,KERALA
+45.0,580,State AG,Department,,,,32,KERALA
+46.0,551,Stores Purchase Department,Department,,,,32,KERALA
+47.0,34,Test Department,Department,,,,32,KERALA
+48.0,2478,Transport Department Kerala,Department,,,,32,KERALA
+49.0,1212,Tribal Welfare Department,Department,,,,32,KERALA
+50.0,888,Urban Development Department,Department,,,,32,KERALA
+51.0,1117,Water Resources,Department,,,,32,KERALA
+52.0,1544,APCCF (ADMINISTRATION),Organization,545,Kerala Forest Department,Department,32,KERALA
+53.0,1534,APCCF (ADMINISTRATION) - To be deleted,Organization,1168,Agriculture Development and Farmers Welfare,Department,32,KERALA
+54.0,1549,"APCCF (F, L & R)",Organization,545,Kerala Forest Department,Department,32,KERALA
+55.0,1539,"APCCF (F, L & R) - to be deleted",Organization,1168,Agriculture Development and Farmers Welfare,Department,32,KERALA
+56.0,1542,APCCF (SOCIAL FORESTRY),Organization,545,Kerala Forest Department,Department,32,KERALA
+57.0,1532,APCCF (SOCIAL FORESTRY) - To be deleted,Organization,1168,Agriculture Development and Farmers Welfare,Department,32,KERALA
+58.0,1545,APCCF (VIGILANCE & FOREST INTELLIGENCE),Organization,545,Kerala Forest Department,Department,32,KERALA
+59.0,1535,APCCF (VIGILANCE & FOREST INTELLIGENCE) - To be deleted,Organization,1168,Agriculture Development and Farmers Welfare,Department,32,KERALA
+60.0,1547,CCF (IT),Organization,545,Kerala Forest Department,Department,32,KERALA
+61.0,1537,CCF (IT) - To be deleted,Organization,1168,Agriculture Development and Farmers Welfare,Department,32,KERALA
+62.0,1548,CCF (WORKING PLAN & RESEARCH),Organization,545,Kerala Forest Department,Department,32,KERALA
+63.0,1538,CCF (WORKING PLAN & RESEARCH) - To be deleted,Organization,1168,Agriculture Development and Farmers Welfare,Department,32,KERALA
+64.0,1546,"CF (IHRD), PTP NAGAR",Organization,545,Kerala Forest Department,Department,32,KERALA
+65.0,1536,"CF (IHRD), PTP NAGAR - To be deleted",Organization,1168,Agriculture Development and Farmers Welfare,Department,32,KERALA
+66.0,749,Cochin Devaswom Board,Organization,748,Devaswom Department,Department,32,KERALA
+67.0,552,Directorate of Industries and Commerce,Organization,551,Stores Purchase Department,Department,32,KERALA
+68.0,752,Guruvayoor Devasom Board,Organization,748,Devaswom Department,Department,32,KERALA
+69.0,747,Kerala Road Fund Board,Organization,746,Public Works Department,Department,32,KERALA
+70.0,1515,Kerala Social Security Pension Limited,Organization,1514,Finance Department,Department,32,KERALA
+71.0,2479,Kerala State Road Transport Corporation,Organization,2478,Transport Department Kerala,Department,32,KERALA
+72.0,751,Malabar Devasom board,Organization,748,Devaswom Department,Department,32,KERALA
+73.0,548,"Office of the Commissioner for Government Examinations,Pareeksha Bhavan",Organization,546,Kerala Education Department,Department,32,KERALA
+74.0,1543,PCCF & CWW,Organization,545,Kerala Forest Department,Department,32,KERALA
+75.0,1533,PCCF & CWW - To be deleted,Organization,1168,Agriculture Development and Farmers Welfare,Department,32,KERALA
+76.0,156,SIRD,Organization,482,Department of Panchayati Raj and RD,Department,32,KERALA
+77.0,2532,State Horticulture Mission Kerala,Organization,1168,Agriculture Development and Farmers Welfare,Department,32,KERALA
+78.0,750,Travancore Devasom Board,Organization,748,Devaswom Department,Department,32,KERALA
+1.0,2283,Department of Health,Department,,,,37,LADAKH
+2.0,2280,Department of Health & Medical Education,Department,,,,37,LADAKH
+3.0,1525,Department of Panchayati Raj and RD,Department,,,,37,LADAKH
+4.0,2173,Directorate of Social / Tribal Welfare,Department,,,,37,LADAKH
+5.0,1623,District Administration,Department,,,,37,LADAKH
+6.0,2277,Housing & Urban Development Department,Department,,,,37,LADAKH
+7.0,1632,State Audit Department,Department,,,,37,LADAKH
+8.0,1523,State Department of Revenue,Department,,,,37,LADAKH
+9.0,2278,Directorate of Urban Local Bodies,Organization,2277,Housing & Urban Development Department,Department,37,LADAKH
+10.0,2281,Director Health Services,Organization,2280,Department of Health & Medical Education,Department,37,LADAKH
+1.0,2499,Animal Husbandry Department,Department,,,,31,LAKSHADWEEP
+2.0,481,Department of Panchayati Raj and RD,Department,,,,31,LAKSHADWEEP
+3.0,1042,Department of Women & Child Development,Department,,,,31,LAKSHADWEEP
+4.0,892,Election Commission,Department,,,,31,LAKSHADWEEP
+5.0,2498,Fisheries Department,Department,,,,31,LAKSHADWEEP
+6.0,1402,General Administration Department,Department,,,,31,LAKSHADWEEP
+7.0,724,Lakshadweep Administration,Department,,,,31,LAKSHADWEEP
+8.0,2282,Lakshadweep Police Department,Department,,,,31,LAKSHADWEEP
+9.0,2348,Public Works Department,Department,,,,31,LAKSHADWEEP
+10.0,893,Revenue Department,Department,,,,31,LAKSHADWEEP
+11.0,33,Test Department,Department,,,,31,LAKSHADWEEP
+12.0,891,Urban Development Department,Department,,,,31,LAKSHADWEEP
+13.0,158,SIRD,Organization,481,Department of Panchayati Raj and RD,Department,31,LAKSHADWEEP
+1.0,779,Commarcial Tax Department,Department,,,,23,MADHYA PRADESH
+2.0,1512,"Controller Weights and Measures, Madhya Pradesh",Department,,,,23,MADHYA PRADESH
+3.0,1249,Co-Operation Department,Department,,,,23,MADHYA PRADESH
+4.0,1250,Co-operation Department M.P.,Department,,,,23,MADHYA PRADESH
+5.0,762,Department of Animal Husbandry,Department,,,,23,MADHYA PRADESH
+6.0,778,Department of Ayush,Department,,,,23,MADHYA PRADESH
+7.0,769,Department of Backward Classes and Minorities Welfare,Department,,,,23,MADHYA PRADESH
+8.0,766,Department of Cottage & Rural Industry,Department,,,,23,MADHYA PRADESH
+9.0,1382,Department of Energy,Department,,,,23,MADHYA PRADESH
+10.0,776,Department of Farmers Welfare and Agriculture Development,Department,,,,23,MADHYA PRADESH
+11.0,775,Department of Fishermen welfare and Fisheries Development,Department,,,,23,MADHYA PRADESH
+12.0,758,"Department of Food, Civil Supplies & Consumer Protection",Department,,,,23,MADHYA PRADESH
+13.0,761,Department of Industry Policy and Investment Promotion,Department,,,,23,MADHYA PRADESH
+14.0,774,Department of Labour Welfare,Department,,,,23,MADHYA PRADESH
+15.0,475,Department of Panchayati Raj and RD,Department,,,,23,MADHYA PRADESH
+16.0,770,Department of Public Relations,Department,,,,23,MADHYA PRADESH
+17.0,701,Department of Revenue and General Administration,Department,,,,23,MADHYA PRADESH
+18.0,1381,Department of Science & Technology,Department,,,,23,MADHYA PRADESH
+19.0,780,Department of Technical Education & Skill Development,Department,,,,23,MADHYA PRADESH
+20.0,2113,Directorate Local Fund Audit Madhya Pradesh,Department,,,,23,MADHYA PRADESH
+21.0,895,Election Commission,Department,,,,23,MADHYA PRADESH
+22.0,764,Employment Department,Department,,,,23,MADHYA PRADESH
+23.0,763,Excise Department,Department,,,,23,MADHYA PRADESH
+24.0,759,Finance Department,Department,,,,23,MADHYA PRADESH
+25.0,768,General Administration Department,Department,,,,23,MADHYA PRADESH
+26.0,772,Higher Education Department,Department,,,,23,MADHYA PRADESH
+27.0,757,Home Department,Department,,,,23,MADHYA PRADESH
+28.0,792,Home Department MP,Department,,,,23,MADHYA PRADESH
+29.0,777,Horticulture and Food Processing Department,Department,,,,23,MADHYA PRADESH
+30.0,797,Institutional Finance Department,Department,,,,23,MADHYA PRADESH
+31.0,773,Mineral Resources Department,Department,,,,23,MADHYA PRADESH
+32.0,771,Planning Economic and Statistics Department,Department,,,,23,MADHYA PRADESH
+33.0,152,Public Health and Family Welfare Department,Department,,,,23,MADHYA PRADESH
+34.0,788,Public Health Engineering Department,Department,,,,23,MADHYA PRADESH
+35.0,789,Public Work Department,Department,,,,23,MADHYA PRADESH
+36.0,791,Revenue Department,Department,,,,23,MADHYA PRADESH
+37.0,765,School Education Department,Department,,,,23,MADHYA PRADESH
+38.0,1251,Social Justice and Disabled Persons Welfare Department,Department,,,,23,MADHYA PRADESH
+39.0,25,Test Department,Department,,,,23,MADHYA PRADESH
+40.0,760,Tribal Affairs Department,Department,,,,23,MADHYA PRADESH
+41.0,742,Urban Administration and Housing Department,Department,,,,23,MADHYA PRADESH
+42.0,894,Urban Development Department,Department,,,,23,MADHYA PRADESH
+43.0,790,Water Resources Department,Department,,,,23,MADHYA PRADESH
+44.0,767,Women and Child Development Department,Department,,,,23,MADHYA PRADESH
+45.0,2221,DIRECTORATE OF PANCHAYAT RAJ,Organization,475,Department of Panchayati Raj and RD,Department,23,MADHYA PRADESH
+46.0,147,SIRD,Organization,475,Department of Panchayati Raj and RD,Department,23,MADHYA PRADESH
+47.0,2247,Water and Land Management Institute,Organization,,,Department,23,MADHYA PRADESH
+1.0,54,"Agriculture, Animal Husbandry,Dairy Devlp. And Fishries Department",Department,,,,27,MAHARASHTRA
+2.0,479,Department of Panchayati Raj and RD,Department,,,,27,MAHARASHTRA
+3.0,2137,Directorate of Local Fund Accounts Audit,Department,,,,27,MAHARASHTRA
+4.0,2154,Directorate Of Local Fund Accounts Audit Maharashtra,Department,,,,27,MAHARASHTRA
+5.0,939,Election Commission,Department,,,,27,MAHARASHTRA
+6.0,68,Higher Technical Education Department,Department,,,,27,MAHARASHTRA
+7.0,70,Home Department,Department,,,,27,MAHARASHTRA
+8.0,53,"Industry, Energy And Labour Department",Department,,,,27,MAHARASHTRA
+9.0,71,Planning Department,Department,,,,27,MAHARASHTRA
+10.0,58,Public Health And Family Welfare Department,Department,,,,27,MAHARASHTRA
+11.0,67,Public Work Department,Department,,,,27,MAHARASHTRA
+12.0,2271,Relief and Rehabilitation Department,Department,,,,27,MAHARASHTRA
+13.0,55,Revenue And Forest Department,Department,,,,27,MAHARASHTRA
+14.0,328,Rural Development And Water Conservation Department,Department,,,,27,MAHARASHTRA
+15.0,57,School Education And Sports Department,Department,,,,27,MAHARASHTRA
+16.0,66,Social Justice And Special Assistant Department,Department,,,,27,MAHARASHTRA
+17.0,29,Test Department,Department,,,,27,MAHARASHTRA
+18.0,327,Tourism And Culture Affairs Department,Department,,,,27,MAHARASHTRA
+19.0,1583,Transport Department,Department,,,,27,MAHARASHTRA
+20.0,69,Tribal Development Department,Department,,,,27,MAHARASHTRA
+21.0,330,Urban Development Department,Department,,,,27,MAHARASHTRA
+22.0,329,Water Resources And CADA Departrment,Department,,,,27,MAHARASHTRA
+23.0,56,Water Supply And Sanitation Department,Department,,,,27,MAHARASHTRA
+24.0,65,Woman And Child Development Department,Department,,,,27,MAHARASHTRA
+25.0,132,SIRD,Organization,479,Department of Panchayati Raj and RD,Department,27,MAHARASHTRA
+1.0,720,Department of Commerce & Industries,Department,,,,14,MANIPUR
+2.0,2203,Department of Fisheries,Department,,,,14,MANIPUR
+3.0,470,Department of Panchayati Raj and RD,Department,,,,14,MANIPUR
+4.0,2211,Department of Tribal Affairs and Hills,Department,,,,14,MANIPUR
+5.0,1043,"Dept of Social Welfare, WCD",Department,,,,14,MANIPUR
+6.0,2149,"Directorate of Local Fund Audit, Manipur",Department,,,,14,MANIPUR
+7.0,898,Election Commission,Department,,,,14,MANIPUR
+8.0,721,Pollution Control Board,Department,,,,14,MANIPUR
+9.0,897,Revenue Department,Department,,,,14,MANIPUR
+10.0,2241,State Health Society Manipur,Department,,,,14,MANIPUR
+11.0,16,Test Department,Department,,,,14,MANIPUR
+12.0,2210,test dept,Department,,,,14,MANIPUR
+13.0,2206,Tribal Affairs and Hills,Department,,,,14,MANIPUR
+14.0,896,Urban Development Department,Department,,,,14,MANIPUR
+15.0,127,SIRD,Organization,470,Department of Panchayati Raj and RD,Department,14,MANIPUR
+1.0,174,Administrative Reforms Cell,Department,,,,17,MEGHALAYA
+2.0,175,Agriculture,Department,,,,17,MEGHALAYA
+3.0,1389,Agriculture Department,Department,,,,17,MEGHALAYA
+4.0,190,Animal Husbandry and Veterinary,Department,,,,17,MEGHALAYA
+5.0,189,Arts and Culture,Department,,,,17,MEGHALAYA
+6.0,191,Border Areas Development,Department,,,,17,MEGHALAYA
+7.0,192,Cabinet Affairs,Department,,,,17,MEGHALAYA
+8.0,193,Chief Ministers Secretariat,Department,,,,17,MEGHALAYA
+9.0,194,Communications,Department,,,,17,MEGHALAYA
+10.0,195,Community and Rural Development,Department,,,,17,MEGHALAYA
+11.0,196,Co-Operation,Department,,,,17,MEGHALAYA
+12.0,527,Department of Commerce and Industries,Department,,,,17,MEGHALAYA
+13.0,523,Department of Cooperative Societies,Department,,,,17,MEGHALAYA
+14.0,526,Department of Forest,Department,,,,17,MEGHALAYA
+15.0,531,Department of Handloom,Department,,,,17,MEGHALAYA
+16.0,528,Department of MeECL,Department,,,,17,MEGHALAYA
+17.0,472,Department of Panchayati Raj and RD,Department,,,,17,MEGHALAYA
+18.0,525,Department of Planning,Department,,,,17,MEGHALAYA
+19.0,524,Department of Public Health,Department,,,,17,MEGHALAYA
+20.0,577,Department of Social Welfare,Department,,,,17,MEGHALAYA
+21.0,529,Department of Urban Affairs,Department,,,,17,MEGHALAYA
+22.0,522,Department of Water Resources,Department,,,,17,MEGHALAYA
+23.0,197,District Council Affairs,Department,,,,17,MEGHALAYA
+24.0,198,Education,Department,,,,17,MEGHALAYA
+25.0,199,Election,Department,,,,17,MEGHALAYA
+26.0,456,"Excise, Registration and Taxation",Department,,,,17,MEGHALAYA
+27.0,457,Finance,Department,,,,17,MEGHALAYA
+28.0,458,Fisheries,Department,,,,17,MEGHALAYA
+29.0,459,Food and Civil Supplies,Department,,,,17,MEGHALAYA
+30.0,1290,Food Civil Supplies and Consumer Affairs Department,Department,,,,17,MEGHALAYA
+31.0,219,Forest,Department,,,,17,MEGHALAYA
+32.0,460,General Administration,Department,,,,17,MEGHALAYA
+33.0,461,Health and Family Welfare,Department,,,,17,MEGHALAYA
+34.0,462,Home,Department,,,,17,MEGHALAYA
+35.0,578,Home Department Police,Department,,,,17,MEGHALAYA
+36.0,39,Housing,Department,,,,17,MEGHALAYA
+37.0,40,Industries,Department,,,,17,MEGHALAYA
+38.0,41,Information and Public Relations,Department,,,,17,MEGHALAYA
+39.0,218,Information Technology Department,Department,,,,17,MEGHALAYA
+40.0,42,Labour,Department,,,,17,MEGHALAYA
+41.0,1279,Labour Department,Department,,,,17,MEGHALAYA
+42.0,43,Law,Department,,,,17,MEGHALAYA
+43.0,1493,Legal Metrology Department,Department,,,,17,MEGHALAYA
+44.0,530,Meghalaya Rural Development Society,Department,,,,17,MEGHALAYA
+45.0,44,Mining and Geology,Department,,,,17,MEGHALAYA
+46.0,45,Municipal Administration,Department,,,,17,MEGHALAYA
+47.0,46,Parliamentary Affairs,Department,,,,17,MEGHALAYA
+48.0,47,Personnel and A.R.,Department,,,,17,MEGHALAYA
+49.0,48,Planning,Department,,,,17,MEGHALAYA
+50.0,49,Political,Department,,,,17,MEGHALAYA
+51.0,579,Political Department,Department,,,,17,MEGHALAYA
+52.0,200,Power,Department,,,,17,MEGHALAYA
+53.0,201,Printing and Stationery,Department,,,,17,MEGHALAYA
+54.0,202,Programme Implementation,Department,,,,17,MEGHALAYA
+55.0,203,Public Health Engineering,Department,,,,17,MEGHALAYA
+56.0,204,Public Works Department,Department,,,,17,MEGHALAYA
+57.0,205,Reorganisation,Department,,,,17,MEGHALAYA
+58.0,206,Revenue,Department,,,,17,MEGHALAYA
+59.0,2160,Revenue and Disaster Management Department,Department,,,,17,MEGHALAYA
+60.0,207,Secretariat Administration,Department,,,,17,MEGHALAYA
+61.0,208,Sericulture and Weaving,Department,,,,17,MEGHALAYA
+62.0,209,Social Welfare,Department,,,,17,MEGHALAYA
+63.0,210,Soil Conservation,Department,,,,17,MEGHALAYA
+64.0,211,Sports and Youth Welfare,Department,,,,17,MEGHALAYA
+65.0,212,State Level Public Grievances Cell,Department,,,,17,MEGHALAYA
+66.0,2322,State Rural Employment Society (SRES) C&RD,Department,,,,17,MEGHALAYA
+67.0,19,Test Department,Department,,,,17,MEGHALAYA
+68.0,213,Tourism,Department,,,,17,MEGHALAYA
+69.0,217,Trade including Border Trade Department,Department,,,,17,MEGHALAYA
+70.0,214,Transport,Department,,,,17,MEGHALAYA
+71.0,215,Urban Development,Department,,,,17,MEGHALAYA
+72.0,216,Weights and Measures,Department,,,,17,MEGHALAYA
+73.0,129,State Institute of Rural Development,Organization,472,Department of Panchayati Raj and RD,Department,17,MEGHALAYA
+1.0,1259,Agriculture Department,Department,,,,15,MIZORAM
+2.0,1263,AH & Vety Department,Department,,,,15,MIZORAM
+3.0,1270,Art & Culture Department,Department,,,,15,MIZORAM
+4.0,1262,Commerce and Industries Department,Department,,,,15,MIZORAM
+5.0,471,Department of Panchayati Raj and RD,Department,,,,15,MIZORAM
+6.0,1044,"Dept of Social Welfare, WCD",Department,,,,15,MIZORAM
+7.0,2148,Director of Local Fund Audit,Department,,,,15,MIZORAM
+8.0,901,Election Commission,Department,,,,15,MIZORAM
+9.0,1266,Environment & Climate Change Department,Department,,,,15,MIZORAM
+10.0,1267,Fisheries Department,Department,,,,15,MIZORAM
+11.0,1264,"Food, Civil Supplies & Consumer Affairs Department",Department,,,,15,MIZORAM
+12.0,1258,Health & Family Welfare,Department,,,,15,MIZORAM
+13.0,1260,Higher & Technical Education,Department,,,,15,MIZORAM
+14.0,1401,Home Department,Department,,,,15,MIZORAM
+15.0,599,Khadi & Village Industries Commission (Mizoram),Department,,,,15,MIZORAM
+16.0,755,Local Administrative Department,Department,,,,15,MIZORAM
+17.0,1268,Minor Irrigation Department,Department,,,,15,MIZORAM
+18.0,1058,Mizoram State Transport Department,Department,,,,15,MIZORAM
+19.0,1265,Power & Electricity Department,Department,,,,15,MIZORAM
+20.0,1269,Public Health Engineering Department,Department,,,,15,MIZORAM
+21.0,1257,Public Works Department,Department,,,,15,MIZORAM
+22.0,899,Revenue Department,Department,,,,15,MIZORAM
+23.0,1271,Rural Development Department,Department,,,,15,MIZORAM
+24.0,1261,School Education Department,Department,,,,15,MIZORAM
+25.0,1053,Social Welfare,Department,,,,15,MIZORAM
+26.0,17,Test Department,Department,,,,15,MIZORAM
+27.0,1055,Transport Department,Department,,,,15,MIZORAM
+28.0,900,Urban Development Department,Department,,,,15,MIZORAM
+29.0,615,Axis Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+30.0,609,Bank of Baroda,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+31.0,605,Bank of India,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+32.0,614,Bank of Maharastra,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+33.0,610,Canara Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+34.0,606,Central Bank of India,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+35.0,1056,Directorate of Social Welfare Department,Organization,1044,"Dept of Social Welfare, WCD",Department,15,MIZORAM
+36.0,1057,Directorate Transport Department,Organization,1055,Transport Department,Department,15,MIZORAM
+37.0,622,Federal Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+38.0,616,HDFC Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+39.0,619,ICICI Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+40.0,604,IDBI Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+41.0,611,Indian Overseas Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+42.0,617,Indusind Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+43.0,621,Mizoram Cooperative Apex Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+44.0,607,Punjab National Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+45.0,612,Punjab & Sind Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+46.0,128,SIRD,Organization,471,Department of Panchayati Raj and RD,Department,15,MIZORAM
+47.0,1144,Social Welfare Department,Organization,1053,Social Welfare,Department,15,MIZORAM
+48.0,620,South Indian Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+49.0,600,State Bank Of India,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+50.0,603,Syndicate Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+51.0,601,UCO Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+52.0,613,Union Bank of India,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+53.0,602,United Bank of India,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+54.0,608,Vijaya Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+55.0,618,Yes Bank,Organization,599,Khadi & Village Industries Commission (Mizoram),Department,15,MIZORAM
+1.0,469,Department of Panchayati Raj and RD,Department,,,,13,NAGALAND
+2.0,1045,"Dept of Social Welfare, WCD",Department,,,,13,NAGALAND
+3.0,903,Directorate of Municipal Affairs,Department,,,,13,NAGALAND
+4.0,904,Election Commission,Department,,,,13,NAGALAND
+5.0,2529,"Employment, Skill Development and Entrepreneurship",Department,,,,13,NAGALAND
+6.0,1627,Home Department,Department,,,,13,NAGALAND
+7.0,902,Revenue Department,Department,,,,13,NAGALAND
+8.0,1653,SCHOOL EDUCATION,Department,,,,13,NAGALAND
+9.0,15,Test Department,Department,,,,13,NAGALAND
+10.0,1654,NAGALAND BOARD OF SCHOOL EDUCATION,Organization,1653,SCHOOL EDUCATION,Department,13,NAGALAND
+11.0,126,SIRD,Organization,469,Department of Panchayati Raj and RD,Department,13,NAGALAND
+1.0,62,Agriculture,Department,,,,21,ODISHA
+2.0,1289,COMMERCE AND TRANSPORT,Department,,,,21,ODISHA
+3.0,317,Department Of Health and Family Welfare Odisha,Department,,,,21,ODISHA
+4.0,2325,Direcotr Public,Department,,,,21,ODISHA
+5.0,737,Directorate of Agriculture and Food Production,Department,,,,21,ODISHA
+6.0,785,Directorate of Family Welfare,Department,,,,21,ODISHA
+7.0,736,Directorate of Horticulture,Department,,,,21,ODISHA
+8.0,2112,"Directorate of Local Fund Audit, Odisha",Department,,,,21,ODISHA
+9.0,1425,Directorate of Public Health,Department,,,,21,ODISHA
+10.0,2324,Director Public,Department,,,,21,ODISHA
+11.0,905,Election Commission,Department,,,,21,ODISHA
+12.0,176,Energy,Department,,,,21,ODISHA
+13.0,1629,Finance Department,Department,,,,21,ODISHA
+14.0,64,Fisheries and Animal Husbandary,Department,,,,21,ODISHA
+15.0,1022,Fisheries and Animal Resources Development,Department,,,,21,ODISHA
+16.0,63,Forest and Environment,Department,,,,21,ODISHA
+17.0,1291,General Administration Department,Department,,,,21,ODISHA
+18.0,1049,"Handlooms,Textiles & Handicraft",Department,,,,21,ODISHA
+19.0,584,Higher Education Department,Department,,,,21,ODISHA
+20.0,1424,HOME DEPARTMENT,Department,,,,21,ODISHA
+21.0,322,Horticulture Department,Department,,,,21,ODISHA
+22.0,320,Housing and Urban Development,Department,,,,21,ODISHA
+23.0,319,Industries,Department,,,,21,ODISHA
+24.0,999,"ODIA LANGUAGE,LITERATURE & CULTURE DEPARTMENT",Department,,,,21,ODISHA
+25.0,516,Panchayati Raj and Drinking Water Department,Department,,,,21,ODISHA
+26.0,325,Public Enterprises,Department,,,,21,ODISHA
+27.0,798,Revenue and Disaster Management Department,Department,,,,21,ODISHA
+28.0,51,Rural Development Department,Department,,,,21,ODISHA
+29.0,316,School and Mass Education,Department,,,,21,ODISHA
+30.0,323,Science and Technology,Department,,,,21,ODISHA
+31.0,61,"ST and SC Development,Minorities and Backward Classes Welfare",Department,,,,21,ODISHA
+32.0,23,Test Department,Department,,,,21,ODISHA
+33.0,318,Textiles and Handloom,Department,,,,21,ODISHA
+34.0,324,Water Resources,Department,,,,21,ODISHA
+35.0,60,Women and Child Development,Department,,,,21,ODISHA
+36.0,321,Works,Department,,,,21,ODISHA
+37.0,596,Council of Higher Secondary Education,Organization,584,Higher Education Department,Department,21,ODISHA
+38.0,1029,Dhenkanal Regional Improvement Trust,Organization,320,Housing and Urban Development,Department,21,ODISHA
+39.0,1030,Directorate of Animal Husbandry and Veterinary Services,Organization,1022,Fisheries and Animal Resources Development,Department,21,ODISHA
+40.0,2097,Directorate of Fisheries,Organization,1022,Fisheries and Animal Resources Development,Department,21,ODISHA
+41.0,1630,Directorate of Local Fund Audit,Organization,1629,Finance Department,Department,21,ODISHA
+42.0,2191,Directorate of Odia Language Literature and Culture,Organization,999,"ODIA LANGUAGE,LITERATURE & CULTURE DEPARTMENT",Department,21,ODISHA
+43.0,1145,Directorate of Textiles,Organization,1049,"Handlooms,Textiles & Handicraft",Department,21,ODISHA
+44.0,1622,DIRECTOR GENERAL OF POLICE,Organization,1424,HOME DEPARTMENT,Department,21,ODISHA
+45.0,1633,Engineer In Chief cum Principal Chief Electrical Inspector Odisha Bhubaneswar,Organization,176,Energy,Department,21,ODISHA
+46.0,1292,Gopabandhu Academy Of Administration,Organization,1291,General Administration Department,Department,21,ODISHA
+47.0,1511,HIGH COURT OF ORISSA,Organization,1424,HOME DEPARTMENT,Department,21,ODISHA
+48.0,2543,Odisha Hydro Power Corporation,Organization,176,Energy,Department,21,ODISHA
+49.0,2192,Odisha Sahitya Academi BBSR,Organization,999,"ODIA LANGUAGE,LITERATURE & CULTURE DEPARTMENT",Department,21,ODISHA
+50.0,2470,Odisha State Museum,Organization,999,"ODIA LANGUAGE,LITERATURE & CULTURE DEPARTMENT",Department,21,ODISHA
+51.0,2251,Odisha University of Agriculture and Technology Bhubaneswar,Organization,62,Agriculture,Department,21,ODISHA
+52.0,131,SIRD,Organization,51,Rural Development Department,Department,21,ODISHA
+53.0,1295,STATE TRANSPORT AUTHORITY,Organization,1289,COMMERCE AND TRANSPORT,Department,21,ODISHA
+1.0,1229,Department of Civil Supplies and Consumer Affairs,Department,,,,34,PUDUCHERRY
+2.0,2517,Department of Drugs Control,Department,,,,34,PUDUCHERRY
+3.0,1220,Department of Fisheries and Fishermen Welfare,Department,,,,34,PUDUCHERRY
+4.0,906,Department of Panchayati Raj and RD,Department,,,,34,PUDUCHERRY
+5.0,1420,Department of Tourism,Department,,,,34,PUDUCHERRY
+6.0,1046,"Dept of Social Welfare, WCD",Department,,,,34,PUDUCHERRY
+7.0,2239,Directorate of Information Technology,Department,,,,34,PUDUCHERRY
+8.0,2476,Directorate of Social Welfare,Department,,,,34,PUDUCHERRY
+9.0,909,Election Commission,Department,,,,34,PUDUCHERRY
+10.0,2248,FIRE SERVICE DEPARTMENT,Department,,,,34,PUDUCHERRY
+11.0,1540,Home Department,Department,,,,34,PUDUCHERRY
+12.0,1553,Labour Department,Department,,,,34,PUDUCHERRY
+13.0,1662,Law Department,Department,,,,34,PUDUCHERRY
+14.0,484,Local Administration Department,Department,,,,34,PUDUCHERRY
+15.0,1530,Office of the Controller of Legal Metrology,Department,,,,34,PUDUCHERRY
+16.0,1214,O/o The Controller of Legal Metrology,Department,,,,34,PUDUCHERRY
+17.0,907,Revenue Department,Department,,,,34,PUDUCHERRY
+18.0,36,Test Department,Department,,,,34,PUDUCHERRY
+19.0,908,Urban Development Department,Department,,,,34,PUDUCHERRY
+20.0,159,SIRD,Organization,484,Local Administration Department,Department,34,PUDUCHERRY
+1.0,237,Department Of Agriculture,Department,,,,3,PUNJAB
+2.0,236,Department of Animal Husbandry,Department,,,,3,PUNJAB
+3.0,1334,Department of Civil Aviation,Department,,,,3,PUNJAB
+4.0,1335,Department of Cooperation,Department,,,,3,PUNJAB
+5.0,399,Department of Dairy Development,Department,,,,3,PUNJAB
+6.0,1336,Department of Defence Services Welfare,Department,,,,3,PUNJAB
+7.0,409,Department of Drainage,Department,,,,3,PUNJAB
+8.0,400,Department Of Education,Department,,,,3,PUNJAB
+9.0,1337,Department of Excise & Taxation,Department,,,,3,PUNJAB
+10.0,1338,Department of Finance,Department,,,,3,PUNJAB
+11.0,240,Department of Fishery,Department,,,,3,PUNJAB
+12.0,1339,"Department of Food, Civil Supplies and Consumer Affairs",Department,,,,3,PUNJAB
+13.0,401,Department Of Forest And Wild Life Preservation,Department,,,,3,PUNJAB
+14.0,1340,Department of General Administration,Department,,,,3,PUNJAB
+15.0,402,Department of Health and Family Welfare,Department,,,,3,PUNJAB
+16.0,1333,Department of Home Affairs & Jails,Department,,,,3,PUNJAB
+17.0,238,Department of Horticulture,Department,,,,3,PUNJAB
+18.0,1341,Department of Housing & Urban Development,Department,,,,3,PUNJAB
+19.0,415,"Department of Industries and Commerce, Punjab",Department,,,,3,PUNJAB
+20.0,1342,Department of Information & Public Relation,Department,,,,3,PUNJAB
+21.0,1343,Department of information Technology,Department,,,,3,PUNJAB
+22.0,1344,Department of Investment Promotion,Department,,,,3,PUNJAB
+23.0,404,Department of Irrigation,Department,,,,3,PUNJAB
+24.0,1345,Department of Labour,Department,,,,3,PUNJAB
+25.0,1346,Department of Legal and Legislative Affairs,Department,,,,3,PUNJAB
+26.0,1383,DEPARTMENT OF MINES AND GEOLOGY,Department,,,,3,PUNJAB
+27.0,1347,Department of Personnel,Department,,,,3,PUNJAB
+28.0,1348,Department of Planning,Department,,,,3,PUNJAB
+29.0,235,Department of Public Works,Department,,,,3,PUNJAB
+30.0,1349,"Department of Revenue, Rehabilitation & Disaster Management",Department,,,,3,PUNJAB
+31.0,234,Department of Rural Development and Panchayats,Department,,,,3,PUNJAB
+32.0,1350,"Department of Science, Technology & Environment",Department,,,,3,PUNJAB
+33.0,2516,"Department of Social Justice, Empowerment and Minorities",Department,,,,3,PUNJAB
+34.0,406,Department of Social Wefare,Department,,,,3,PUNJAB
+35.0,239,DEPARTMENT OF SOIL AND WATER CONSERVATION,Department,,,,3,PUNJAB
+36.0,410,Department of Sports and Youth Services,Department,,,,3,PUNJAB
+37.0,1351,Department of Tourism and Cultural Affairs,Department,,,,3,PUNJAB
+38.0,1352,Department of Transport,Department,,,,3,PUNJAB
+39.0,412,Department of Urban Local Bodies,Department,,,,3,PUNJAB
+40.0,1353,Department of Vigilance,Department,,,,3,PUNJAB
+41.0,408,Department of Water Supply and Sewerage Board,Department,,,,3,PUNJAB
+42.0,403,Department of Water Supply Sanitation,Department,,,,3,PUNJAB
+43.0,1354,Department of Welfare of Pensioner,Department,,,,3,PUNJAB
+44.0,407,Department Of Welfare of Scheduled Castes and Backward Classes,Department,,,,3,PUNJAB
+45.0,405,Department of Women and Child Development,Department,,,,3,PUNJAB
+46.0,1384,DIRECTOR LAND RECORDS AND CONSOLIDATION,Department,,,,3,PUNJAB
+47.0,1355,Economic and Statistical Organization,Department,,,,3,PUNJAB
+48.0,910,Election Commission,Department,,,,3,PUNJAB
+49.0,2121,Examiner Local Fund & Accounts Punjab,Department,,,,3,PUNJAB
+50.0,2122,"Examiner Local Fund & Accounts, PUNJAB",Department,,,,3,PUNJAB
+51.0,2124,"Examiner Local Fund and Accounts, PUNJAB",Department,,,,3,PUNJAB
+52.0,2267,Punjab Heritage and Tourism Promotion Board,Department,,,,3,PUNJAB
+53.0,413,Punjab Infrastructure Development Board,Department,,,,3,PUNJAB
+54.0,414,Punjab Mandi Board,Department,,,,3,PUNJAB
+55.0,411,Punjab Sate Power Corporation Limited,Department,,,,3,PUNJAB
+56.0,940,Revenue Department,Department,,,,3,PUNJAB
+57.0,2123,State Audit Department,Department,,,,3,PUNJAB
+58.0,5,Test Department,Department,,,,3,PUNJAB
+59.0,2354,Punjab School Education Board,Organization,400,Department Of Education,Department,3,PUNJAB
+60.0,103,State Institute of Rural Development (SIRD),Organization,234,Department of Rural Development and Panchayats,Department,3,PUNJAB
+1.0,950,Agriculture Department,Department,,,,8,RAJASTHAN
+2.0,959,Ajmer Vidyut Vitran Nigam Ltd,Department,,,,8,RAJASTHAN
+3.0,954,Cooperative Department,Department,,,,8,RAJASTHAN
+4.0,957,Dairy,Department,,,,8,RAJASTHAN
+5.0,961,Departmant Commercial taxes,Department,,,,8,RAJASTHAN
+6.0,951,Department of Animal Husbandary,Department,,,,8,RAJASTHAN
+7.0,952,Department of Anti Corruption,Department,,,,8,RAJASTHAN
+8.0,953,Department of Circuit House,Department,,,,8,RAJASTHAN
+9.0,955,Department of Cooperative Society,Department,,,,8,RAJASTHAN
+10.0,956,Department of Education (Higher),Department,,,,8,RAJASTHAN
+11.0,964,Department of Information Technology & Communication,Department,,,,8,RAJASTHAN
+12.0,971,Department of Medical Health and Family Welfare,Department,,,,8,RAJASTHAN
+13.0,972,Department of Mines & Geology,Department,,,,8,RAJASTHAN
+14.0,973,Department of Minority Affairs & Waqf,Department,,,,8,RAJASTHAN
+15.0,686,Department of Revenue,Department,,,,8,RAJASTHAN
+16.0,1063,Department of Telecommunications,Department,,,,8,RAJASTHAN
+17.0,968,Directorate of Horticulture,Department,,,,8,RAJASTHAN
+18.0,1207,Directorate of Secondary Education,Department,,,,8,RAJASTHAN
+19.0,913,Election Commission,Department,,,,8,RAJASTHAN
+20.0,965,Excise Department,Department,,,,8,RAJASTHAN
+21.0,986,Finance Departmant,Department,,,,8,RAJASTHAN
+22.0,966,Food Corporation of India,Department,,,,8,RAJASTHAN
+23.0,988,Forest Department,Department,,,,8,RAJASTHAN
+24.0,960,General Administration Department,Department,,,,8,RAJASTHAN
+25.0,2184,Local Fund Audit Department,Department,,,,8,RAJASTHAN
+26.0,2185,Local Fund Audit Department Rajasthan,Department,,,,8,RAJASTHAN
+27.0,2187,"Local Fund Audit, Rajasthan",Department,,,,8,RAJASTHAN
+28.0,962,"Ministry of Electronics & Information Technology, Government of India",Department,,,,8,RAJASTHAN
+29.0,974,Nirmal Bharat Abhiyan,Department,,,,8,RAJASTHAN
+30.0,241,panchayati raj,Department,,,,8,RAJASTHAN
+31.0,975,Passport,Department,,,,8,RAJASTHAN
+32.0,976,Public Health Engineering Department,Department,,,,8,RAJASTHAN
+33.0,978,PUBLIC WORKS DEPARTMENT,Department,,,,8,RAJASTHAN
+34.0,967,Rajasthan Civil Defense & Home Guards,Department,,,,8,RAJASTHAN
+35.0,1068,Rajasthan Skill and Livelihoods Development Corporation,Department,,,,8,RAJASTHAN
+36.0,979,Rajasthan State Road Transport Corporation,Department,,,,8,RAJASTHAN
+37.0,984,Rajasthan State Sport Council,Department,,,,8,RAJASTHAN
+38.0,911,Rural Developement,Department,,,,8,RAJASTHAN
+39.0,983,Sainik Welfare Department,Department,,,,8,RAJASTHAN
+40.0,963,Sarva Shiksha Abhiyan ,Department,,,,8,RAJASTHAN
+41.0,980,Scheduled Castes Finance and Development Corporation,Department,,,,8,RAJASTHAN
+42.0,982,Social Justice & Empowerment Department,Department,,,,8,RAJASTHAN
+43.0,981,State Insurance & Provident Fund Department,Department,,,,8,RAJASTHAN
+44.0,10,Test Department,Department,,,,8,RAJASTHAN
+45.0,977,TWENTY POINT PROGRAMME Planning Department,Department,,,,8,RAJASTHAN
+46.0,912,Urban Development Department,Department,,,,8,RAJASTHAN
+47.0,987,Urban Improvement Trust,Department,,,,8,RAJASTHAN
+48.0,970,Water Resoures Departmant,Department,,,,8,RAJASTHAN
+49.0,969,Women and Child Development Department,Department,,,,8,RAJASTHAN
+50.0,1001,Zila Parishad of Rajasthan,Department,,,,8,RAJASTHAN
+51.0,985, Directorate of Economics and Statistics,Department,,,,8,RAJASTHAN
+52.0,107,SIRD,Organization,241,panchayati raj,Department,8,RAJASTHAN
+1.0,443,"Animal Husbandry, Livestock, Fisheries Vet. Service Department",Department,,,,11,SIKKIM
+2.0,183,Building and Housing Department,Department,,,,11,SIKKIM
+3.0,184,Commerce and Industries Department,Department,,,,11,SIKKIM
+4.0,440,Cooperative Department,Department,,,,11,SIKKIM
+5.0,452,Culture Affairs Heritage Department,Department,,,,11,SIKKIM
+6.0,941,Department of Panchayati Raj,Department,,,,11,SIKKIM
+7.0,448,"Department of Personnel, AR. Trg. and Public Grievances, Career Options",Department,,,,11,SIKKIM
+8.0,182,"Development Planning, Economic Reforms and North East Council Affairs Depar",Department,,,,11,SIKKIM
+9.0,2111,Directorate of Local Fund Audit,Department,,,,11,SIKKIM
+10.0,914,Election commission,Department,,,,11,SIKKIM
+11.0,445,Energy Power Department,Department,,,,11,SIKKIM
+12.0,795,Excise (Abkari) Department,Department,,,,11,SIKKIM
+13.0,449,Finance Revenue Expenditure Department,Department,,,,11,SIKKIM
+14.0,1656,Finance Revenue Expenditure Department(Local Fund Audit Section),Department,,,,11,SIKKIM
+15.0,2166,Fire and Emergency Service Department,Department,,,,11,SIKKIM
+16.0,185,Food Civil Supplies Consumer Affairs Department,Department,,,,11,SIKKIM
+17.0,441,Food Security Agriculture Dev. Department,Department,,,,11,SIKKIM
+18.0,187,"Forest, Env. Wildlife Management",Department,,,,11,SIKKIM
+19.0,2254,Gangtok Municipal Corporation,Department,,,,11,SIKKIM
+20.0,143,"Health Care, Human Services family Welfare Department",Department,,,,11,SIKKIM
+21.0,2488,HOME DEPARTMENT,Department,,,,11,SIKKIM
+22.0,442,Horticulture Cash Crops Dev. Department,Department,,,,11,SIKKIM
+23.0,142,Human Resource Dev. Department,Department,,,,11,SIKKIM
+24.0,188,Information Technology,Department,,,,11,SIKKIM
+25.0,444,Irrigation Flood Control Department,Department,,,,11,SIKKIM
+26.0,450,Labour Department,Department,,,,11,SIKKIM
+27.0,2182,Labour Department East,Department,,,,11,SIKKIM
+28.0,451,Land Revenue Disaster Management Department,Department,,,,11,SIKKIM
+29.0,583,LAND REVENUE DISASTER MANAGEMENT DEPARTMENT,Department,,,,11,SIKKIM
+30.0,2220,Legal Metrology Unit,Department,,,,11,SIKKIM
+31.0,186,"Mines, Minerals Geology Department",Department,,,,11,SIKKIM
+32.0,997,"National Institute of Electronics & Information Technology (NIELIT), Gangtok",Department,,,,11,SIKKIM
+33.0,998,"NIELIT, Gangtok",Department,,,,11,SIKKIM
+34.0,694,POLICE HEAD QUARTER,Department,,,,11,SIKKIM
+35.0,181,Roads Bridges Department,Department,,,,11,SIKKIM
+36.0,439,Rural Management Dev. Department,Department,,,,11,SIKKIM
+37.0,582,RURAL MANAGEMENT DEVELOPMENT DEPARTMENT,Department,,,,11,SIKKIM
+38.0,179,Science Technology Department,Department,,,,11,SIKKIM
+39.0,447,"Social Justice, Empowerment Welfare Department",Department,,,,11,SIKKIM
+40.0,454,Sports Youth Affairs Department,Department,,,,11,SIKKIM
+41.0,13,Test Department,Department,,,,11,SIKKIM
+42.0,2534,TOURISM AND CIVIL AVIATION DEPARTMENT,Department,,,,11,SIKKIM
+43.0,144,Tourism Department,Department,,,,11,SIKKIM
+44.0,446,Transport Department,Department,,,,11,SIKKIM
+45.0,453,Urban Dev. Housing Department,Department,,,,11,SIKKIM
+46.0,180,Water Security Public Health Engineering Department,Department,,,,11,SIKKIM
+47.0,698,Directorate of Panchayati Raj,Organization,582,RURAL MANAGEMENT DEVELOPMENT DEPARTMENT,Department,11,SIKKIM
+48.0,1385,Institute of Hotel Management,Organization,144,Tourism Department,Department,11,SIKKIM
+49.0,141,SIRD,Organization,439,Rural Management Dev. Department,Department,11,SIKKIM
+1.0,1119,Adi Dravidar and Tribal Welfare Department,Department,,,,33,TAMIL NADU
+2.0,693,Agricultural Engineering Department,Department,,,,33,TAMIL NADU
+3.0,1155,"Animal Husbandry, Dairying and Fisheries Department",Department,,,,33,TAMIL NADU
+4.0,1121,"BC, MBC and Minorities Welfare Department",Department,,,,33,TAMIL NADU
+5.0,2553,Civil Supplies and Consumer Protection Department,Department,,,,33,TAMIL NADU
+6.0,1122,Commercial Taxes and Registration Department,Department,,,,33,TAMIL NADU
+7.0,627,Commissionerate of Differently Abled,Department,,,,33,TAMIL NADU
+8.0,1124,"Co-operation, Food and Consumer Protection Department",Department,,,,33,TAMIL NADU
+9.0,483,Department of Panchayati Raj and RD,Department,,,,33,TAMIL NADU
+10.0,1047,Dept of Social Welfare & Nutrition Meal Prog,Department,,,,33,TAMIL NADU
+11.0,917,Election Commission,Department,,,,33,TAMIL NADU
+12.0,1217,Energy Department,Department,,,,33,TAMIL NADU
+13.0,1216,Environment and Forests Department,Department,,,,33,TAMIL NADU
+14.0,1123,Finance Department,Department,,,,33,TAMIL NADU
+15.0,1125,"Handlooms, Handicrafts, Textiles and Khadi Department",Department,,,,33,TAMIL NADU
+16.0,1126,Health and Family Welfare Department,Department,,,,33,TAMIL NADU
+17.0,1127,HIGHER EDUCATION DEPARTMENT,Department,,,,33,TAMIL NADU
+18.0,1128,"Home, Prohibition and Excise Department",Department,,,,33,TAMIL NADU
+19.0,1129,Housing and Urban Development Department,Department,,,,33,TAMIL NADU
+20.0,1130,Industries Department,Department,,,,33,TAMIL NADU
+21.0,1241,Information Technology Department,Department,,,,33,TAMIL NADU
+22.0,1131,Labour and Employment Department,Department,,,,33,TAMIL NADU
+23.0,1120,Law Department,Department,,,,33,TAMIL NADU
+24.0,2134,Local Fund Audit Department Tamilnadu,Department,,,,33,TAMIL NADU
+25.0,2133,"Local Fund Audit Department, Tamilnadu",Department,,,,33,TAMIL NADU
+26.0,1132,"Micro , Small and Medium Enterprises Department",Department,,,,33,TAMIL NADU
+27.0,1159,Municipal Administration and Water Supply Department,Department,,,,33,TAMIL NADU
+28.0,1133,Personnel and Administrative Reforms Department,Department,,,,33,TAMIL NADU
+29.0,1134,"Planning, Development and Special Initiatives Department",Department,,,,33,TAMIL NADU
+30.0,1135,Public Department,Department,,,,33,TAMIL NADU
+31.0,1136,Public Work Department,Department,,,,33,TAMIL NADU
+32.0,916,Revenue Department,Department,,,,33,TAMIL NADU
+33.0,1137,School Education Department,Department,,,,33,TAMIL NADU
+34.0,735,Social Service Department,Department,,,,33,TAMIL NADU
+35.0,1221,Tamilnadu State Transport Corporation,Department,,,,33,TAMIL NADU
+36.0,35,Test Department,Department,,,,33,TAMIL NADU
+37.0,1138,"Tourism,Culture and Religious Endowments Department",Department,,,,33,TAMIL NADU
+38.0,915,Urban Development Department,Department,,,,33,TAMIL NADU
+39.0,1139,Youth Welfare and Sports Development Department,Department,,,,33,TAMIL NADU
+40.0,1156,Animal Husbandry Directorate,Organization,1155,"Animal Husbandry, Dairying and Fisheries Department",Department,33,TAMIL NADU
+41.0,1158,Directorate of Audit for Milk Cooperatives,Organization,1155,"Animal Husbandry, Dairying and Fisheries Department",Department,33,TAMIL NADU
+42.0,1157,Fisheries Directorate,Organization,1155,"Animal Husbandry, Dairying and Fisheries Department",Department,33,TAMIL NADU
+43.0,157,SIRD,Organization,483,Department of Panchayati Raj and RD,Department,33,TAMIL NADU
+1.0,550,Department of Panchayati Raj and RD,Department,,,,36,TELANGANA
+2.0,1048,Dept. of Women Development & Child Welfare,Department,,,,36,TELANGANA
+3.0,1664,Director of State Audit,Department,,,,36,TELANGANA
+4.0,936,Election Commission,Department,,,,36,TELANGANA
+5.0,934,Revenue Department,Department,,,,36,TELANGANA
+6.0,935,Urban Development Department,Department,,,,36,TELANGANA
+7.0,706,TELANGANA STATE INSTITUTE OF PANCHAYAT RAJ AND RURAL DEVELOPMENT,Organization,550,Department of Panchayati Raj and RD,Department,36,TELANGANA
+1.0,2244,Department of Panchayati Raj Institutions,Department,,,,38,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU
+2.0,2273,Department of Panchayati Raj & Rural Development,Department,,,,38,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU
+3.0,2243,Department of Urban Development,Department,,,,38,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU
+4.0,2242,Revenue Department,Department,,,,38,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU
+5.0,2497,Social Welfare Department DNH and DD,Department,,,,38,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU
+6.0,2240,Test department,Department,,,,38,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU
+1.0,566,"Department For Welfare Of Scs, Obcs And Minority",Department,,,,16,TRIPURA
+2.0,345,Department Of Agriculture,Department,,,,16,TRIPURA
+3.0,1628,Department of Agriculture and Farmers Welfare,Department,,,,16,TRIPURA
+4.0,77,Department of Animal Resources Development,Department,,,,16,TRIPURA
+5.0,73,Department Of Cooperation,Department,,,,16,TRIPURA
+6.0,574,Department Of Finance,Department,,,,16,TRIPURA
+7.0,1244,Department Of Fishery,Department,,,,16,TRIPURA
+8.0,572,"Department Of Food, Civil Supplies And Consumer Affairs",Department,,,,16,TRIPURA
+9.0,588,Department Of Forest Tripura,Department,,,,16,TRIPURA
+10.0,559,Department Of Home(Police),Department,,,,16,TRIPURA
+11.0,1243,Department Of Horticulture And Soil Conservation,Department,,,,16,TRIPURA
+12.0,82,Department Of Icat,Department,,,,16,TRIPURA
+13.0,1286,Department Of Industries & Commerce,Department,,,,16,TRIPURA
+14.0,1242,Department Of Information Technology,Department,,,,16,TRIPURA
+15.0,226,Department Of Labour,Department,,,,16,TRIPURA
+16.0,2223,Department Of Power,Department,,,,16,TRIPURA
+17.0,79,Department Of School Education,Department,,,,16,TRIPURA
+18.0,342,Department Of Social Education,Department,,,,16,TRIPURA
+19.0,565,Department Of Tribal Welfare,Department,,,,16,TRIPURA
+20.0,576,Department Of Urban Development,Department,,,,16,TRIPURA
+21.0,338,Departmnet Of Police,Department,,,,16,TRIPURA
+22.0,80,Dept Of Trp And Pgp,Department,,,,16,TRIPURA
+23.0,591,Directorate Of Land Records And Settlement,Department,,,,16,TRIPURA
+24.0,1655,Directorate of Local Fund Audit,Department,,,,16,TRIPURA
+25.0,1059,Directorate Of Social Welfare & Social Education,Department,,,,16,TRIPURA
+26.0,136,Director Of Panchayat,Department,,,,16,TRIPURA
+27.0,344,Economics And Statistics,Department,,,,16,TRIPURA
+28.0,561,Education Department (School),Department,,,,16,TRIPURA
+29.0,337,"EE (WR),PWD",Department,,,,16,TRIPURA
+30.0,918,Election Commission,Department,,,,16,TRIPURA
+31.0,2472,General Administration (Administrative Reforms) Department,Department,,,,16,TRIPURA
+32.0,2318,General Administration (Personnel and Training) Department,Department,,,,16,TRIPURA
+33.0,340,General Administration (Sa) Department,Department,,,,16,TRIPURA
+34.0,560,Health And Family Welfare Department,Department,,,,16,TRIPURA
+35.0,702,Home Department (Fire Service),Department,,,,16,TRIPURA
+36.0,2257,Planning (P&C) Department,Department,,,,16,TRIPURA
+37.0,1237,Public Works Department (DWS),Department,,,,16,TRIPURA
+38.0,1240,Public Works Department (PMGSY),Department,,,,16,TRIPURA
+39.0,562,Public Works Department (RandB),Department,,,,16,TRIPURA
+40.0,76,Rd Department,Department,,,,16,TRIPURA
+41.0,1276,RD(Panchayat) Department,Department,,,,16,TRIPURA
+42.0,553,Revenue Department,Department,,,,16,TRIPURA
+43.0,1516,Right To Information,Department,,,,16,TRIPURA
+44.0,575,Rural Development Department,Department,,,,16,TRIPURA
+45.0,135,Science And Technology Dept,Department,,,,16,TRIPURA
+46.0,339,"SE, PWD",Department,,,,16,TRIPURA
+47.0,589,State AG,Department,,,,16,TRIPURA
+48.0,18,Test Department,Department,,,,16,TRIPURA
+49.0,335,TSECL,Department,,,,16,TRIPURA
+50.0,2230,Commissionerate of Taxes & Excise,Organization,574,Department Of Finance,Department,16,TRIPURA
+51.0,2249,Directorate of Relief Rehabitation and Disaster Management,Organization,553,Revenue Department,Department,16,TRIPURA
+52.0,2272,Directorate of Small Savings Group Insurance and Institutional Finance,Organization,574,Department Of Finance,Department,16,TRIPURA
+53.0,2225,Electrical Inspectorate,Organization,2223,Department Of Power,Department,16,TRIPURA
+54.0,1064,Panchayat Raj Training Institute,Organization,76,Rd Department,Department,16,TRIPURA
+55.0,134,SIRD,Organization,76,Rd Department,Department,16,TRIPURA
+56.0,2535,Tripura Nursing Council,Organization,560,Health And Family Welfare Department,Department,16,TRIPURA
+57.0,2226,Tripura State Electricity Corporation Limited (TSECL),Organization,2223,Department Of Power,Department,16,TRIPURA
+1.0,428,Agriculture Dept.,Department,,,,5,UTTARAKHAND
+2.0,430,Animal Husbandry Dept.,Department,,,,5,UTTARAKHAND
+3.0,433,Cooperative Dept.,Department,,,,5,UTTARAKHAND
+4.0,432,Dairy,Department,,,,5,UTTARAKHAND
+5.0,1141,Department of Drinking Water Supply,Department,,,,5,UTTARAKHAND
+6.0,1089,Department of Economics & Statistics,Department,,,,5,UTTARAKHAND
+7.0,1087,"Department of Food, Civil Supplies & Consumer Affairs",Department,,,,5,UTTARAKHAND
+8.0,464,Department of Panchayati Raj and RD,Department,,,,5,UTTARAKHAND
+9.0,1100,Department of Revenue,Department,,,,5,UTTARAKHAND
+10.0,2125,"Directorate Of Audit, Uttarakhand",Department,,,,5,UTTARAKHAND
+11.0,723,Directorate of Soldier Welfare and Rehabilitation Board,Department,,,,5,UTTARAKHAND
+12.0,277,"DoPR, Uttarakhand",Department,,,,5,UTTARAKHAND
+13.0,426,Education Department,Department,,,,5,UTTARAKHAND
+14.0,943,Election Commission,Department,,,,5,UTTARAKHAND
+15.0,420,Electricity,Department,,,,5,UTTARAKHAND
+16.0,431,Fishry,Department,,,,5,UTTARAKHAND
+17.0,419,Forest,Department,,,,5,UTTARAKHAND
+18.0,424,Health Department,Department,,,,5,UTTARAKHAND
+19.0,1555,Home Department,Department,,,,5,UTTARAKHAND
+20.0,429,Horticulture Dept.,Department,,,,5,UTTARAKHAND
+21.0,434,Industry Dept.,Department,,,,5,UTTARAKHAND
+22.0,1090,Information Department,Department,,,,5,UTTARAKHAND
+23.0,423,Irrigation,Department,,,,5,UTTARAKHAND
+24.0,435,Khadi Dept.,Department,,,,5,UTTARAKHAND
+25.0,422,Minor Irrigation,Department,,,,5,UTTARAKHAND
+26.0,1140,Municipal Corporation,Department,,,,5,UTTARAKHAND
+27.0,418,Payjal Department,Department,,,,5,UTTARAKHAND
+28.0,417,PMGSY,Department,,,,5,UTTARAKHAND
+29.0,416,Public Work Department,Department,,,,5,UTTARAKHAND
+30.0,942,Revenue Department,Department,,,,5,UTTARAKHAND
+31.0,425,Rural Development,Department,,,,5,UTTARAKHAND
+32.0,436,Sericulture,Department,,,,5,UTTARAKHAND
+33.0,1143,Skill Development,Department,,,,5,UTTARAKHAND
+34.0,427,Social Welfare Department,Department,,,,5,UTTARAKHAND
+35.0,438,Sports,Department,,,,5,UTTARAKHAND
+36.0,7,Test Department,Department,,,,5,UTTARAKHAND
+37.0,437,Tourism,Department,,,,5,UTTARAKHAND
+38.0,1088,Training & Employment,Department,,,,5,UTTARAKHAND
+39.0,1142,Urban Development,Department,,,,5,UTTARAKHAND
+40.0,944,Urban Development Department,Department,,,,5,UTTARAKHAND
+41.0,421,Ureda,Department,,,,5,UTTARAKHAND
+42.0,2527,Uttarakhand Minority Welfare and Waqf Development Corporation,Department,,,,5,UTTARAKHAND
+43.0,1060,WOMEN EMPOWERMENT & CHILD DEVELOPMENT,Department,,,,5,UTTARAKHAND
+44.0,105,SIRD,Organization,464,Department of Panchayati Raj and RD,Department,5,UTTARAKHAND
+1.0,1011,Agriculture Department,Department,,,,9,UTTAR PRADESH
+2.0,1012,Animal Husbandry Department,Department,,,,9,UTTAR PRADESH
+3.0,1016,Bal Vikas and Pushtahar Department,Department,,,,9,UTTAR PRADESH
+4.0,1017,Bank,Department,,,,9,UTTAR PRADESH
+5.0,1007,Basic Eductaion,Department,,,,9,UTTAR PRADESH
+6.0,2126,"Chief Audit Officer, Co-operative Socities & Panchayats",Department,,,,9,UTTAR PRADESH
+7.0,2127,"Chief Audit Officer, Co-operative Socities & Panchayats UP",Department,,,,9,UTTAR PRADESH
+8.0,2196,Cooparative and Panchayat Audit Organisation U.P.,Department,,,,9,UTTAR PRADESH
+9.0,794,Department of Backward Class Welfare,Department,,,,9,UTTAR PRADESH
+10.0,1009,Department of Energy,Department,,,,9,UTTAR PRADESH
+11.0,1005,Department of Handicapt Welfare,Department,,,,9,UTTAR PRADESH
+12.0,1019,Department of Information Technology & Electronics,Department,,,,9,UTTAR PRADESH
+13.0,1332,Department of Irrigation & Water Resources,Department,,,,9,UTTAR PRADESH
+14.0,1331,Department of Land Development & water Resource,Department,,,,9,UTTAR PRADESH
+15.0,1018,Department of Land Resources,Department,,,,9,UTTAR PRADESH
+16.0,1010,Department of Medical Health & Family Welfare,Department,,,,9,UTTAR PRADESH
+17.0,1004,Department of Minority Welfare,Department,,,,9,UTTAR PRADESH
+18.0,466,Department of Panchayati Raj and RD,Department,,,,9,UTTAR PRADESH
+19.0,1006,Department of Rural Development,Department,,,,9,UTTAR PRADESH
+20.0,1008,Department of Secondary Education,Department,,,,9,UTTAR PRADESH
+21.0,1002,Department of Social Welfare,Department,,,,9,UTTAR PRADESH
+22.0,1003,Department of Woman and Child Development,Department,,,,9,UTTAR PRADESH
+23.0,1208,Department of Women Welfare,Department,,,,9,UTTAR PRADESH
+24.0,140,DoPR,Department,,,,9,UTTAR PRADESH
+25.0,921,Election Commission,Department,,,,9,UTTAR PRADESH
+26.0,1013,Food and civil Supply Department,Department,,,,9,UTTAR PRADESH
+27.0,1015,Public works Department,Department,,,,9,UTTAR PRADESH
+28.0,920,Revenue Department,Department,,,,9,UTTAR PRADESH
+29.0,1014,Rural Engineering Department,Department,,,,9,UTTAR PRADESH
+30.0,11,Test Department,Department,,,,9,UTTAR PRADESH
+31.0,919,Urban Development Department,Department,,,,9,UTTAR PRADESH
+32.0,1021,Uttar Pradesh Jal Nigam,Department,,,,9,UTTAR PRADESH
+33.0,2224,Uttar Pradesh Sainik Punarvas Nidhi,Department,,,,9,UTTAR PRADESH
+34.0,1020,Vocational Education & Skill Development,Department,,,,9,UTTAR PRADESH
+35.0,108,SIRD,Organization,466,Department of Panchayati Raj and RD,Department,9,UTTAR PRADESH
+1.0,359,Agriculture Department,Department,,,,19,WEST BENGAL
+2.0,377,Agriculture Marketing,Department,,,,19,WEST BENGAL
+3.0,362,Animal Resource Development,Department,,,,19,WEST BENGAL
+4.0,363,Backward Class Welfare,Department,,,,19,WEST BENGAL
+5.0,375,Commerce and Industries,Department,,,,19,WEST BENGAL
+6.0,366,Cottage and Small Scale Industries,Department,,,,19,WEST BENGAL
+7.0,2157,Department of Civil Administration,Department,,,,19,WEST BENGAL
+8.0,2209,Department of Disaster Management & Civil Defence,Department,,,,19,WEST BENGAL
+9.0,2156,DEPARTMENT OF FIRE AND EMERGENCY SERVICES,Department,,,,19,WEST BENGAL
+10.0,227,Department of Forest,Department,,,,19,WEST BENGAL
+11.0,386,DEPARTMENT OF HOME AND HILL AFFAIRS,Department,,,,19,WEST BENGAL
+12.0,1390,Department of Information Technology,Department,,,,19,WEST BENGAL
+13.0,1419,Department of Labour,Department,,,,19,WEST BENGAL
+14.0,1422,Department of Labour Govt of WB,Department,,,,19,WEST BENGAL
+15.0,100,DEPARTMENT OF LAND AND LAND REFORMS & REFUGEE RELIEF AND REHABILITATION,Department,,,,19,WEST BENGAL
+16.0,96,Department of Relief Rehabilitation,Department,,,,19,WEST BENGAL
+17.0,922,Department of Urban Development & Municipal Affairs,Department,,,,19,WEST BENGAL
+18.0,94,Department of Women Child Development and Social Welfare,Department,,,,19,WEST BENGAL
+19.0,388,Development and Planning,Department,,,,19,WEST BENGAL
+20.0,95,Development Planning Department,Department,,,,19,WEST BENGAL
+21.0,380,Disaster Management,Department,,,,19,WEST BENGAL
+22.0,923,Election Commission,Department,,,,19,WEST BENGAL
+23.0,2132,Examiner of Local Accounts (Comptroller and Auditor General of India),Department,,,,19,WEST BENGAL
+24.0,367,Fisheries Department,Department,,,,19,WEST BENGAL
+25.0,365,Food and Supplies,Department,,,,19,WEST BENGAL
+26.0,382,Food Processing Industries,Department,,,,19,WEST BENGAL
+27.0,368,Fruit Processing and Horticulture,Department,,,,19,WEST BENGAL
+28.0,369,Health and Family Welfare,Department,,,,19,WEST BENGAL
+29.0,370,Irrigation and Waterways,Department,,,,19,WEST BENGAL
+30.0,383,Library Education,Department,,,,19,WEST BENGAL
+31.0,361,Mass Education,Department,,,,19,WEST BENGAL
+32.0,99,Mass Education Extension,Department,,,,19,WEST BENGAL
+33.0,378,North Bengal Development,Department,,,,19,WEST BENGAL
+34.0,93,Panchayats and Rural Development Department,Department,,,,19,WEST BENGAL
+35.0,389,Paschimanchal Development,Department,,,,19,WEST BENGAL
+36.0,139,PASCHIMANCHAL UNNAYAN AFFAIRS,Department,,,,19,WEST BENGAL
+37.0,376,Power,Department,,,,19,WEST BENGAL
+38.0,374,Public Health Engineering,Department,,,,19,WEST BENGAL
+39.0,371,Public Works Department,Department,,,,19,WEST BENGAL
+40.0,372,Public Works(Roads) Department,Department,,,,19,WEST BENGAL
+41.0,2520,sa(klk),Department,,,,19,WEST BENGAL
+42.0,98,School Education,Department,,,,19,WEST BENGAL
+43.0,360,School Education Department,Department,,,,19,WEST BENGAL
+44.0,385,Science and Technology,Department,,,,19,WEST BENGAL
+45.0,387,Self Help Group,Department,,,,19,WEST BENGAL
+46.0,390,Sunderban Development,Department,,,,19,WEST BENGAL
+47.0,384,Technical Education,Department,,,,19,WEST BENGAL
+48.0,21,Test Department,Department,,,,19,WEST BENGAL
+49.0,381,Transport,Department,,,,19,WEST BENGAL
+50.0,379,Water Resource Investigation and Development,Department,,,,19,WEST BENGAL
+51.0,1391,West Bengal Electronics Industry Development Corporation Limited,Department,,,,19,WEST BENGAL
+52.0,2155,West Bengal State Electricity Distribution Corporation,Department,,,,19,WEST BENGAL
+53.0,373,Women and Child Development and Social Welfare,Department,,,,19,WEST BENGAL
+54.0,364,xxLand,Department,,,,19,WEST BENGAL
+55.0,2475,Calcutta Electric Supply Corporation,Organization,,,Department,19,WEST BENGAL
+56.0,2492,DIRECTORATE OF ELECTRICITY,Organization,376,Power,Department,19,WEST BENGAL
+57.0,2515,Kolkata Police Directorate,Organization,386,DEPARTMENT OF HOME AND HILL AFFAIRS,Department,19,WEST BENGAL
+58.0,1394,Nabadinganta Industrial Township Authority,Organization,922,Department of Urban Development & Municipal Affairs,Department,19,WEST BENGAL
+59.0,1395,New Town Kolkata Development,Organization,922,Department of Urban Development & Municipal Affairs,Department,19,WEST BENGAL
+60.0,138,SIRD,Organization,93,Panchayats and Rural Development Department,Department,19,WEST BENGAL
+61.0,2531,WB Police Directorate,Organization,386,DEPARTMENT OF HOME AND HILL AFFAIRS,Department,19,WEST BENGAL
